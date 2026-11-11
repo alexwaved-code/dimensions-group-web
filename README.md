@@ -6,6 +6,12 @@ English lives at `/en`. Traditional Chinese lives at `/zh`.
 
 **Open the site:** [https://dimensions-group-web.alexwaved.workers.dev](https://dimensions-group-web.alexwaved.workers.dev)
 
+![Home](docs/screenshots/home.png)
+
+![Catalogue](docs/screenshots/products.png)
+
+![Product](docs/screenshots/product.png)
+
 `www.dimensionsgroup.com.hk` is the name the site is written for. That hostname has no DNS record on the Cloudflare account this project deploys to, so the workers.dev address above is the one that opens.
 
 ## What is on the site

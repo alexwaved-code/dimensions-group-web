@@ -1,0 +1,5262 @@
+[
+ {
+  "id": "npcb003",
+  "slug": "rotating-head-long-handle-brush-npcb003",
+  "name": {
+   "en": "Rotating Head Long-Handle Brush",
+   "zh": "可旋轉頭長柄清潔刷"
+  },
+  "tagline": {
+   "en": "Gentle on coatings. Thorough in every corner.",
+   "zh": "輕柔護塗層，角落皆潔淨"
+  },
+  "summary": {
+   "en": "A soft-bristle kitchen brush with a rotating, detachable head that reaches into pans, sinks and corners. A practical, easy-to-stock household essential for retail ranges.",
+   "zh": "軟毛廚房清潔刷，刷頭可旋轉及拆卸，輕鬆深入鍋底、水槽與邊角。實用耐銷的家居必需品，適合零售陳列。"
+  },
+  "features": [
+   {
+    "en": "Soft bristles clean ceramic and non-stick cookware without scratching.",
+    "zh": "軟頭刷毛柔軟不刮傷，適用於陶瓷鍋及不沾鍋等易損塗層。"
+   },
+   {
+    "en": "Rotating head adjusts its angle to reach pan bases and edges.",
+    "zh": "刷頭可旋轉，靈活調整角度，深入鍋底與邊角。"
+   },
+   {
+    "en": "Detachable head for easy replacement and hygienic cleaning.",
+    "zh": "刷頭可拆卸，方便更換與清洗，保持衛生。"
+   },
+   {
+    "en": "Oil-resistant material rinses clean with minimal residue or odour.",
+    "zh": "不易沾油材質，清洗後不留油污，異味殘留少。"
+   },
+   {
+    "en": "Suitable for cookware, dishes, sinks, hobs and worktops.",
+    "zh": "適用於鍋具、碗盤、水槽、灶台及料理台。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Length",
+     "zh": "長度"
+    },
+    "value": {
+     "en": "Approx. 25cm (handle)",
+     "zh": "約 25cm（長柄）"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 73g",
+     "zh": "約 73g"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Grey",
+    "zh": "灰色"
+   },
+   {
+    "en": "Khaki",
+    "zh": "卡其色"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "kitchen brush",
+   "long handle brush",
+   "non-stick pan brush",
+   "dish brush",
+   "cleaning brush"
+  ]
+ },
+ {
+  "id": "nptb012",
+  "slug": "foldable-shopping-trolley-75l-nptb012",
+  "name": {
+   "en": "75L Foldable Shopping Trolley",
+   "zh": "75L 摺疊式購物車"
+  },
+  "tagline": {
+   "en": "Carries more. Folds away to almost nothing.",
+   "zh": "大容量載物，摺疊即收"
+  },
+  "summary": {
+   "en": "A 75L folding trolley with swivel wheels, a brake and a sturdy lid that doubles as a platform. Suited to grocery, camping and light logistics ranges.",
+   "zh": "75L 摺疊式購物車，配備萬向輪、剎車及可作平台使用的堅固頂蓋。適合購物、露營及輕型搬運等產品系列。"
+  },
+  "features": [
+   {
+    "en": "Pull flat or tilted, switching to suit the task.",
+    "zh": "平拉與斜拉雙模式，依使用情境靈活切換。"
+   },
+   {
+    "en": "2.2-inch shock-absorbing wheels with brake for smooth, secure stops.",
+    "zh": "2.2 英吋飛機輪配剎車設計，吸震平穩，停放更安心。"
+   },
+   {
+    "en": "360° swivel wheels turn easily across varied surfaces.",
+    "zh": "360 度萬向輪，轉彎順暢，應對多變地形。"
+   },
+   {
+    "en": "Reinforced body and one-piece lid that serves as a temporary platform.",
+    "zh": "加厚高強度車身配一體式頂蓋，可作平台暫放物品。"
+   },
+   {
+    "en": "Ergonomic handle stays comfortable over longer use.",
+    "zh": "人體工學握把貼合手形，長時間使用不易疲勞。"
+   },
+   {
+    "en": "Folds quickly for compact storage.",
+    "zh": "快速摺疊，收納節省空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "75L",
+     "zh": "75L"
+    }
+   },
+   {
+    "label": {
+     "en": "Wheels",
+     "zh": "輪子"
+    },
+    "value": {
+     "en": "2.2-inch, 360° swivel, with brake",
+     "zh": "2.2 英吋，360 度萬向，附剎車"
+    }
+   },
+   {
+    "label": {
+     "en": "Modes",
+     "zh": "模式"
+    },
+    "value": {
+     "en": "Flat pull / tilted pull",
+     "zh": "平拉／斜拉"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "shopping trolley",
+   "foldable cart",
+   "camping trolley",
+   "utility cart",
+   "grocery cart"
+  ]
+ },
+ {
+  "id": "nptb011",
+  "slug": "slim-wall-mounted-toilet-brush-nptb011",
+  "name": {
+   "en": "Slim Wall-Mounted TPR Toilet Brush",
+   "zh": "超薄 TPR 軟膠壁掛式廁所刷"
+  },
+  "tagline": {
+   "en": "Slim, flexible, and out of sight.",
+   "zh": "纖薄柔韌，掛牆收納"
+  },
+  "summary": {
+   "en": "A 1cm-thin TPR toilet brush that reaches under the rim and mounts to the wall without drilling. A tidy, hygienic upgrade for bathroom ranges.",
+   "zh": "厚度僅 1cm 的 TPR 軟膠廁所刷，深入馬桶內緣，免打孔掛牆安裝。整潔衛生的浴室用品之選。"
+  },
+  "features": [
+   {
+    "en": "Flexible TPR head, just 1cm thick, cleans without harming glaze.",
+    "zh": "TPR 軟膠刷頭柔韌耐刷，厚度僅 1cm，不傷釉面。"
+   },
+   {
+    "en": "Shaped to reach the inner bowl and rim edges.",
+    "zh": "潔角設計，深入馬桶內壁與邊角。"
+   },
+   {
+    "en": "Adhesive wall mount installs without drilling.",
+    "zh": "免打孔掛牆安裝，快速固定，不損牆面。"
+   },
+   {
+    "en": "Ventilated design helps the brush dry and reduces odour.",
+    "zh": "開孔透氣結構，加快瀝乾，減少異味與積水。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "TPR brush head",
+     "zh": "TPR 軟膠刷頭"
+    }
+   },
+   {
+    "label": {
+     "en": "Head thickness",
+     "zh": "刷頭厚度"
+    },
+    "value": {
+     "en": "1cm",
+     "zh": "1cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Approx. 36.7 × 8.7 × 3.9cm",
+     "zh": "約 36.7 × 8.7 × 3.9cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 82g",
+     "zh": "約 82g"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Green, with drainage holes",
+    "zh": "綠色（有水孔）"
+   },
+   {
+    "en": "Light Blue, with drainage holes",
+    "zh": "淺藍色（有水孔）"
+   },
+   {
+    "en": "Black, without drainage holes",
+    "zh": "黑色（無水孔）"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "toilet brush",
+   "wall mounted toilet brush",
+   "tpr brush",
+   "bathroom cleaning",
+   "silicone toilet brush"
+  ]
+ },
+ {
+  "id": "npfms004",
+  "slug": "slim-flat-mop-bucket-set-npfms004",
+  "name": {
+   "en": "Slim Flat Mop and Bucket Set",
+   "zh": "多角度潔淨平板拖連拖桶套裝"
+  },
+  "tagline": {
+   "en": "Clean water, dirty water, never mixed.",
+   "zh": "清污分離，一拖即淨"
+  },
+  "summary": {
+   "en": "A narrow two-compartment bucket with a built-in squeegee and flat mop, supplied with two mop pads. Designed for compact homes where storage space is limited.",
+   "zh": "窄身雙格拖桶配內置刮板及平板拖，隨附兩塊拖布。專為收納空間有限的家居而設計。"
+  },
+  "features": [
+   {
+    "en": "Narrow 12.5cm bucket fits bathrooms, kitchens and entryways.",
+    "zh": "桶身寬約 12.5cm，適合浴室、廚房及玄關等狹小空間。"
+   },
+   {
+    "en": "Separate clean and dirty water compartments.",
+    "zh": "清水與污水分槽設計，刮水與清洗同步完成。"
+   },
+   {
+    "en": "Lift-up squeegee wrings the mop without hand contact.",
+    "zh": "上提式刮水結構，快速脫水，無需手擰。"
+   },
+   {
+    "en": "Suction cups on the base keep the bucket steady.",
+    "zh": "桶底附吸盤，放置穩固不滑動。"
+   },
+   {
+    "en": "Works dry for dusting or wet for scrubbing.",
+    "zh": "乾濕兩用，乾擦除塵，濕拖去垢。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Bucket width",
+     "zh": "桶身寬度"
+    },
+    "value": {
+     "en": "Approx. 12.5cm",
+     "zh": "約 12.5cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Thick plastic",
+     "zh": "厚實塑膠"
+    }
+   },
+   {
+    "label": {
+     "en": "Included",
+     "zh": "配件"
+    },
+    "value": {
+     "en": "2 mop pads",
+     "zh": "拖布 2 塊"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "flat mop",
+   "mop bucket set",
+   "squeegee mop",
+   "floor cleaning",
+   "slim mop bucket"
+  ]
+ },
+ {
+  "id": "npad009",
+  "slug": "salt-stone-flame-aroma-diffuser-npad009",
+  "name": {
+   "en": "Salt Stone Flame Aroma Diffuser",
+   "zh": "鹽石火焰香薰加濕器"
+  },
+  "tagline": {
+   "en": "Warm light. Soft mist. Natural stone.",
+   "zh": "暖光柔霧，天然鹽石"
+  },
+  "summary": {
+   "en": "An aroma humidifier set in salt stone, with a warm flame-style glow and a 200ml tank. A distinctive piece for wellness retail and corporate gifting.",
+   "zh": "以鹽石為座的香薰加濕器，配暖光火焰效果及 200 毫升水箱。別具特色，適合健康生活零售及企業禮品。"
+  },
+  "features": [
+   {
+    "en": "Mist output of 20–33ml per hour.",
+    "zh": "每小時放濕量 20–33 毫升。"
+   },
+   {
+    "en": "Single warm light for a calm, flame-like glow.",
+    "zh": "單色暖光，營造柔和火焰氛圍。"
+   },
+   {
+    "en": "1, 3 or 6-hour timer.",
+    "zh": "1／3／6 小時定時功能。"
+   },
+   {
+    "en": "Salt stone base releases negative ions.",
+    "zh": "鹽石底座釋放負離子。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Mist output",
+     "zh": "放濕量"
+    },
+    "value": {
+     "en": "20–33ml/h",
+     "zh": "20–33 毫升／小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Water tank",
+     "zh": "水箱容量"
+    },
+    "value": {
+     "en": "200ml",
+     "zh": "200 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Input",
+     "zh": "輸入電壓"
+    },
+    "value": {
+     "en": "100–240V, 24V 0.65A",
+     "zh": "100–240V，24V 0.65A"
+    }
+   },
+   {
+    "label": {
+     "en": "Light",
+     "zh": "光源"
+    },
+    "value": {
+     "en": "Single-colour warm light",
+     "zh": "單色暖光"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時"
+    },
+    "value": {
+     "en": "1 / 3 / 6 hours",
+     "zh": "1／3／6 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Salt stone / ABS / PP",
+     "zh": "鹽石／ABS 塑料／PP 塑料"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "1.3kg",
+     "zh": "1.3kg"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "aroma diffuser",
+   "salt lamp humidifier",
+   "flame diffuser",
+   "humidifier",
+   "salt stone"
+  ]
+ },
+ {
+  "id": "npps011",
+  "slug": "pd20w-four-way-usb-power-strip-npps011",
+  "name": {
+   "en": "PD 20W Four-Way USB Power Strip",
+   "zh": "PD 20W 四位充電插座"
+  },
+  "tagline": {
+   "en": "Four outlets. Fast charging built in.",
+   "zh": "四位插座，快充內置"
+  },
+  "summary": {
+   "en": "A UK-standard four-way power strip with USB-A and 20W USB-C PD charging. A tidy, practical choice for offices, hotels and corporate desk kits.",
+   "zh": "英國制式四位拖板，內置 USB-A 及 20W USB-C PD 快充接口。整潔實用，適合辦公室、酒店及企業桌面配套。"
+  },
+  "features": [
+   {
+    "en": "UK three-pin plug standard.",
+    "zh": "英國插頭制式，三扁腳設計。"
+   },
+   {
+    "en": "USB-C port delivers PD 20W fast charging.",
+    "zh": "USB-C 接口支援 PD 20W 快充。"
+   },
+   {
+    "en": "USB-A port outputs 5V/2.4A.",
+    "zh": "USB-A 接口輸出 5V/2.4A。"
+   },
+   {
+    "en": "Rated for loads up to 13A / 3250W.",
+    "zh": "最大負載 13A／3250W。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "AC outlets",
+     "zh": "插座位"
+    },
+    "value": {
+     "en": "4",
+     "zh": "4 位"
+    }
+   },
+   {
+    "label": {
+     "en": "Input",
+     "zh": "電源輸入"
+    },
+    "value": {
+     "en": "AC 110–250V, 50/60Hz",
+     "zh": "AC 110–250V，50/60Hz"
+    }
+   },
+   {
+    "label": {
+     "en": "Max load",
+     "zh": "負載功率"
+    },
+    "value": {
+     "en": "13A / 3250W",
+     "zh": "13A／3250W"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-A output",
+     "zh": "USB-A 輸出"
+    },
+    "value": {
+     "en": "5V/2.4A",
+     "zh": "5V/2.4A"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-C output",
+     "zh": "USB-C 輸出"
+    },
+    "value": {
+     "en": "PD 20W",
+     "zh": "PD 20W"
+    }
+   },
+   {
+    "label": {
+     "en": "Total USB output",
+     "zh": "USB 總輸出"
+    },
+    "value": {
+     "en": "5V/3.4A",
+     "zh": "5V/3.4A"
+    }
+   },
+   {
+    "label": {
+     "en": "Plug",
+     "zh": "插頭"
+    },
+    "value": {
+     "en": "UK three-pin",
+     "zh": "英式三腳"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "power strip",
+   "usb extension socket",
+   "pd 20w",
+   "uk plug",
+   "charging station"
+  ]
+ },
+ {
+  "id": "npps010",
+  "slug": "pd20w-three-way-usb-power-strip-npps010",
+  "name": {
+   "en": "PD 20W Three-Way USB Power Strip",
+   "zh": "PD 20W 三位充電插座"
+  },
+  "tagline": {
+   "en": "Six devices. One compact strip.",
+   "zh": "一排插座，六機同充"
+  },
+  "summary": {
+   "en": "A UK-standard three-way power strip that charges up to six devices at once, including 20W USB-C PD. Well suited to workstations, hotel rooms and corporate gift sets.",
+   "zh": "英國制式三位拖板，最多可同時為六部裝置供電，內置 20W USB-C PD 快充。適合工作枱、酒店客房及企業禮品套裝。"
+  },
+  "features": [
+   {
+    "en": "Charges up to six devices: 3 AC, 2 USB-A and PD 20W.",
+    "zh": "最多同時為 6 部裝置充電：3 個 AC、2 個 USB-A 及 PD 20W。"
+   },
+   {
+    "en": "USB-C port delivers PD 20W fast charging.",
+    "zh": "USB-C 接口支援 PD 20W 快充。"
+   },
+   {
+    "en": "UK three-pin plug standard.",
+    "zh": "英國插頭制式，三扁腳設計。"
+   },
+   {
+    "en": "Rated for loads up to 13A / 3250W.",
+    "zh": "最大負載 13A／3250W。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Outputs",
+     "zh": "輸出組合"
+    },
+    "value": {
+     "en": "3 AC + 2 USB-A + 1 USB-C",
+     "zh": "3 AC + 2 USB-A + 1 USB-C"
+    }
+   },
+   {
+    "label": {
+     "en": "Input",
+     "zh": "電源輸入"
+    },
+    "value": {
+     "en": "AC 110–250V, 50/60Hz",
+     "zh": "AC 110–250V，50/60Hz"
+    }
+   },
+   {
+    "label": {
+     "en": "Max load",
+     "zh": "負載功率"
+    },
+    "value": {
+     "en": "13A / 3250W",
+     "zh": "13A／3250W"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-A output",
+     "zh": "USB-A 輸出"
+    },
+    "value": {
+     "en": "5V/2.4A (single port)",
+     "zh": "5V/2.4A（單口）"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-C output",
+     "zh": "USB-C 輸出"
+    },
+    "value": {
+     "en": "PD 20W",
+     "zh": "PD 20W"
+    }
+   },
+   {
+    "label": {
+     "en": "Total USB output",
+     "zh": "USB 總輸出"
+    },
+    "value": {
+     "en": "5V/3.4A",
+     "zh": "5V/3.4A"
+    }
+   },
+   {
+    "label": {
+     "en": "Plug",
+     "zh": "插頭"
+    },
+    "value": {
+     "en": "UK three-pin",
+     "zh": "英式三腳"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "power strip",
+   "usb extension socket",
+   "pd 20w",
+   "uk plug",
+   "desk charger"
+  ]
+ },
+ {
+  "id": "npdr001",
+  "slug": "aluminium-folding-drying-rack-npdr001",
+  "name": {
+   "en": "1.4m Aluminium Folding Drying Rack",
+   "zh": "1.4 米鋁合金晾衣架"
+  },
+  "tagline": {
+   "en": "Room to dry. Folds flat when done.",
+   "zh": "寬敞晾曬，摺疊收納"
+  },
+  "summary": {
+   "en": "An aluminium alloy drying rack with wings that open to 1.4m and three tiers of hanging space. Folds away neatly for compact homes.",
+   "zh": "鋁合金晾衣架，兩翼展開達 1.4 米，提供三層晾曬空間。可摺疊收納，適合小型住宅。"
+  },
+  "features": [
+   {
+    "en": "Wings extend to 1.4m.",
+    "zh": "兩翼展開長度達 1.4 米。"
+   },
+   {
+    "en": "Three tiers of drying space.",
+    "zh": "三層晾曬空間。"
+   },
+   {
+    "en": "Folds for space-saving storage.",
+    "zh": "可摺疊收納，節省空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Extended length",
+     "zh": "展開長度"
+    },
+    "value": {
+     "en": "1.4m",
+     "zh": "1.4 米"
+    }
+   },
+   {
+    "label": {
+     "en": "Tiers",
+     "zh": "層數"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 層"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Aluminium alloy",
+     "zh": "鋁合金"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "drying rack",
+   "clothes airer",
+   "aluminium rack",
+   "foldable drying rack",
+   "laundry rack"
+  ]
+ },
+ {
+  "id": "clcf005",
+  "slug": "silent-oscillating-smart-fan-clcf005",
+  "name": {
+   "en": "Silent 360° Smart Oscillating Fan",
+   "zh": "靜音全方位搖擺智能風扇"
+  },
+  "tagline": {
+   "en": "Whisper-quiet air, in every direction.",
+   "zh": "靜謐送風，全方位流轉"
+  },
+  "summary": {
+   "en": "A quiet DC brushless fan with all-direction oscillation, a remote control and tool-free cleaning. Runs from USB PD adapters or power banks for flexible placement at home or in the office.",
+   "zh": "採用 DC 無刷馬達的靜音風扇，全方位擺頭送風，附遙控器，免工具拆卸清潔。可由 USB PD 變壓器或行動電源供電，家居辦公皆可靈活擺放。"
+  },
+  "features": [
+   {
+    "en": "DC brushless motor for steady airflow and low noise, day and night.",
+    "zh": "DC 無刷馬達，風量穩定，低噪運轉，適合日夜使用。"
+   },
+   {
+    "en": "All-direction oscillation spreads air across the room.",
+    "zh": "全方位擺頭送風。"
+   },
+   {
+    "en": "Blades and guard detach without tools for quick cleaning.",
+    "zh": "無需工具即可拆卸扇葉與護罩，清潔省時。"
+   },
+   {
+    "en": "Powered by USB PD adapters or power banks rated 28W and above.",
+    "zh": "支援 28W 以上 USB PD 行動電源或 PD 變壓器供電。"
+   },
+   {
+    "en": "Remote control included.",
+    "zh": "附遙控器。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Motor",
+     "zh": "馬達"
+    },
+    "value": {
+     "en": "DC brushless",
+     "zh": "DC 無刷馬達"
+    }
+   },
+   {
+    "label": {
+     "en": "Power input",
+     "zh": "供電方式"
+    },
+    "value": {
+     "en": "USB PD, 28W or above",
+     "zh": "USB PD，28W 或以上"
+    }
+   },
+   {
+    "label": {
+     "en": "Control",
+     "zh": "操控"
+    },
+    "value": {
+     "en": "Remote control",
+     "zh": "遙控器"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "oscillating fan",
+   "silent fan",
+   "usb pd fan",
+   "dc brushless fan",
+   "desk fan"
+  ]
+ },
+ {
+  "id": "npnp3001",
+  "slug": "maifan-stone-non-stick-wok-30cm-npnp3001",
+  "name": {
+   "en": "30cm Maifan Stone Non-Stick Wok",
+   "zh": "30cm 麥飯石不沾炒鍋"
+  },
+  "tagline": {
+   "en": "Less oil. Less smoke. Easy release.",
+   "zh": "少油少煙，不沾易潔"
+  },
+  "summary": {
+   "en": "A 30cm non-stick wok with a maifan stone coating, fast-heating alloy base and clear glass lid. Works on gas, induction and ceramic hobs, making it a versatile kitchen staple.",
+   "zh": "30cm 麥飯石塗層不沾炒鍋，配快速導熱合金鍋底及透明玻璃鍋蓋。適用煤氣爐、電磁爐及電陶爐，是百搭的廚房必備鍋具。"
+  },
+  "features": [
+   {
+    "en": "Compatible with gas, induction and ceramic hobs.",
+    "zh": "適用煤氣爐、電磁爐、電陶爐等多種爐具。"
+   },
+   {
+    "en": "Maifan stone non-stick coating cooks with less oil and smoke.",
+    "zh": "麥飯石不沾塗層，輕油少煙，清洗輕鬆。"
+   },
+   {
+    "en": "Alloy base heats quickly and evenly.",
+    "zh": "聚能合金鍋底，導熱快速均勻。"
+   },
+   {
+    "en": "Ergonomic heat-resistant, non-slip handle.",
+    "zh": "人體工學手柄，防燙防滑。"
+   },
+   {
+    "en": "Clear glass lid and dual pouring spouts.",
+    "zh": "附透明玻璃鍋蓋，配雙向導流嘴。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Approx. 30cm",
+     "zh": "直徑約 30cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 940g",
+     "zh": "約 940g"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Maifan stone non-stick",
+     "zh": "麥飯石不沾塗層"
+    }
+   },
+   {
+    "label": {
+     "en": "Included",
+     "zh": "配件"
+    },
+    "value": {
+     "en": "Clear glass lid",
+     "zh": "透明玻璃鍋蓋"
+    }
+   },
+   {
+    "label": {
+     "en": "Hob compatibility",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction, ceramic",
+     "zh": "煤氣爐、電磁爐、電陶爐"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Grey",
+    "zh": "灰色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "non-stick wok",
+   "maifan stone wok",
+   "induction wok",
+   "frying pan",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npelb001",
+  "slug": "electric-heated-lunch-box-1-8l-npelb001",
+  "name": {
+   "en": "1.8L Electric Heated Lunch Box",
+   "zh": "1.8L 電熱飯盒"
+  },
+  "tagline": {
+   "en": "A warm meal, wherever the day goes.",
+   "zh": "隨時隨地，熱食在手"
+  },
+  "summary": {
+   "en": "A 1.8L heated lunch box with a 304 stainless steel inner, digital temperature control and an insulated carry bag. Runs on mains or 12V/24V vehicle power, ideal for office and travel gifting.",
+   "zh": "1.8L 電熱飯盒，配 304 不鏽鋼內膽、數顯溫控及保溫袋。可使用家用電源或 12V／24V 車載電源，適合辦公及出行禮品。"
+  },
+  "features": [
+   {
+    "en": "Digital display with smart temperature control.",
+    "zh": "智能數顯溫控。"
+   },
+   {
+    "en": "304 stainless steel inner container.",
+    "zh": "304 不鏽鋼內膽。"
+   },
+   {
+    "en": "Separable design for easy cleaning.",
+    "zh": "分體設計，方便清洗。"
+   },
+   {
+    "en": "Works on 110V/240V mains and 12V/24V vehicle power.",
+    "zh": "支援 110V／240V 家用電源及 12V／24V 車載電源。"
+   },
+   {
+    "en": "Supplied with an insulated carry bag.",
+    "zh": "附保溫袋。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1.8L",
+     "zh": "1.8L"
+    }
+   },
+   {
+    "label": {
+     "en": "Rated voltage",
+     "zh": "額定電壓"
+    },
+    "value": {
+     "en": "110V / 240V / 24V / 12V",
+     "zh": "110V／240V／24V／12V"
+    }
+   },
+   {
+    "label": {
+     "en": "Plug",
+     "zh": "插頭"
+    },
+    "value": {
+     "en": "UK standard",
+     "zh": "英規"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner container",
+     "zh": "內膽"
+    },
+    "value": {
+     "en": "304 stainless steel",
+     "zh": "304 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "24.2 × 17.0 × 11.3cm",
+     "zh": "24.2 × 17.0 × 11.3cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "electric lunch box",
+   "heated lunch box",
+   "car lunch box",
+   "food warmer",
+   "stainless steel lunch box"
+  ]
+ },
+ {
+  "id": "npap001",
+  "slug": "desktop-ioniser-aroma-air-purifier-npap001",
+  "name": {
+   "en": "Quiet Desktop Ioniser Air Purifier",
+   "zh": "桌上型靜音負離子香薰空氣淨化器"
+  },
+  "tagline": {
+   "en": "Cleaner air, close at hand.",
+   "zh": "清新空氣，近在身旁"
+  },
+  "summary": {
+   "en": "A compact air purifier with negative ion output, an aroma pad slot and a carry handle, rated at 80 m³/h CADR. Suited to desks, bedrooms and rooms under 100 sq ft.",
+   "zh": "小巧空氣淨化器，具負離子釋放、香薰棉槽及手挽設計，CADR 達 80 m³/h。適合書桌、睡房及 100 平方呎以下空間。"
+  },
+  "features": [
+   {
+    "en": "Clean air delivery rate of 80 m³/h.",
+    "zh": "CADR 潔淨空氣輸出率達 80 m³/h。"
+   },
+   {
+    "en": "High-concentration negative ions help reduce odours and airborne particles.",
+    "zh": "高濃度負離子釋放，有助去除異味與懸浮微粒。"
+   },
+   {
+    "en": "Three fan speeds with 2, 4 or 8-hour timer.",
+    "zh": "三段風速，配 2／4／8 小時定時。"
+   },
+   {
+    "en": "Operates at 25–48 dB, quiet enough for sleep and work.",
+    "zh": "運行噪音 25–48 dB，適合睡眠與辦公環境。"
+   },
+   {
+    "en": "Aroma pad slot for essential oils.",
+    "zh": "香薰棉槽設計，可加入香薰精油。"
+   },
+   {
+    "en": "Compact body with carry handle.",
+    "zh": "機身小巧，附手挽，方便移動。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "CADR",
+     "zh": "CADR"
+    },
+    "value": {
+     "en": "80 m³/h",
+     "zh": "80 m³/h"
+    }
+   },
+   {
+    "label": {
+     "en": "Fan speeds",
+     "zh": "風速"
+    },
+    "value": {
+     "en": "3 (Sleep / Mid / Hi)",
+     "zh": "3 段（Sleep／Mid／Hi）"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時"
+    },
+    "value": {
+     "en": "2 / 4 / 8 hours",
+     "zh": "2／4／8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Noise",
+     "zh": "噪音"
+    },
+    "value": {
+     "en": "25–48 dB",
+     "zh": "25–48 dB"
+    }
+   },
+   {
+    "label": {
+     "en": "Coverage",
+     "zh": "適用面積"
+    },
+    "value": {
+     "en": "Under 100 sq ft",
+     "zh": "100 平方呎以下"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Approx. 158 × 258mm",
+     "zh": "約 158 × 258mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 897g",
+     "zh": "約 897g"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "air purifier",
+   "desktop purifier",
+   "negative ion",
+   "ioniser",
+   "aroma purifier"
+  ]
+ },
+ {
+  "id": "npnp3401",
+  "slug": "maifan-stone-non-stick-wok-34cm-npnp3401",
+  "name": {
+   "en": "34cm Maifan Stone Non-Stick Wok",
+   "zh": "34cm 麥飯石不沾炒鍋"
+  },
+  "tagline": {
+   "en": "Generous size. Effortless release.",
+   "zh": "大口徑，不沾易潔"
+  },
+  "summary": {
+   "en": "A generous 34cm non-stick wok with a maifan stone coating and glass lid, supplied with a spatula and cleaning sponge. A complete, ready-to-gift cookware set for family kitchens.",
+   "zh": "34cm 大口徑麥飯石不沾炒鍋，附玻璃鍋蓋，另送鍋鏟及清潔綿。配套齊全，適合家庭廚房，亦宜作禮品。"
+  },
+  "features": [
+   {
+    "en": "Compatible with gas, induction and ceramic hobs.",
+    "zh": "適用煤氣爐、電磁爐、電陶爐等多種爐具。"
+   },
+   {
+    "en": "Maifan stone non-stick coating cooks with less oil and smoke.",
+    "zh": "麥飯石不沾塗層，輕油少煙，清洗輕鬆。"
+   },
+   {
+    "en": "Alloy base heats quickly and evenly.",
+    "zh": "聚能合金鍋底，導熱快速均勻。"
+   },
+   {
+    "en": "Ergonomic heat-resistant, non-slip handle.",
+    "zh": "人體工學手柄，防燙防滑。"
+   },
+   {
+    "en": "Clear glass lid to monitor cooking and retain moisture.",
+    "zh": "透明玻璃鍋蓋，方便觀察烹調，保留食材水分。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Approx. 34cm",
+     "zh": "直徑約 34cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 1200g",
+     "zh": "約 1200g"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Maifan stone non-stick",
+     "zh": "麥飯石不沾塗層"
+    }
+   },
+   {
+    "label": {
+     "en": "Included",
+     "zh": "配件"
+    },
+    "value": {
+     "en": "Clear glass lid, spatula, cleaning sponge",
+     "zh": "透明玻璃鍋蓋、鍋鏟、清潔綿"
+    }
+   },
+   {
+    "label": {
+     "en": "Hob compatibility",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction, ceramic",
+     "zh": "煤氣爐、電磁爐、電陶爐"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Beige",
+    "zh": "米色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "non-stick wok",
+   "maifan stone wok",
+   "large wok",
+   "induction wok",
+   "cookware set"
+  ]
+ },
+ {
+  "id": "npdc006",
+  "slug": "retractable-240w-usb-c-cable-npdc006",
+  "name": {
+   "en": "240W Retractable USB-C Fast Charging Cable",
+   "zh": "240W 伸縮超快充 Type-C 數據線"
+  },
+  "tagline": {
+   "en": "Full power. No tangles.",
+   "zh": "強勁快充，收放自如"
+  },
+  "summary": {
+   "en": "A retractable USB-C to USB-C cable delivering up to 240W for laptops, tablets and phones. Compact and colourful, it suits tech gift sets and travel kits.",
+   "zh": "雙頭 Type-C 伸縮數據線，最高輸出 240W，適用筆電、平板及手機。小巧多色，適合科技禮品及旅行套裝。"
+  },
+  "features": [
+   {
+    "en": "USB-C on both ends for PD fast charging and data transfer.",
+    "zh": "雙向 Type-C 接口，支援 PD 快充與資料傳輸。"
+   },
+   {
+    "en": "Up to 240W (48V/5A) for laptops, tablets and phones.",
+    "zh": "最高輸出 240W（48V/5A），適用筆電、平板及手機。"
+   },
+   {
+    "en": "Retracts from both sides for tangle-free storage.",
+    "zh": "雙向伸縮設計，線長可調，收納不打結。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Connectors",
+     "zh": "接口"
+    },
+    "value": {
+     "en": "Type-C to Type-C",
+     "zh": "Type-C to Type-C"
+    }
+   },
+   {
+    "label": {
+     "en": "Max output",
+     "zh": "輸出功率"
+    },
+    "value": {
+     "en": "240W (48V/5A)",
+     "zh": "最高 240W（48V/5A）"
+    }
+   },
+   {
+    "label": {
+     "en": "Length",
+     "zh": "線長"
+    },
+    "value": {
+     "en": "Up to approx. 1m",
+     "zh": "最長約 1 米"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 53g",
+     "zh": "約 53g"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Purple",
+    "zh": "紫色"
+   },
+   {
+    "en": "Blue",
+    "zh": "藍色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "usb-c cable",
+   "retractable cable",
+   "240w cable",
+   "fast charging cable",
+   "pd cable"
+  ]
+ },
+ {
+  "id": "npdc004",
+  "slug": "magnetic-4-in-1-braided-240w-cable-npdc004",
+  "name": {
+   "en": "240W Magnetic 4-in-1 Braided Cable",
+   "zh": "240W 磁吸四合一尼龍編織快充數據線"
+  },
+  "tagline": {
+   "en": "One cable for every device.",
+   "zh": "一線四用，多機通用"
+  },
+  "summary": {
+   "en": "A 1m nylon-braided cable with magnetic adapters covering USB-A or USB-C to Lightning or USB-C, rated up to 240W. One versatile cable for mixed-device teams and travel gift sets.",
+   "zh": "1 米尼龍編織數據線，以磁吸轉接頭兼容 USB-A／Type-C 對 Lightning／Type-C，最高 240W。一線多用，適合多裝置用戶及旅行禮品套裝。"
+  },
+  "features": [
+   {
+    "en": "Magnetic adapters cover four USB-A/USB-C to Lightning/USB-C combinations.",
+    "zh": "磁吸轉接設計，支援 USB-A／Type-C 對 Lightning／Type-C 四種組合。"
+   },
+   {
+    "en": "Up to 240W (48V/5A) with PD fast charging and data transfer.",
+    "zh": "最高輸出 240W（48V/5A），支援 PD 快充與資料傳輸。"
+   },
+   {
+    "en": "Metal connectors and dense nylon braiding resist pulling and tangling.",
+    "zh": "金屬接頭配高密度尼龍編織線材，抗拉扯、防纏繞。"
+   },
+   {
+    "en": "Magnetic self-winding design for neat storage.",
+    "zh": "磁吸自繞設計，方便收納與攜帶。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Connectors",
+     "zh": "接頭組合"
+    },
+    "value": {
+     "en": "USB-A / Type-C to Lightning / Type-C (magnetic adapters)",
+     "zh": "USB-A／Type-C 對 Lightning／Type-C（磁吸轉接頭）"
+    }
+   },
+   {
+    "label": {
+     "en": "Max output",
+     "zh": "輸出功率"
+    },
+    "value": {
+     "en": "240W (48V/5A)",
+     "zh": "最高 240W（48V/5A）"
+    }
+   },
+   {
+    "label": {
+     "en": "Length",
+     "zh": "線長"
+    },
+    "value": {
+     "en": "Approx. 1m",
+     "zh": "約 1 米"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 70g",
+     "zh": "約 70g"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Nylon braid, metal connectors",
+     "zh": "尼龍編織線材、金屬接頭"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Grey",
+    "zh": "灰色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "4-in-1 cable",
+   "magnetic cable",
+   "braided cable",
+   "240w cable",
+   "lightning usb-c cable"
+  ]
+ },
+ {
+  "id": "npdc005",
+  "slug": "magnetic-braided-240w-usb-c-cable-npdc005",
+  "name": {
+   "en": "240W Magnetic Braided USB-C Cable",
+   "zh": "240W 磁吸超快充 Type-C 數據線"
+  },
+  "tagline": {
+   "en": "Winds itself. Charges at full speed.",
+   "zh": "磁吸自繞，全速快充"
+  },
+  "summary": {
+   "en": "A 1m nylon-braided USB-C cable rated up to 240W, with magnetic self-winding for tidy storage. Suited to desks, cars and travel kits.",
+   "zh": "1 米尼龍編織 Type-C 數據線，最高 240W，磁吸自繞，收納整齊。適合辦公桌、車廂及旅行使用。"
+  },
+  "features": [
+   {
+    "en": "Up to 240W (48V/5A) for laptops, tablets and phones.",
+    "zh": "最高輸出 240W（48V/5A），適用筆電、平板及手機。"
+   },
+   {
+    "en": "Supports PD fast charging and data transfer.",
+    "zh": "支援 PD 快充與資料傳輸。"
+   },
+   {
+    "en": "Magnetic self-winding design for neat storage.",
+    "zh": "磁吸自繞設計，方便收納與攜帶。"
+   },
+   {
+    "en": "Nylon braiding for strength and pull resistance.",
+    "zh": "尼龍編織線材，堅固耐用，抗拉扯。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Max output",
+     "zh": "輸出功率"
+    },
+    "value": {
+     "en": "240W (48V/5A)",
+     "zh": "最高 240W（48V/5A）"
+    }
+   },
+   {
+    "label": {
+     "en": "Length",
+     "zh": "線長"
+    },
+    "value": {
+     "en": "Approx. 1m",
+     "zh": "約 1 米"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 70g",
+     "zh": "約 70g"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Nylon braid",
+     "zh": "尼龍編織"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "usb-c cable",
+   "magnetic cable",
+   "braided cable",
+   "240w cable",
+   "fast charging cable"
+  ]
+ },
+ {
+  "id": "npms006",
+  "slug": "mini-rechargeable-shaver-npms006",
+  "name": {
+   "en": "Mini Rechargeable Shaver",
+   "zh": "迷你充電鬚刨"
+  },
+  "tagline": {
+   "en": "A clean shave that fits in a pocket.",
+   "zh": "小巧隨身，潔淨俐落"
+  },
+  "summary": {
+   "en": "A compact rechargeable shaver for grooming at home or on the move. Its small size and colour options make it a natural fit for travel kits and corporate gifts.",
+   "zh": "小巧的充電式鬚刨，居家外出皆可隨時修整。體積輕巧、顏色可選，適合旅行套裝及企業禮品。"
+  },
+  "features": [
+   {
+    "en": "Compact size for travel and everyday carry.",
+    "zh": "機身小巧，方便旅行及日常攜帶。"
+   },
+   {
+    "en": "Rechargeable, with no disposable batteries needed.",
+    "zh": "充電式設計，無需更換電池。"
+   }
+  ],
+  "specs": [],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Orange",
+    "zh": "橙色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mini shaver",
+   "electric shaver",
+   "rechargeable shaver",
+   "travel shaver",
+   "men grooming"
+  ]
+ },
+ {
+  "id": "npvc011",
+  "slug": "stainless-steel-vacuum-flask-350ml-npvc011",
+  "name": {
+   "en": "350ml 316 Stainless Steel Vacuum Flask",
+   "zh": "350 毫升 316 不鏽鋼保溫壺"
+  },
+  "tagline": {
+   "en": "Opens with one hand. Stays warm for hours.",
+   "zh": "單手開蓋，長效保溫"
+  },
+  "summary": {
+   "en": "A 350ml vacuum flask with a 316 stainless steel inner, 304 stainless shell and one-touch lid. A refined everyday gift that keeps drinks hot for up to 12 hours.",
+   "zh": "350 毫升保溫壺，316 不鏽鋼內膽配 304 不鏽鋼外殼及一鍵開蓋設計。保溫長達 12 小時，是精緻實用的日常禮品。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner with 304 stainless steel shell.",
+    "zh": "316 不鏽鋼內膽，304 不鏽鋼外殼。"
+   },
+   {
+    "en": "Keeps drinks warm for up to 12 hours.",
+    "zh": "12 小時長效保溫。"
+   },
+   {
+    "en": "One-touch lid opens with one hand.",
+    "zh": "單手一鍵開蓋。"
+   },
+   {
+    "en": "Filled with 98°C water, measures 89.7°C after 40 minutes.",
+    "zh": "注滿 98°C 熱水靜置 40 分鐘，水溫實測 89.7°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "350ml",
+     "zh": "350 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless inner, 304 stainless shell",
+     "zh": "316 不鏽鋼內膽、304 不鏽鋼外殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "89.7°C",
+     "zh": "89.7°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Ø6.6 × 17cm",
+     "zh": "Ø6.6 × 17cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Pink",
+    "zh": "粉紅色"
+   },
+   {
+    "en": "Green",
+    "zh": "綠色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum flask",
+   "insulated bottle",
+   "316 stainless steel",
+   "thermos",
+   "travel bottle"
+  ]
+ },
+ {
+  "id": "npsb007",
+  "slug": "pump-free-storage-bag-extra-large-npsb007",
+  "name": {
+   "en": "Pump-Free 3D Storage Bag, Extra Large",
+   "zh": "免抽真空立體收納袋（特大號）"
+  },
+  "tagline": {
+   "en": "Press, seal, and save space.",
+   "zh": "輕壓排氣，收納省位"
+  },
+  "summary": {
+   "en": "An extra-large 100 × 80 × 32cm storage bag that expels air through a press valve, with no pump required. A clear front makes contents easy to identify.",
+   "zh": "特大號 100 × 80 × 32cm 立體收納袋，按壓氣閥即可排氣，無需抽氣泵。透明面讓內容物一目了然。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Self-sealing valve expels air with a simple press.",
+    "zh": "自動氣閥，按壓即可排氣。"
+   },
+   {
+    "en": "Clear side shows contents; blue-white side resists dust and stains.",
+    "zh": "透明面即時辨識內容物，青白面防塵抗污。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "100 × 80 × 32cm",
+     "zh": "100 × 80 × 32cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Extra Large",
+    "zh": "特大號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "storage bag",
+   "space saver bag",
+   "compression bag",
+   "pump-free vacuum bag",
+   "wardrobe storage"
+  ]
+ },
+ {
+  "id": "npsb008",
+  "slug": "pump-free-storage-bag-medium-npsb008",
+  "name": {
+   "en": "Pump-Free 3D Storage Bag, Medium",
+   "zh": "免抽真空立體收納袋（中號）"
+  },
+  "tagline": {
+   "en": "Press, seal, and save space.",
+   "zh": "輕壓排氣，收納省位"
+  },
+  "summary": {
+   "en": "A medium 80 × 56 × 32cm storage bag that expels air through a press valve, with no pump required. A clear front makes contents easy to identify.",
+   "zh": "中號 80 × 56 × 32cm 立體收納袋，按壓氣閥即可排氣，無需抽氣泵。透明面讓內容物一目了然。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Self-sealing valve expels air with a simple press.",
+    "zh": "自動氣閥，按壓即可排氣。"
+   },
+   {
+    "en": "Clear side shows contents; blue-white side resists dust and stains.",
+    "zh": "透明面即時辨識內容物，青白面防塵抗污。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "80 × 56 × 32cm",
+     "zh": "80 × 56 × 32cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Medium",
+    "zh": "中號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "storage bag",
+   "space saver bag",
+   "compression bag",
+   "pump-free vacuum bag",
+   "wardrobe storage"
+  ]
+ },
+ {
+  "id": "npsb009",
+  "slug": "pump-free-storage-bag-small-npsb009",
+  "name": {
+   "en": "Pump-Free 3D Storage Bag, Small",
+   "zh": "免抽真空立體收納袋（小號）"
+  },
+  "tagline": {
+   "en": "Press, seal, and save space.",
+   "zh": "輕壓排氣，收納省位"
+  },
+  "summary": {
+   "en": "A small 70 × 50 × 32cm storage bag that expels air through a press valve, with no pump required. A clear front makes contents easy to identify.",
+   "zh": "小號 70 × 50 × 32cm 立體收納袋，按壓氣閥即可排氣，無需抽氣泵。透明面讓內容物一目了然。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Self-sealing valve expels air with a simple press.",
+    "zh": "自動氣閥，按壓即可排氣。"
+   },
+   {
+    "en": "Clear side shows contents; blue-white side resists dust and stains.",
+    "zh": "透明面即時辨識內容物，青白面防塵抗污。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "70 × 50 × 32cm",
+     "zh": "70 × 50 × 32cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Small",
+    "zh": "小號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "storage bag",
+   "space saver bag",
+   "compression bag",
+   "pump-free vacuum bag",
+   "wardrobe storage"
+  ]
+ },
+ {
+  "id": "nphc001",
+  "slug": "adjustable-cordless-hair-clipper-nphc001",
+  "name": {
+   "en": "Adjustable Cordless Hair Clipper",
+   "zh": "可調式理髮器"
+  },
+  "tagline": {
+   "en": "Dial in the length. Cut with precision.",
+   "zh": "轉盤調長度，精準修剪"
+  },
+  "summary": {
+   "en": "A hair clipper with a dial-adjusted guide comb and ceramic and steel blades, with reminders for oiling and charging. A dependable grooming tool for personal care ranges and gift sets.",
+   "zh": "理髮器配轉盤調節限位梳及陶瓷精鋼刀頭，具加油及充電提醒。可靠耐用，適合個人護理系列及禮品套裝。"
+  },
+  "features": [
+   {
+    "en": "Rotary dial sets the guide comb length.",
+    "zh": "跑輪轉盤調節限位梳長度。"
+   },
+   {
+    "en": "Ceramic and precision steel cutting blades.",
+    "zh": "陶瓷配精鋼刀頭剪切。"
+   },
+   {
+    "en": "Integrated comb and blade for adjustable cutting length.",
+    "zh": "梳剪一體，理髮長度可調。"
+   },
+   {
+    "en": "Oiling and charging reminders.",
+    "zh": "加油提醒及充電提醒。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Blade",
+     "zh": "刀頭"
+    },
+    "value": {
+     "en": "Ceramic + precision steel",
+     "zh": "陶瓷 + 精鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "170 × 41 × 41mm",
+     "zh": "170 × 41 × 41mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Net weight",
+     "zh": "淨重"
+    },
+    "value": {
+     "en": "196g (with guide comb)",
+     "zh": "196g（含限位梳）"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "hair clipper",
+   "hair trimmer",
+   "cordless clipper",
+   "grooming",
+   "barber clipper"
+  ]
+ },
+ {
+  "id": "clcv002",
+  "slug": "cordless-turbo-stick-vacuum-12kpa-clcv002",
+  "name": {
+   "en": "12kPa Cordless Turbo Stick Vacuum",
+   "zh": "12kPa 渦輪強力無線吸塵機"
+  },
+  "tagline": {
+   "en": "Deep suction. Reaches everywhere.",
+   "zh": "強勁吸力，無處不及"
+  },
+  "summary": {
+   "en": "A cordless stick vacuum with up to 12kPa suction, HEPA H10 filtration and a telescopic metal wand. Three power modes and an LED display make whole-home cleaning simple.",
+   "zh": "無線直立式吸塵機，吸力高達 12kPa，配 HEPA H10 濾網及金屬伸縮延長管。三檔吸力配 LED 顯示，全屋清潔輕鬆自如。"
+  },
+  "features": [
+   {
+    "en": "Up to 12,000Pa suction lifts dust and hair from carpet fibres.",
+    "zh": "12000Pa 強勁吸力，深入地氈縫隙清除塵垢與毛髮。"
+   },
+   {
+    "en": "Three modes: turbo, standard and eco, with up to 45 minutes in eco.",
+    "zh": "快速、標準、節能三檔吸力，節能模式可運行 45 分鐘。"
+   },
+   {
+    "en": "LED display shows dust status in real time.",
+    "zh": "LED 顯示屏實時顯示集塵狀態。"
+   },
+   {
+    "en": "HEPA H10 filter captures 99.5% of fine particles.",
+    "zh": "HEPA H10 級過濾，攔截 99.5% 微細粒子，排氣潔淨。"
+   },
+   {
+    "en": "Telescopic metal wand reaches high spots and under furniture.",
+    "zh": "金屬伸縮延長管，輕鬆清潔高處及傢俬底部。"
+   },
+   {
+    "en": "Includes crevice tool and sofa brush.",
+    "zh": "附隙縫吸頭及沙發刷。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Suction",
+     "zh": "吸力"
+    },
+    "value": {
+     "en": "6–12kPa",
+     "zh": "6–12kPa"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "150W",
+     "zh": "150W"
+    }
+   },
+   {
+    "label": {
+     "en": "Voltage",
+     "zh": "電壓"
+    },
+    "value": {
+     "en": "DC 25.9V",
+     "zh": "DC 25.9V"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "2200mAh",
+     "zh": "2200mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "運行時間"
+    },
+    "value": {
+     "en": "Turbo 18 min / Standard 25 min / Eco 45 min",
+     "zh": "快速 18 分鐘／標準 25 分鐘／節能 45 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "5 hours",
+     "zh": "5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Motor speed",
+     "zh": "摩打轉速"
+    },
+    "value": {
+     "en": "28,000–30,000 rpm",
+     "zh": "28000–30000 轉／分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Dust cup",
+     "zh": "集塵杯"
+    },
+    "value": {
+     "en": "0.5L",
+     "zh": "0.5L"
+    }
+   },
+   {
+    "label": {
+     "en": "Filtration",
+     "zh": "過濾系統"
+    },
+    "value": {
+     "en": "HEPA H10",
+     "zh": "HEPA 濾網（H10 等級）"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "1200 × 240 × 220mm",
+     "zh": "1200 × 240 × 220mm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "cordless vacuum",
+   "stick vacuum",
+   "hepa vacuum",
+   "handheld vacuum",
+   "vacuum cleaner"
+  ]
+ },
+ {
+  "id": "npvc012",
+  "slug": "stainless-steel-vacuum-flask-500ml-npvc012",
+  "name": {
+   "en": "500ml 316 Stainless Steel Vacuum Flask",
+   "zh": "500 毫升 316 不鏽鋼保溫壺"
+  },
+  "tagline": {
+   "en": "Opens with one hand. Stays warm for hours.",
+   "zh": "單手開蓋，長效保溫"
+  },
+  "summary": {
+   "en": "A 500ml vacuum flask with a 316 stainless steel inner, 304 stainless shell and one-touch lid. Keeps drinks warm for up to 12 hours, a versatile everyday gift.",
+   "zh": "500 毫升保溫壺，316 不鏽鋼內膽配 304 不鏽鋼外殼及一鍵開蓋設計。保溫長達 12 小時，是百搭實用的日常禮品。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner with 304 stainless steel shell.",
+    "zh": "316 不鏽鋼內膽，304 不鏽鋼外殼。"
+   },
+   {
+    "en": "Keeps drinks warm for up to 12 hours.",
+    "zh": "12 小時長效保溫。"
+   },
+   {
+    "en": "One-touch lid opens with one hand.",
+    "zh": "單手一鍵開蓋。"
+   },
+   {
+    "en": "Filled with 98°C water, measures 89.3°C after 40 minutes.",
+    "zh": "注滿 98°C 熱水靜置 40 分鐘，水溫實測 89.3°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "500ml",
+     "zh": "500 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless inner, 304 stainless shell",
+     "zh": "316 不鏽鋼內膽、304 不鏽鋼外殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "89.3°C",
+     "zh": "89.3°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Ø6.6 × 22.4cm",
+     "zh": "Ø6.6 × 22.4cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Pink",
+    "zh": "粉紅色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum flask",
+   "insulated bottle",
+   "316 stainless steel",
+   "thermos",
+   "water bottle"
+  ]
+ },
+ {
+  "id": "npvc013",
+  "slug": "tea-infuser-vacuum-flask-500ml-npvc013",
+  "name": {
+   "en": "500ml Tea Infuser Vacuum Flask",
+   "zh": "500 毫升 316 不鏽鋼茶隔保溫壺"
+  },
+  "tagline": {
+   "en": "Steep, carry, and sip warm.",
+   "zh": "隨行泡茶，溫暖在手"
+  },
+  "summary": {
+   "en": "A 500ml vacuum flask with a 316 stainless steel base, built-in tea strainer and carry strap on the lid. Made for tea drinkers and well suited to corporate gifting.",
+   "zh": "500 毫升保溫壺，316 不鏽鋼內底，內置茶隔濾網，杯蓋附手挽繩。專為愛茶人士而設，亦適合企業送禮。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner base.",
+    "zh": "316 不鏽鋼內膽底部。"
+   },
+   {
+    "en": "Built-in tea strainer.",
+    "zh": "茶隔濾網設計。"
+   },
+   {
+    "en": "Lid with carry strap.",
+    "zh": "杯蓋附易拎手挽繩。"
+   },
+   {
+    "en": "Filled with 98°C water: 90.7°C after 40 minutes, 77.5°C after 4 hours.",
+    "zh": "注滿 98°C 熱水：40 分鐘後 90.7°C，4 小時後 77.5°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "500ml",
+     "zh": "500 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 base, 304 inner wall, 201 outer",
+     "zh": "316 底、304 內壁、201 外殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "90.7°C",
+     "zh": "90.7°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 4 hr)",
+     "zh": "保溫實測（98°C，4 小時）"
+    },
+    "value": {
+     "en": "77.5°C",
+     "zh": "77.5°C"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "tea infuser bottle",
+   "vacuum flask",
+   "tea flask",
+   "316 stainless steel",
+   "insulated bottle"
+  ]
+ },
+ {
+  "id": "npvc008",
+  "slug": "stainless-steel-vacuum-flask-280ml-npvc008",
+  "name": {
+   "en": "280ml 316 Stainless Steel Vacuum Flask",
+   "zh": "280 毫升 316 不鏽鋼保溫壺"
+  },
+  "tagline": {
+   "en": "Slim enough for any bag.",
+   "zh": "纖巧輕便，隨身保溫"
+  },
+  "summary": {
+   "en": "A slim 280ml vacuum flask with a 316 stainless steel inner and 304 stainless shell, keeping drinks warm for up to 12 hours. A compact, elegant gift for daily carry.",
+   "zh": "纖巧的 280 毫升保溫壺，316 不鏽鋼內膽配 304 不鏽鋼外殼，保溫長達 12 小時。小巧雅致，適合日常隨身及送禮。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner with 304 stainless steel shell.",
+    "zh": "316 不鏽鋼內膽，304 不鏽鋼外殼。"
+   },
+   {
+    "en": "Keeps drinks warm for up to 12 hours.",
+    "zh": "12 小時長效保溫。"
+   },
+   {
+    "en": "Filled with 98°C water: 91.6°C after 40 minutes, 72.8°C after 4 hours.",
+    "zh": "注滿 98°C 熱水：40 分鐘後 91.6°C，4 小時後 72.8°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "280ml",
+     "zh": "280 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless inner, 304 stainless shell",
+     "zh": "316 不鏽鋼內膽、304 不鏽鋼外殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "91.6°C",
+     "zh": "91.6°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 4 hr)",
+     "zh": "保溫實測（98°C，4 小時）"
+    },
+    "value": {
+     "en": "72.8°C",
+     "zh": "72.8°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Ø5.7 × 17.5cm",
+     "zh": "Ø5.7 × 17.5cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum flask",
+   "mini flask",
+   "316 stainless steel",
+   "insulated bottle",
+   "thermos"
+  ]
+ },
+ {
+  "id": "npvc009",
+  "slug": "glass-lined-tea-separation-tumbler-npvc009",
+  "name": {
+   "en": "460ml Glass-Lined Tea Separation Tumbler",
+   "zh": "460ml 雙層玻璃內膽茶水分離保溫杯"
+  },
+  "tagline": {
+   "en": "Tea and water, kept apart.",
+   "zh": "茶水分離，原味清醇"
+  },
+  "summary": {
+   "en": "A 460ml tumbler with a double-wall borosilicate glass inner, separate 60ml tea chamber and two interchangeable lids. A considered gift for tea lovers and executive sets.",
+   "zh": "460ml 保溫杯，雙層硼酸玻璃內膽，設 60ml 獨立茶倉，附兩款可替換杯蓋。為愛茶人士及行政禮品套裝而設。"
+  },
+  "features": [
+   {
+    "en": "Double-wall borosilicate glass inner.",
+    "zh": "雙層硼酸玻璃內膽。"
+   },
+   {
+    "en": "Upper 60ml tea chamber separates leaves from the 400ml cup.",
+    "zh": "上層 60ml 茶倉，與下層 400ml 杯體分離。"
+   },
+   {
+    "en": "Supplied with a glass lid and an insulated lid.",
+    "zh": "附玻璃蓋及保溫蓋。"
+   },
+   {
+    "en": "Filled with 98°C water, measures 75.3°C after 40 minutes.",
+    "zh": "注滿 98°C 熱水靜置 40 分鐘，水溫實測 75.3°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "460ml (60ml tea chamber + 400ml cup)",
+     "zh": "460ml（上茶倉 60ml + 下杯體 400ml）"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner",
+     "zh": "內膽"
+    },
+    "value": {
+     "en": "Double-wall borosilicate glass",
+     "zh": "雙層硼酸玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Outer",
+     "zh": "外殼"
+    },
+    "value": {
+     "en": "Stainless steel",
+     "zh": "不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions (glass lid)",
+     "zh": "尺寸（玻璃蓋）"
+    },
+    "value": {
+     "en": "Ø6.8 × 24.2cm",
+     "zh": "Ø6.8 × 24.2cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions (plastic lid)",
+     "zh": "尺寸（塑膠蓋）"
+    },
+    "value": {
+     "en": "Ø6.8 × 21.0cm",
+     "zh": "Ø6.8 × 21.0cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "75.3°C",
+     "zh": "75.3°C"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   },
+   {
+    "en": "Ivory",
+    "zh": "米白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "tea tumbler",
+   "tea infuser bottle",
+   "glass tumbler",
+   "insulated cup",
+   "tea separation"
+  ]
+ },
+ {
+  "id": "npvc006",
+  "slug": "mini-stainless-steel-vacuum-flask-120ml-npvc006",
+  "name": {
+   "en": "120ml 316 Stainless Steel Mini Flask",
+   "zh": "120 毫升 316 不鏽鋼迷你保溫壺"
+  },
+  "tagline": {
+   "en": "Small in hand. Warm for hours.",
+   "zh": "掌心大小，長效保溫"
+  },
+  "summary": {
+   "en": "A palm-sized 120ml vacuum flask with a 316 stainless steel inner, keeping drinks warm for up to 12 hours. An elegant, compact keepsake for events and corporate gifting.",
+   "zh": "掌心大小的 120 毫升保溫壺，316 不鏽鋼內膽，保溫長達 12 小時。精巧雅致，適合活動紀念品及企業禮品。"
+  },
+  "features": [
+   {
+    "en": "316 stainless inner, 304 stainless shell and 201 stainless base.",
+    "zh": "316 不鏽鋼內膽、304 不鏽鋼外殼、201 不鏽鋼底殼。"
+   },
+   {
+    "en": "Keeps drinks warm for up to 12 hours.",
+    "zh": "12 小時長效保溫。"
+   },
+   {
+    "en": "Filled with 98°C water, measures 83.2°C after 40 minutes.",
+    "zh": "注滿 98°C 熱水靜置 40 分鐘，水溫實測 83.2°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "120ml",
+     "zh": "120 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 inner, 304 shell, 201 base",
+     "zh": "316 內膽、304 外殼、201 底殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "83.2°C",
+     "zh": "83.2°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Ø4.5 × 12.5cm",
+     "zh": "Ø4.5 × 12.5cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Silver",
+    "zh": "銀色"
+   },
+   {
+    "en": "Lake Blue",
+    "zh": "水湖藍"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mini flask",
+   "vacuum flask",
+   "pocket flask",
+   "316 stainless steel",
+   "insulated bottle"
+  ]
+ },
+ {
+  "id": "npvc010",
+  "slug": "woodgrain-lid-vacuum-flask-300ml-npvc010",
+  "name": {
+   "en": "300ml Woodgrain Lid Vacuum Flask",
+   "zh": "300 毫升 316 不鏽鋼木紋蓋保溫壺"
+  },
+  "tagline": {
+   "en": "Natural warmth, in every sense.",
+   "zh": "木紋質感，溫暖隨行"
+  },
+  "summary": {
+   "en": "A 300ml vacuum flask with a 316 stainless steel inner and a woodgrain-finish lid, keeping drinks warm for up to 12 hours. A warm, understated gift.",
+   "zh": "300 毫升保溫壺，316 不鏽鋼內膽配木紋杯蓋，保溫長達 12 小時。溫潤低調，適合送禮。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner.",
+    "zh": "316 不鏽鋼內膽。"
+   },
+   {
+    "en": "Keeps drinks warm for up to 12 hours.",
+    "zh": "12 小時長效保溫。"
+   },
+   {
+    "en": "Woodgrain-finish lid.",
+    "zh": "木紋杯蓋設計。"
+   },
+   {
+    "en": "Filled with 98°C water: 91.0°C after 40 minutes, 72.5°C after 4 hours.",
+    "zh": "注滿 98°C 熱水：40 分鐘後 91.0°C，4 小時後 72.5°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "300ml",
+     "zh": "300 毫升"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless inner, SS201 shell",
+     "zh": "316 不鏽鋼內膽、SS201 外殼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 40 min)",
+     "zh": "保溫實測（98°C，40 分鐘）"
+    },
+    "value": {
+     "en": "91.0°C",
+     "zh": "91.0°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (98°C, 4 hr)",
+     "zh": "保溫實測（98°C，4 小時）"
+    },
+    "value": {
+     "en": "72.5°C",
+     "zh": "72.5°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "Ø6.5 × 16cm",
+     "zh": "Ø6.5 × 16cm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White with woodgrain lid",
+    "zh": "白色（木紋蓋）"
+   },
+   {
+    "en": "Blue with woodgrain lid",
+    "zh": "藍色（木紋蓋）"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum flask",
+   "woodgrain bottle",
+   "316 stainless steel",
+   "insulated bottle",
+   "thermos"
+  ]
+ },
+ {
+  "id": "nptj009",
+  "slug": "stainless-steel-food-jar-500ml-nptj009",
+  "name": {
+   "en": "500ml 316 Stainless Steel Food Jar",
+   "zh": "500ml 316 不鏽鋼燜燒杯"
+  },
+  "tagline": {
+   "en": "A hot meal, hours later.",
+   "zh": "燜煮保溫，暖食隨行"
+  },
+  "summary": {
+   "en": "A 500ml insulated food jar with a 316 stainless steel base, matching steel spoon and a lid that doubles as a phone stand. Ideal for office lunches and practical gifting.",
+   "zh": "500ml 燜燒杯，316 不鏽鋼內底，附不鏽鋼匙羹，杯蓋可作手機支架。適合辦公室午膳，亦是實用禮品。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel base with 304 stainless inner wall.",
+    "zh": "316 不鏽鋼內底，304 不鏽鋼內壁。"
+   },
+   {
+    "en": "Includes a 304 stainless steel spoon.",
+    "zh": "附 304 不鏽鋼匙羹。"
+   },
+   {
+    "en": "Lid doubles as a phone stand.",
+    "zh": "杯蓋具手機支架設計。"
+   },
+   {
+    "en": "Tested with 100°C water: 64.5°C at 6 hours, 46.1°C at 15 hours.",
+    "zh": "100°C 熱水實測：6 小時 64.5°C，15 小時 46.1°C。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "500ml",
+     "zh": "500ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless base, 304 stainless inner wall",
+     "zh": "316 不鏽鋼內底、304 不鏽鋼內壁"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (100°C, 6 hr)",
+     "zh": "保溫實測（100°C，6 小時）"
+    },
+    "value": {
+     "en": "64.5°C",
+     "zh": "64.5°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (100°C, 9 hr)",
+     "zh": "保溫實測（100°C，9 小時）"
+    },
+    "value": {
+     "en": "57.9°C",
+     "zh": "57.9°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat test (100°C, 15 hr)",
+     "zh": "保溫實測（100°C，15 小時）"
+    },
+    "value": {
+     "en": "46.1°C",
+     "zh": "46.1°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Included",
+     "zh": "配件"
+    },
+    "value": {
+     "en": "304 stainless steel spoon",
+     "zh": "304 不鏽鋼匙羹"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Pink",
+    "zh": "粉紅色"
+   },
+   {
+    "en": "Green",
+    "zh": "綠色"
+   },
+   {
+    "en": "Ivory",
+    "zh": "米白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "food jar",
+   "thermal food jar",
+   "insulated lunch jar",
+   "316 stainless steel",
+   "soup flask"
+  ]
+ },
+ {
+  "id": "nppr001",
+  "slug": "digital-am-fm-radio-nppr001",
+  "name": {
+   "en": "Digital AM/FM Radio",
+   "zh": "AM/FM 數碼收音機"
+  },
+  "tagline": {
+   "en": "Clear reception. Timeless simplicity.",
+   "zh": "清晰收音，簡約經典"
+  },
+  "summary": {
+   "en": "A compact AM/FM radio with a DSP chipset, LCD frequency and clock display and a glossy ABS housing. Runs on AAA batteries, suited to homes, seniors' gifts and emergency kits.",
+   "zh": "小巧 AM/FM 收音機，採用 DSP 集成電路，LCD 顯示頻率及時鐘，ABS 亮面外殼。使用 AAA 電池，適合家居、長者禮品及應急備用。"
+  },
+  "features": [
+   {
+    "en": "Imported DSP integrated circuit for stable tuning.",
+    "zh": "採用進口 DSP 集成電路。"
+   },
+   {
+    "en": "LCD shows digital station frequency and clock.",
+    "zh": "LCD 液晶屏顯示數字頻率及數字時鐘。"
+   },
+   {
+    "en": "40mm speaker driver.",
+    "zh": "Φ40mm 揚聲器單元。"
+   },
+   {
+    "en": "Glossy PU-coated ABS housing.",
+    "zh": "ABS 外殼，表面噴 PU 油光澤處理。"
+   },
+   {
+    "en": "Powered by two AAA batteries.",
+    "zh": "使用 2 枚 AAA（7 號）電池。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "FM range",
+     "zh": "FM 頻率"
+    },
+    "value": {
+     "en": "64–108MHz",
+     "zh": "64–108MHz"
+    }
+   },
+   {
+    "label": {
+     "en": "AM range",
+     "zh": "AM 頻率"
+    },
+    "value": {
+     "en": "522–1710kHz (9kHz step) / 520–1710kHz (10kHz step)",
+     "zh": "522–1710kHz（9kHz 間隔）／520–1710kHz（10kHz 間隔）"
+    }
+   },
+   {
+    "label": {
+     "en": "Sensitivity",
+     "zh": "接收靈敏度"
+    },
+    "value": {
+     "en": "FM 8μV / AM 3mV/m",
+     "zh": "FM 8μV／AM 3mV/m"
+    }
+   },
+   {
+    "label": {
+     "en": "Speaker",
+     "zh": "揚聲器"
+    },
+    "value": {
+     "en": "Φ40mm, 8Ω, 0.5W",
+     "zh": "Φ40mm，8Ω，0.5W"
+    }
+   },
+   {
+    "label": {
+     "en": "Display",
+     "zh": "顯示屏"
+    },
+    "value": {
+     "en": "LCD (frequency and clock)",
+     "zh": "LCD 液晶（頻率及時鐘）"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "電源"
+    },
+    "value": {
+     "en": "2 × 1.5V AAA",
+     "zh": "2 × 1.5V AAA（7 號電池）"
+    }
+   },
+   {
+    "label": {
+     "en": "Housing",
+     "zh": "外殼"
+    },
+    "value": {
+     "en": "ABS, PU gloss finish",
+     "zh": "ABS，PU 光澤處理"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "am fm radio",
+   "portable radio",
+   "digital radio",
+   "battery radio",
+   "pocket radio"
+  ]
+ },
+ {
+  "id": "npcg003",
+  "slug": "cordless-electric-coffee-grinder-npcg003",
+  "name": {
+   "en": "Cordless Electric Coffee Grinder",
+   "zh": "電動咖啡磨豆機"
+  },
+  "tagline": {
+   "en": "Fresh grounds, at the touch of a button.",
+   "zh": "一鍵研磨，新鮮香醇"
+  },
+  "summary": {
+   "en": "A rechargeable coffee grinder with a ceramic burr, visible grind settings and auto shut-off. Lightweight and fully washable, it makes a refined gift for coffee lovers.",
+   "zh": "充電式咖啡磨豆機，採用陶瓷磨芯，研磨刻度清晰可見，完成後自動斷電。輕巧且可全拆清洗，是送給咖啡愛好者的精緻禮品。"
+  },
+  "features": [
+   {
+    "en": "High-precision ceramic burr with visible grind-size scale.",
+    "zh": "高精度陶瓷磨芯，研磨粗細刻度清晰可見。"
+   },
+   {
+    "en": "One-touch grinding with automatic shut-off when finished.",
+    "zh": "一鍵研磨，智能阻力感應，完成後自動斷電。"
+   },
+   {
+    "en": "USB Type-C charging with indicator light.",
+    "zh": "Type-C 充電，附充電指示燈。"
+   },
+   {
+    "en": "Three-part design disassembles fully for washing.",
+    "zh": "三段式設計，全機可拆卸清洗。"
+   },
+   {
+    "en": "1800mAh battery for everyday use.",
+    "zh": "1800mAh 電池，滿足日常使用。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Burr",
+     "zh": "磨芯"
+    },
+    "value": {
+     "en": "Ceramic",
+     "zh": "陶瓷"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "1800mAh",
+     "zh": "1800mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging",
+     "zh": "充電接口"
+    },
+    "value": {
+     "en": "USB Type-C",
+     "zh": "Type-C"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "ABS",
+     "zh": "ABS"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "coffee grinder",
+   "electric grinder",
+   "ceramic burr grinder",
+   "portable grinder",
+   "rechargeable grinder"
+  ]
+ },
+ {
+  "id": "npaf001",
+  "slug": "touchscreen-air-fryer-oven-npaf001",
+  "name": {
+   "en": "Smart Touchscreen Air Fryer Oven",
+   "zh": "智能觸控大屏幕氣炸焗爐"
+  },
+  "tagline": {
+   "en": "Crisp outside. Tender within. In full view.",
+   "zh": "外脆內嫩，一目了然"
+  },
+  "summary": {
+   "en": "An air fryer oven with a large touch display, 360° hot-air circulation and a lit viewing window. Adjustable from 80 to 200°C, it suits modern family kitchens.",
+   "zh": "氣炸焗爐配大屏觸控、360° 熱風循環及照明視窗。溫度可於 80–200°C 調節，適合現代家庭廚房。"
+  },
+  "features": [
+   {
+    "en": "Adjustable from 80°C to 200°C, from defrosting to baking.",
+    "zh": "80–200°C 溫度調節，由解凍到烘焙皆可應付。"
+   },
+   {
+    "en": "Timer from 1 to 60 minutes.",
+    "zh": "1–60 分鐘定時。"
+   },
+   {
+    "en": "Viewing window with interior light.",
+    "zh": "內置透明視窗與照明燈，烹飪過程清晰可見。"
+   },
+   {
+    "en": "360° hot-air circulation for even results.",
+    "zh": "360° 熱風循環，加熱均勻。"
+   },
+   {
+    "en": "Oil filter and drip tray reduce excess fat.",
+    "zh": "附濾油網與接油盤，減少多餘油脂。"
+   },
+   {
+    "en": "Large touchscreen controls.",
+    "zh": "大屏觸控操作。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Temperature",
+     "zh": "溫度範圍"
+    },
+    "value": {
+     "en": "80–200°C",
+     "zh": "80–200°C"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時"
+    },
+    "value": {
+     "en": "1–60 minutes",
+     "zh": "1–60 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Heating",
+     "zh": "加熱方式"
+    },
+    "value": {
+     "en": "360° hot-air circulation",
+     "zh": "360° 熱風循環"
+    }
+   },
+   {
+    "label": {
+     "en": "Controls",
+     "zh": "操控"
+    },
+    "value": {
+     "en": "Touchscreen",
+     "zh": "觸控屏"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "air fryer",
+   "air fryer oven",
+   "touchscreen air fryer",
+   "convection oven",
+   "kitchen appliance"
+  ]
+ },
+ {
+  "id": "npsb006",
+  "slug": "vacuum-storage-bag-electric-pump-xl-npsb006",
+  "name": {
+   "en": "Vacuum Storage Bag, Extra Large",
+   "zh": "真空收納袋（特大號）"
+  },
+  "tagline": {
+   "en": "Bulky bedding, compressed in moments.",
+   "zh": "輕鬆抽氣，大件收納"
+  },
+  "summary": {
+   "en": "An extra-large 100 × 80cm vacuum storage bag in PA+PE film, compressed with a micro electric pump. Clears wardrobe and storage space for bulky bedding and clothing.",
+   "zh": "特大號 100 × 80cm 真空收納袋，採用 PA+PE 複合膜，配微型電動抽氣泵壓縮。為大件被鋪衣物騰出收納空間。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Micro electric pump for quick air extraction.",
+    "zh": "微型電動抽氣泵，快速抽氣。"
+   },
+   {
+    "en": "Extra-large 100 × 80cm size.",
+    "zh": "特大號尺寸 100 × 80cm。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "100 × 80cm",
+     "zh": "100 × 80cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Extra Large",
+    "zh": "特大號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "vacuum storage bag",
+   "compression bag",
+   "space saver bag",
+   "electric pump bag",
+   "bedding storage"
+  ]
+ },
+ {
+  "id": "npsb005",
+  "slug": "vacuum-storage-bag-electric-pump-medium-npsb005",
+  "name": {
+   "en": "Vacuum Storage Bag, Medium",
+   "zh": "真空收納袋（中號）"
+  },
+  "tagline": {
+   "en": "Seasonal clothing, neatly compressed.",
+   "zh": "輕鬆抽氣，整齊收納"
+  },
+  "summary": {
+   "en": "A medium 80 × 60cm vacuum storage bag in PA+PE film, compressed with a micro electric pump. A neat way to store seasonal clothing.",
+   "zh": "中號 80 × 60cm 真空收納袋，採用 PA+PE 複合膜，配微型電動抽氣泵壓縮。整齊收納換季衣物。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Micro electric pump for quick air extraction.",
+    "zh": "微型電動抽氣泵，快速抽氣。"
+   },
+   {
+    "en": "Medium 80 × 60cm size.",
+    "zh": "中號尺寸 80 × 60cm。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "80 × 60cm",
+     "zh": "80 × 60cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Medium",
+    "zh": "中號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "vacuum storage bag",
+   "compression bag",
+   "space saver bag",
+   "electric pump bag",
+   "clothes storage"
+  ]
+ },
+ {
+  "id": "npsb004",
+  "slug": "vacuum-storage-bag-electric-pump-small-npsb004",
+  "name": {
+   "en": "Vacuum Storage Bag, Small",
+   "zh": "真空收納袋（小號）"
+  },
+  "tagline": {
+   "en": "Less bulk. More room.",
+   "zh": "輕鬆抽氣，空間倍增"
+  },
+  "summary": {
+   "en": "A small 70 × 50cm vacuum storage bag in PA+PE film, compressed with a micro electric pump. Ideal for travel packing and smaller wardrobes.",
+   "zh": "小號 70 × 50cm 真空收納袋，採用 PA+PE 複合膜，配微型電動抽氣泵壓縮。適合旅行打包及小型衣櫃。"
+  },
+  "features": [
+   {
+    "en": "PA+PE composite film.",
+    "zh": "PA+PE 複合膜。"
+   },
+   {
+    "en": "Micro electric pump for quick air extraction.",
+    "zh": "微型電動抽氣泵，快速抽氣。"
+   },
+   {
+    "en": "Small 70 × 50cm size.",
+    "zh": "小號尺寸 70 × 50cm。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "70 × 50cm",
+     "zh": "70 × 50cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "PA+PE composite film",
+     "zh": "PA+PE 複合膜"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Small",
+    "zh": "小號"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "vacuum storage bag",
+   "compression bag",
+   "space saver bag",
+   "travel storage bag",
+   "electric pump bag"
+  ]
+ },
+ {
+  "id": "nptb007",
+  "slug": "foldable-travel-duffel-bag-nptb007",
+  "name": {
+   "en": "Foldable Travel Duffel Bag",
+   "zh": "摺疊式旅行袋"
+  },
+  "tagline": {
+   "en": "Packs flat. Opens when the trip needs it.",
+   "zh": "摺疊輕巧，出行隨心"
+  },
+  "summary": {
+   "en": "A lightweight travel bag in combed polyester that folds into itself and slides over a suitcase handle. A practical giveaway for business travellers and incentive trips.",
+   "zh": "精梳滌綸輕便旅行袋，可反轉摺疊收納，並能套於拉桿箱上。是商務旅客及獎勵旅遊的實用贈品。"
+  },
+  "features": [
+   {
+    "en": "Folds into itself for compact storage.",
+    "zh": "反轉摺疊設計，大幅節省收納空間。"
+   },
+   {
+    "en": "Sleeve slides over a suitcase handle.",
+    "zh": "可直接套於拉桿箱上。"
+   },
+   {
+    "en": "Doubles as an extra bag for clothing and essentials.",
+    "zh": "可作應急儲物袋，臨時收納衣物及隨身物品。"
+   },
+   {
+    "en": "Combed polyester resists wear, moisture and creasing.",
+    "zh": "精梳滌綸材質，耐磨、防潮、抗皺。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Combed polyester",
+     "zh": "精梳滌綸"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "外部尺寸"
+    },
+    "value": {
+     "en": "460 × 345 × 200mm",
+     "zh": "460 × 345 × 200mm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Green",
+    "zh": "綠色"
+   },
+   {
+    "en": "Orange",
+    "zh": "橙色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "travel bag",
+   "foldable duffel",
+   "carry-on bag",
+   "luggage sleeve bag",
+   "weekender bag"
+  ]
+ },
+ {
+  "id": "npbte001",
+  "slug": "true-wireless-bluetooth-earbuds-npbte001",
+  "name": {
+   "en": "True Wireless Bluetooth Earbuds",
+   "zh": "無線藍牙耳機"
+  },
+  "tagline": {
+   "en": "Rich sound. Clear calls. All day.",
+   "zh": "層次音質，通話清晰"
+  },
+  "summary": {
+   "en": "Wireless earbuds with 13mm composite drivers, noise reduction for calls and music, and up to 6 hours of playback per charge. A dependable tech gift for teams and events.",
+   "zh": "無線藍牙耳機，搭載 13mm 複合振膜動圈及降噪技術，單次充電可播放最長 6 小時。是團隊及活動的可靠科技禮品。"
+  },
+  "features": [
+   {
+    "en": "5–6 hours of playback per charge.",
+    "zh": "單次充電可播放 5–6 小時。"
+   },
+   {
+    "en": "Noise reduction for clearer calls and music.",
+    "zh": "噪音淨化系統，通話及聆聽音樂更清晰。"
+   },
+   {
+    "en": "13mm composite diaphragm dynamic drivers.",
+    "zh": "13mm 複合振膜動圈，音質層次豐富。"
+   },
+   {
+    "en": "300mAh charging case; around 100 hours standby.",
+    "zh": "300mAh 充電倉，待機時間約 100 小時。"
+   },
+   {
+    "en": "Earbuds recharge in about one hour.",
+    "zh": "耳機充電時間約 1 小時。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Driver",
+     "zh": "單元"
+    },
+    "value": {
+     "en": "13mm composite diaphragm",
+     "zh": "13mm 複合振膜動圈"
+    }
+   },
+   {
+    "label": {
+     "en": "Playback",
+     "zh": "播放時間"
+    },
+    "value": {
+     "en": "5–6 hours",
+     "zh": "5–6 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Standby",
+     "zh": "待機時間"
+    },
+    "value": {
+     "en": "Approx. 100 hours",
+     "zh": "約 100 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging case",
+     "zh": "充電倉容量"
+    },
+    "value": {
+     "en": "300mAh",
+     "zh": "300mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Earbud charging time",
+     "zh": "耳機充電時間"
+    },
+    "value": {
+     "en": "Approx. 1 hour",
+     "zh": "約 1 小時"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "wireless earbuds",
+   "bluetooth earphones",
+   "tws earbuds",
+   "noise reduction earbuds",
+   "headphones"
+  ]
+ },
+ {
+  "id": "npvs002",
+  "slug": "beech-wood-vacuum-cleaner-stand-npvs002",
+  "name": {
+   "en": "Beech Wood Vacuum Cleaner Stand",
+   "zh": "櫸木吸塵機支架"
+  },
+  "tagline": {
+   "en": "A tidy home for your vacuum.",
+   "zh": "收納有序，木質雅致"
+  },
+  "summary": {
+   "en": "A beech wood stand that holds many cordless vacuum models, with storage for three nozzles. Assembles in minutes and keeps cleaning tools neatly in place.",
+   "zh": "櫸木吸塵機支架，兼容多款無線吸塵機，設三個吸嘴收納位。組裝簡便，讓清潔工具整齊收納。"
+  },
+  "features": [
+   {
+    "en": "Fits a wide range of vacuum cleaner models.",
+    "zh": "兼容多款吸塵機型號。"
+   },
+   {
+    "en": "Beech wood construction resists moisture and pressure.",
+    "zh": "櫸木材質，防潮抗壓，耐用美觀。"
+   },
+   {
+    "en": "Three slots for storing nozzle attachments.",
+    "zh": "設 3 個吸嘴收納位，配件整齊有序。"
+   },
+   {
+    "en": "Simple assembly with included hex key.",
+    "zh": "附六角扳手，組裝簡便。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Beech wood",
+     "zh": "櫸木"
+    }
+   },
+   {
+    "label": {
+     "en": "Nozzle storage",
+     "zh": "吸嘴收納位"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 個"
+    }
+   },
+   {
+    "label": {
+     "en": "Included",
+     "zh": "配件"
+    },
+    "value": {
+     "en": "Hex key",
+     "zh": "六角扳手"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "vacuum stand",
+   "vacuum holder",
+   "cordless vacuum stand",
+   "beech wood stand",
+   "storage rack"
+  ]
+ },
+ {
+  "id": "nptb010",
+  "slug": "portable-blender-500ml-nptb010",
+  "name": {
+   "en": "500ml Portable Rechargeable Blender",
+   "zh": "500ml 便攜榨汁機"
+  },
+  "tagline": {
+   "en": "Fresh juice, wherever you are.",
+   "zh": "隨時隨地，鮮榨即享"
+  },
+  "summary": {
+   "en": "A 500ml cordless blender with a six-blade assembly that also crushes ice, making up to 15 cups per charge. Food-grade PCTG and fully washable, ideal for wellness gifting.",
+   "zh": "500ml 無線榨汁機，六葉刀頭可碎冰，滿電可榨約 15 杯。食品級 PCTG 杯體，全機可水洗，適合健康主題禮品。"
+  },
+  "features": [
+   {
+    "en": "Up to 15 cups of juice on a full charge.",
+    "zh": "滿電狀態下可榨 15 杯果汁。"
+   },
+   {
+    "en": "Six-blade assembly handles fruit and crushes ice.",
+    "zh": "6 葉刀頭，輕鬆處理水果，亦可碎冰。"
+   },
+   {
+    "en": "USB Type-C charging in 2–2.5 hours.",
+    "zh": "Type-C 充電，約 2–2.5 小時充滿。"
+   },
+   {
+    "en": "Food-grade PCTG cup.",
+    "zh": "食品級 PCTG 杯體。"
+   },
+   {
+    "en": "Fully washable for easy cleaning.",
+    "zh": "全機可水洗，清潔衛生。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "500ml",
+     "zh": "500ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "7.4V 1200mAh × 2",
+     "zh": "7.4V 1200mAh × 2"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging",
+     "zh": "充電"
+    },
+    "value": {
+     "en": "USB Type-C, 2–2.5 hours",
+     "zh": "Type-C，2–2.5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Blades",
+     "zh": "刀頭"
+    },
+    "value": {
+     "en": "6 blades",
+     "zh": "6 葉"
+    }
+   },
+   {
+    "label": {
+     "en": "Cup material",
+     "zh": "杯體材質"
+    },
+    "value": {
+     "en": "Food-grade PCTG",
+     "zh": "食品級 PCTG"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "portable blender",
+   "rechargeable blender",
+   "juicer cup",
+   "smoothie blender",
+   "usb-c blender"
+  ]
+ },
+ {
+  "id": "nptb009",
+  "slug": "portable-blender-with-straw-350ml-nptb009",
+  "name": {
+   "en": "350ml Portable Blender with Straw",
+   "zh": "350ml 便攜榨汁機"
+  },
+  "tagline": {
+   "en": "Blend in seconds. Sip straight away.",
+   "zh": "即榨即飲，清新隨行"
+  },
+  "summary": {
+   "en": "A 350ml portable blender with a straw lid, 20-second blending and a pure copper motor at up to 18,500RPM. A compact, appealing gift for active lifestyles.",
+   "zh": "350ml 便攜榨汁機，附吸管口，20 秒快速榨汁，純銅馬達轉速高達 18500RPM。小巧討喜，適合活力生活主題禮品。"
+  },
+  "features": [
+   {
+    "en": "Straw lid and dedicated straw for drinking on the go.",
+    "zh": "吸管口設計，附專用吸管，隨榨隨飲。"
+   },
+   {
+    "en": "Blends in 20 seconds.",
+    "zh": "20 秒快速榨汁。"
+   },
+   {
+    "en": "Powerful enough to crush ice.",
+    "zh": "動力強勁，可輕鬆碎冰。"
+   },
+   {
+    "en": "DC390 pure copper motor, up to 18,500RPM.",
+    "zh": "DC390 純銅馬達，最高轉速 18500RPM。"
+   },
+   {
+    "en": "Simple single-speed operation.",
+    "zh": "單速操作，簡單易用。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "350ml",
+     "zh": "350ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "80W (7.4V)",
+     "zh": "80W（7.4V）"
+    }
+   },
+   {
+    "label": {
+     "en": "Motor",
+     "zh": "馬達"
+    },
+    "value": {
+     "en": "DC390 pure copper, up to 18,500RPM",
+     "zh": "DC390 純銅馬達，最高 18500RPM"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "1500mAh × 2",
+     "zh": "1500mAh × 2"
+    }
+   },
+   {
+    "label": {
+     "en": "Speed",
+     "zh": "速度"
+    },
+    "value": {
+     "en": "Single speed",
+     "zh": "單速"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "portable blender",
+   "blender with straw",
+   "rechargeable blender",
+   "juicer cup",
+   "smoothie maker"
+  ]
+ },
+ {
+  "id": "nptb008",
+  "slug": "portable-blender-leather-handle-380ml-nptb008",
+  "name": {
+   "en": "380ml Portable Blender with Leather Handle",
+   "zh": "380ml 便攜榨汁機"
+  },
+  "tagline": {
+   "en": "Two openings. One effortless routine.",
+   "zh": "雙開口設計，便攜隨行"
+  },
+  "summary": {
+   "en": "A 380ml portable blender with top and bottom openings, a drinking lid and a leather carry handle. Its considered details make it a stylish lifestyle gift.",
+   "zh": "380ml 便攜榨汁機，上下雙開口設計，附飲用杯蓋及皮革手挽。細節講究，是時尚的生活禮品。"
+  },
+  "features": [
+   {
+    "en": "Top and bottom openings: drink from the top, load from the base.",
+    "zh": "上下雙開口：頂部直接飲用，底部方便放入食材。"
+   },
+   {
+    "en": "Dedicated drinking lid for blending and sipping on the go.",
+    "zh": "附專用飲用蓋，隨榨隨飲。"
+   },
+   {
+    "en": "Leather carry handle.",
+    "zh": "皮革手提把，便攜美觀。"
+   },
+   {
+    "en": "DC390 pure copper motor, up to 18,500RPM.",
+    "zh": "DC390 純銅馬達，轉速高達 18500RPM。"
+   },
+   {
+    "en": "Simple single-speed operation.",
+    "zh": "單速操作，簡潔易用。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "380ml",
+     "zh": "380ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "80W (7.4V)",
+     "zh": "80W（7.4V）"
+    }
+   },
+   {
+    "label": {
+     "en": "Motor",
+     "zh": "馬達"
+    },
+    "value": {
+     "en": "DC390 pure copper, up to 18,500RPM",
+     "zh": "DC390 純銅馬達，最高 18500RPM"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "1500mAh × 2",
+     "zh": "1500mAh × 2"
+    }
+   },
+   {
+    "label": {
+     "en": "Speed",
+     "zh": "速度"
+    },
+    "value": {
+     "en": "Single speed",
+     "zh": "單速"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "portable blender",
+   "rechargeable blender",
+   "juicer bottle",
+   "smoothie maker",
+   "travel blender"
+  ]
+ },
+ {
+  "id": "npem001",
+  "slug": "heated-air-pressure-eye-massager-npem001",
+  "name": {
+   "en": "Heated Air-Pressure Eye Massager",
+   "zh": "氣壓熱敷眼部按摩器"
+  },
+  "tagline": {
+   "en": "Gentle warmth for tired eyes.",
+   "zh": "溫熱舒緩，雙眼放鬆"
+  },
+  "summary": {
+   "en": "An eye massager combining 42°C constant heat, air-pressure kneading and multi-frequency vibration through 13 soft silicone nodes. A thoughtful wellness gift for screen-heavy workdays.",
+   "zh": "眼部按摩器結合 42°C 恆溫熱敷、氣囊揉壓及多頻振動，配 13 個親膚矽膠觸頭。是長時間面對螢幕人士的貼心健康禮品。"
+  },
+  "features": [
+   {
+    "en": "13 soft silicone nodes mimic fingertip pressure.",
+    "zh": "13 個親膚矽膠仿指腹觸頭，模擬指壓按摩。"
+   },
+   {
+    "en": "42°C constant heat to relax the eye area.",
+    "zh": "42°C 恆溫熱敷，舒緩眼部肌肉。"
+   },
+   {
+    "en": "Air-pressure kneading eases eye strain.",
+    "zh": "智能氣囊揉壓，減輕眼部壓力。"
+   },
+   {
+    "en": "Multi-frequency vibration massage.",
+    "zh": "多頻振動按壓。"
+   },
+   {
+    "en": "Three massage modes.",
+    "zh": "3 大模式可選。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Heat",
+     "zh": "熱敷溫度"
+    },
+    "value": {
+     "en": "42°C constant",
+     "zh": "42°C 恆溫"
+    }
+   },
+   {
+    "label": {
+     "en": "Massage nodes",
+     "zh": "按摩觸頭"
+    },
+    "value": {
+     "en": "13, silicone",
+     "zh": "13 個，矽膠"
+    }
+   },
+   {
+    "label": {
+     "en": "Modes",
+     "zh": "模式"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 種"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "eye massager",
+   "heated eye mask",
+   "air pressure massager",
+   "eye care",
+   "wellness gift"
+  ]
+ },
+ {
+  "id": "nprf016",
+  "slug": "high-speed-neck-fan-nprf016",
+  "name": {
+   "en": "High-Speed Wearable Neck Fan",
+   "zh": "高速掛脖風扇"
+  },
+  "tagline": {
+   "en": "Cool air, exactly where you need it.",
+   "zh": "涼風隨身，精準直送"
+  },
+  "summary": {
+   "en": "A wearable neck fan running at up to 16,000 rpm, with three speeds, flexible air outlets and an ice-pack cooling function. A popular summer giveaway for outdoor events and travel.",
+   "zh": "掛脖風扇轉速高達每分鐘 16000 轉，三段風速，出風管可彎曲定型，並具冰敷製冷功能。是戶外活動及旅行的熱門夏季贈品。"
+  },
+  "features": [
+   {
+    "en": "Up to 16,000 rpm for instant cooling.",
+    "zh": "每分鐘轉速高達 16000 轉，瞬間清涼。"
+   },
+   {
+    "en": "Three fan speeds, from gentle breeze to strong airflow.",
+    "zh": "3 段風速調節，由柔和微風到強勁降溫。"
+   },
+   {
+    "en": "Ice-pack cooling for an extra cool feel.",
+    "zh": "配合冰敷功能，雙重清涼。"
+   },
+   {
+    "en": "Flexible outlet tubes hold their position.",
+    "zh": "萬向彎曲定型管，出風方向靈活調整。"
+   },
+   {
+    "en": "Integrated cable storage.",
+    "zh": "內嵌繞線設計，收納整潔。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Fan speed",
+     "zh": "轉速"
+    },
+    "value": {
+     "en": "Up to 16,000 rpm",
+     "zh": "最高 16000 轉／分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Speed settings",
+     "zh": "風速"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 段"
+    }
+   },
+   {
+    "label": {
+     "en": "Power consumption",
+     "zh": "功耗"
+    },
+    "value": {
+     "en": "1.22–3.81W",
+     "zh": "1.22–3.81W"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "269 × 265 × 62mm",
+     "zh": "269 × 265 × 62mm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Navy",
+    "zh": "深藍色"
+   },
+   {
+    "en": "Pink",
+    "zh": "粉紅色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "neck fan",
+   "wearable fan",
+   "portable fan",
+   "hands-free fan",
+   "cooling fan"
+  ]
+ },
+ {
+  "id": "npad008",
+  "slug": "ember-glow-mini-aroma-diffuser-npad008",
+  "name": {
+   "en": "Ember Glow Mini Aroma Diffuser",
+   "zh": "炭火燈迷你香薰加濕器"
+  },
+  "tagline": {
+   "en": "The calm of a glowing hearth.",
+   "zh": "炭火微光，靜享時光"
+  },
+  "summary": {
+   "en": "A mini aroma humidifier with an ember-effect light and dark woodgrain finish, holding 300ml for small spaces. A warm, decorative gift for homes and offices.",
+   "zh": "迷你香薰加濕器，配仿真炭火氛圍燈及深木紋外觀，300ml 水箱適合小型空間。溫暖雅致，適合家居及辦公室送禮。"
+  },
+  "features": [
+   {
+    "en": "Ember-effect ambient light creates a warm atmosphere.",
+    "zh": "仿真炭火氛圍燈，營造溫暖舒適的氛圍。"
+   },
+   {
+    "en": "Continuous mist for about 4 hours.",
+    "zh": "持續噴霧約 4 小時。"
+   },
+   {
+    "en": "Intermittent mist for about 8 hours.",
+    "zh": "間歇噴霧約 8 小時。"
+   },
+   {
+    "en": "Dark woodgrain finish suits home interiors.",
+    "zh": "深木紋外觀，融入家居裝飾。"
+   },
+   {
+    "en": "300ml tank for small spaces.",
+    "zh": "300ml 水箱，適合小型空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Water tank",
+     "zh": "水箱容量"
+    },
+    "value": {
+     "en": "300ml",
+     "zh": "300ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "運行時間"
+    },
+    "value": {
+     "en": "Approx. 4h continuous / 8h intermittent",
+     "zh": "持續約 4 小時／間歇約 8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "ABS + PP",
+     "zh": "ABS + PP"
+    }
+   },
+   {
+    "label": {
+     "en": "Finish",
+     "zh": "外觀"
+    },
+    "value": {
+     "en": "Dark woodgrain",
+     "zh": "深木紋"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Dark Woodgrain",
+    "zh": "深木紋"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "aroma diffuser",
+   "mini humidifier",
+   "ember light diffuser",
+   "essential oil diffuser",
+   "woodgrain diffuser"
+  ]
+ },
+ {
+  "id": "npad007",
+  "slug": "volcano-glow-mini-aroma-diffuser-npad007",
+  "name": {
+   "en": "Volcano Glow Mini Aroma Diffuser",
+   "zh": "火山燈迷你香薰加濕器"
+  },
+  "tagline": {
+   "en": "Seven colours. One quiet mist.",
+   "zh": "七彩光影，柔霧輕盈"
+  },
+  "summary": {
+   "en": "A compact aroma humidifier with a volcano-effect light in seven rotating colours and a dark woodgrain finish. A striking, small-footprint gift for desks and bedrooms.",
+   "zh": "小巧香薰加濕器，配七彩輪替的火山氛圍燈及深木紋外觀。造型吸睛，佔位不多，適合書桌及睡房擺放，亦宜送禮。"
+  },
+  "features": [
+   {
+    "en": "Volcano-effect light cycles through seven colours.",
+    "zh": "仿真火山氛圍燈，七彩燈光輪替變化。"
+   },
+   {
+    "en": "Mist output of approximately 30–50ml per hour.",
+    "zh": "噴霧量約每小時 30–50ml。"
+   },
+   {
+    "en": "Continuous mode for about 4 hours, intermittent for about 8.",
+    "zh": "持續噴霧約 4 小時，間歇噴霧約 8 小時。"
+   },
+   {
+    "en": "Compact 116 × 116 × 112mm with dark woodgrain finish.",
+    "zh": "尺寸 116 × 116 × 112mm，深木紋設計。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Mist output",
+     "zh": "噴霧量"
+    },
+    "value": {
+     "en": "Approx. 30–50ml/h",
+     "zh": "約 30–50ml／小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "運行時間"
+    },
+    "value": {
+     "en": "Approx. 4h continuous / 8h intermittent",
+     "zh": "持續約 4 小時／間歇約 8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Light",
+     "zh": "燈光"
+    },
+    "value": {
+     "en": "Seven-colour volcano effect",
+     "zh": "七色火山氛圍燈"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "ABS + PP + PC",
+     "zh": "ABS + PP + PC"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "116 × 116 × 112mm",
+     "zh": "116 × 116 × 112mm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "aroma diffuser",
+   "volcano diffuser",
+   "mini humidifier",
+   "colour changing diffuser",
+   "essential oil diffuser"
+  ]
+ },
+ {
+  "id": "npad006",
+  "slug": "dual-light-mini-aroma-diffuser-npad006",
+  "name": {
+   "en": "Dual-Light Mini Aroma Diffuser",
+   "zh": "雙光源迷你香薰加濕器"
+  },
+  "tagline": {
+   "en": "Warm or bright. Always soft.",
+   "zh": "暖白雙光，柔霧怡人"
+  },
+  "summary": {
+   "en": "A clean-lined mini aroma humidifier with warm and white light modes and USB Type-C power. Compact enough for any desk, making it an easy corporate gift.",
+   "zh": "線條簡潔的迷你香薰加濕器，具暖光及白光兩種模式，採用 Type-C USB 供電。小巧適合任何桌面，是輕鬆得體的企業禮品。"
+  },
+  "features": [
+   {
+    "en": "Switch between warm and white light.",
+    "zh": "暖光與白光兩種模式隨時切換。"
+   },
+   {
+    "en": "Mist output of approximately 30–50ml per hour.",
+    "zh": "噴霧量約每小時 30–50ml。"
+   },
+   {
+    "en": "Continuous mode for about 4 hours, intermittent for about 8.",
+    "zh": "持續噴霧約 4 小時，間歇噴霧約 8 小時。"
+   },
+   {
+    "en": "Compact 116.2 × 116.2 × 102.8mm design.",
+    "zh": "尺寸僅 116.2 × 116.2 × 102.8mm。"
+   },
+   {
+    "en": "USB Type-C connection.",
+    "zh": "採用 Type-C USB 接口。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Mist output",
+     "zh": "噴霧量"
+    },
+    "value": {
+     "en": "Approx. 30–50ml/h",
+     "zh": "約 30–50ml／小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "運行時間"
+    },
+    "value": {
+     "en": "Approx. 4h continuous / 8h intermittent",
+     "zh": "持續約 4 小時／間歇約 8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Light",
+     "zh": "燈光"
+    },
+    "value": {
+     "en": "Warm / white",
+     "zh": "暖光／白光"
+    }
+   },
+   {
+    "label": {
+     "en": "Connection",
+     "zh": "接口"
+    },
+    "value": {
+     "en": "USB Type-C",
+     "zh": "Type-C USB"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "ABS + PP",
+     "zh": "ABS + PP"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "116.2 × 116.2 × 102.8mm",
+     "zh": "116.2 × 116.2 × 102.8mm"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "aroma diffuser",
+   "mini humidifier",
+   "usb diffuser",
+   "desk humidifier",
+   "essential oil diffuser"
+  ]
+ },
+ {
+  "id": "npmf001",
+  "slug": "handheld-electric-milk-frother-npmf001",
+  "name": {
+   "en": "Handheld Electric Milk Frother",
+   "zh": "手持電動奶泡器"
+  },
+  "tagline": {
+   "en": "Silky foam, in seconds.",
+   "zh": "輕巧一握，綿密奶泡"
+  },
+  "summary": {
+   "en": "A slim handheld milk frother with a 304 stainless steel whisk and aluminium alloy body, weighing just 55g. Battery powered and travel-friendly, a refined gift for coffee lovers.",
+   "zh": "纖巧手持奶泡器，304 不鏽鋼攪拌頭配鋁合金機身，淨重僅 55g。電池供電，方便攜帶，是送給咖啡愛好者的精緻禮品。"
+  },
+  "features": [
+   {
+    "en": "304 stainless steel whisk for fine, smooth foam.",
+    "zh": "304 不鏽鋼攪拌頭，打出細膩綿密奶泡。"
+   },
+   {
+    "en": "Lightweight aluminium alloy body.",
+    "zh": "鋁合金機身，輕便耐用。"
+   },
+   {
+    "en": "Runs on two AAA batteries, no cable needed.",
+    "zh": "使用 2 枚 AAA 電池，無需插電。"
+   },
+   {
+    "en": "Slim 237 × 16mm form weighs only 55g.",
+    "zh": "尺寸 237 × 16mm，淨重僅 55g。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Whisk",
+     "zh": "攪拌頭"
+    },
+    "value": {
+     "en": "304 stainless steel",
+     "zh": "304 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Body",
+     "zh": "機身"
+    },
+    "value": {
+     "en": "Aluminium alloy",
+     "zh": "鋁合金"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "電源"
+    },
+    "value": {
+     "en": "2 × AAA batteries",
+     "zh": "2 × AAA 電池"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "237 × 16mm",
+     "zh": "237 × 16mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Net weight",
+     "zh": "淨重"
+    },
+    "value": {
+     "en": "55g",
+     "zh": "55g"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Silver",
+    "zh": "銀色"
+   },
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "milk frother",
+   "handheld frother",
+   "coffee frother",
+   "foam maker",
+   "battery frother"
+  ]
+ },
+ {
+  "id": "clrf014",
+  "slug": "high-speed-cooling-handheld-fan-clrf014",
+  "name": {
+   "en": "High-Speed Cooling Handheld Fan",
+   "zh": "高速製冷手持小風扇"
+  },
+  "tagline": {
+   "en": "A hundred speeds. One cool touch.",
+   "zh": "百檔風速，即刻清涼"
+  },
+  "summary": {
+   "en": "A handheld fan with semiconductor cooling, 100 speed levels with digital display and a brushless motor reaching 13,000 RPM. Folds to use on a desk, around the neck or in hand, an ideal summer giveaway.",
+   "zh": "手持風扇配半導體製冷、100 檔風速數顯及最高 13000 RPM 無刷電機。可摺疊作桌面、掛脖或手持使用，是理想的夏季贈品。"
+  },
+  "features": [
+   {
+    "en": "Speeds adjustable from 1 to 100 with digital display.",
+    "zh": "1–100 檔風速調節，配數字顯示。"
+   },
+   {
+    "en": "Semiconductor cooling for a colder breeze.",
+    "zh": "結合製冷技術，帶來清涼感受。"
+   },
+   {
+    "en": "Use on a desk, around the neck, folded or handheld.",
+    "zh": "可作桌面、掛脖、摺疊或手持使用。"
+   },
+   {
+    "en": "Folds 90° and includes a lanyard.",
+    "zh": "支援 90° 摺疊，附掛繩。"
+   },
+   {
+    "en": "2-inch five-blade brushless motor, up to 13,000 RPM.",
+    "zh": "2 吋 5 葉無刷電機，最高轉速 13000 RPM。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Speed settings",
+     "zh": "風速"
+    },
+    "value": {
+     "en": "1–100, digital display",
+     "zh": "1–100 檔，數顯"
+    }
+   },
+   {
+    "label": {
+     "en": "Motor",
+     "zh": "電機"
+    },
+    "value": {
+     "en": "2-inch brushless, 5 blades",
+     "zh": "2 吋無刷電機，5 葉"
+    }
+   },
+   {
+    "label": {
+     "en": "Max speed",
+     "zh": "最高轉速"
+    },
+    "value": {
+     "en": "13,000 RPM",
+     "zh": "13000 RPM"
+    }
+   },
+   {
+    "label": {
+     "en": "Folding",
+     "zh": "摺疊"
+    },
+    "value": {
+     "en": "90°",
+     "zh": "90°"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "ABS, semiconductor, stainless steel",
+     "zh": "ABS、半導體、不鏽鋼"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "handheld fan",
+   "cooling fan",
+   "portable fan",
+   "neck fan",
+   "brushless fan"
+  ]
+ },
+ {
+  "id": "npps008",
+  "slug": "gan-65w-pd-wall-charger-npps008",
+  "name": {
+   "en": "65W GaN PD Wall Charger",
+   "zh": "PD 65W 氮化鎵充電插頭"
+  },
+  "tagline": {
+   "en": "Laptop power. Pocket size.",
+   "zh": "小巧機身，筆電級快充"
+  },
+  "summary": {
+   "en": "A compact GaN charger with one 65W USB-C port and two USB-A ports, accepting 100–240V input for worldwide travel. A practical premium gift for business travellers.",
+   "zh": "小巧氮化鎵充電器，設一個 65W USB-C 及兩個 USB-A 接口，支援 100–240V 全球電壓。是商務旅客的實用高質禮品。"
+  },
+  "features": [
+   {
+    "en": "GaN technology for efficient charging in a smaller, cooler body.",
+    "zh": "氮化鎵技術，充電更高效，體積更小、發熱更低。"
+   },
+   {
+    "en": "One USB-C and two USB-A ports for multiple devices.",
+    "zh": "1 個 USB-C 及 2 個 USB-A 接口，多機同時快充。"
+   },
+   {
+    "en": "USB-C delivers up to 65W.",
+    "zh": "USB-C 單口最高輸出 65W。"
+   },
+   {
+    "en": "USB-A supports QC 3.0, up to 30W per port.",
+    "zh": "USB-A 兼容 QC 3.0，單口最高 30W。"
+   },
+   {
+    "en": "100–240V input for international travel.",
+    "zh": "支援 100–240V 全球電壓，適合旅行。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Input",
+     "zh": "輸入"
+    },
+    "value": {
+     "en": "100–240V~, 50/60Hz, 1.5A max",
+     "zh": "100–240V~，50/60Hz，最大 1.5A"
+    }
+   },
+   {
+    "label": {
+     "en": "Ports",
+     "zh": "接口"
+    },
+    "value": {
+     "en": "1 × USB-C, 2 × USB-A",
+     "zh": "1 × USB-C、2 × USB-A"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-C output",
+     "zh": "USB-C 輸出"
+    },
+    "value": {
+     "en": "65W max (5V⎓3A, 9V⎓3A, 12V⎓3A, 15V⎓4A, 20V⎓3.25A)",
+     "zh": "最高 65W（5V⎓3A、9V⎓3A、12V⎓3A、15V⎓4A、20V⎓3.25A）"
+    }
+   },
+   {
+    "label": {
+     "en": "USB-A output",
+     "zh": "USB-A 輸出"
+    },
+    "value": {
+     "en": "30W max, QC 3.0 (5V⎓3A, 9V⎓3A, 12V⎓2.5A, 20V⎓1.5A)",
+     "zh": "最高 30W，QC 3.0（5V⎓3A、9V⎓3A、12V⎓2.5A、20V⎓1.5A）"
+    }
+   },
+   {
+    "label": {
+     "en": "Technology",
+     "zh": "技術"
+    },
+    "value": {
+     "en": "GaN",
+     "zh": "氮化鎵（GaN）"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "gan charger",
+   "65w charger",
+   "usb-c charger",
+   "pd wall charger",
+   "travel charger"
+  ]
+ },
+ {
+  "id": "nltfb004",
+  "slug": "stainless-steel-food-container-1400ml-nltfb004",
+  "name": {
+   "en": "1400ml 304 Stainless Steel Food Container",
+   "zh": "1400ml 304 不鏽鋼保鮮盒"
+  },
+  "tagline": {
+   "en": "Sealed fresh. Seen at a glance.",
+   "zh": "鎖鮮密封，一目了然"
+  },
+  "summary": {
+   "en": "A 1400ml food-grade 304 stainless steel container with a press-lock lid, clear top and microwave vent. Durable everyday storage for retail kitchenware ranges.",
+   "zh": "1400ml 食品級 304 不鏽鋼保鮮盒，配按壓鎖扣蓋、透明蓋面及微波透氣閥。堅固耐用，適合廚具零售系列。"
+  },
+  "features": [
+   {
+    "en": "Food-grade 304 stainless steel, durable and rust-resistant.",
+    "zh": "食品級 304 不鏽鋼，耐用防鏽。"
+   },
+   {
+    "en": "One-press locking lid keeps food fresh.",
+    "zh": "一鍵按壓鎖扣，延長食物保鮮時間。"
+   },
+   {
+    "en": "Transparent lid shows contents without opening.",
+    "zh": "透明盒蓋，無需打開即可確認內容物。"
+   },
+   {
+    "en": "Leak-proof lid with lift-up vent for microwave reheating.",
+    "zh": "防漏膠蓋設透氣閥，微波加熱時可拉起。"
+   },
+   {
+    "en": "Wave-textured base helps prevent frozen food sticking.",
+    "zh": "底部波浪紋設計，冷凍時防止食物黏連。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1400ml",
+     "zh": "1400ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Food-grade 304 stainless steel",
+     "zh": "食品級 304 不鏽鋼"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "food container",
+   "stainless steel container",
+   "lunch box",
+   "food storage",
+   "meal prep box"
+  ]
+ },
+ {
+  "id": "nltfb003",
+  "slug": "stainless-steel-food-container-1150ml-nltfb003",
+  "name": {
+   "en": "1150ml 304 Stainless Steel Food Container",
+   "zh": "1150ml 304 不鏽鋼保鮮盒"
+  },
+  "tagline": {
+   "en": "Sealed fresh. Seen at a glance.",
+   "zh": "鎖鮮密封，一目了然"
+  },
+  "summary": {
+   "en": "A 1150ml food-grade 304 stainless steel container with a press-lock lid, clear top and microwave vent. Equally suited to home storage and packed lunches.",
+   "zh": "1150ml 食品級 304 不鏽鋼保鮮盒，配按壓鎖扣蓋、透明蓋面及微波透氣閥。居家存放與外出便當皆適用。"
+  },
+  "features": [
+   {
+    "en": "Food-grade 304 stainless steel, durable and rust-resistant.",
+    "zh": "食品級 304 不鏽鋼，耐用防鏽。"
+   },
+   {
+    "en": "One-press locking lid keeps food fresh.",
+    "zh": "一鍵按壓鎖扣，延長食物保鮮時間。"
+   },
+   {
+    "en": "Transparent lid shows contents without opening.",
+    "zh": "透明盒蓋，無需打開即可確認內容物。"
+   },
+   {
+    "en": "Leak-proof lid with lift-up vent for microwave reheating.",
+    "zh": "防漏膠蓋設透氣閥，微波加熱時可拉起。"
+   },
+   {
+    "en": "Wave-textured base helps prevent frozen food sticking.",
+    "zh": "底部波浪紋設計，冷凍時防止食物黏連。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1150ml",
+     "zh": "1150ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Food-grade 304 stainless steel",
+     "zh": "食品級 304 不鏽鋼"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "food container",
+   "stainless steel container",
+   "lunch box",
+   "food storage",
+   "meal prep box"
+  ]
+ },
+ {
+  "id": "nltfb002",
+  "slug": "stainless-steel-food-container-800ml-nltfb002",
+  "name": {
+   "en": "800ml 304 Stainless Steel Food Container",
+   "zh": "800ml 304 不鏽鋼保鮮盒"
+  },
+  "tagline": {
+   "en": "Sealed fresh. Seen at a glance.",
+   "zh": "鎖鮮密封，一目了然"
+  },
+  "summary": {
+   "en": "An 800ml food-grade 304 stainless steel container with a press-lock lid, clear top and microwave vent. A compact size for fruit, leftovers and lunches.",
+   "zh": "800ml 食品級 304 不鏽鋼保鮮盒，配按壓鎖扣蓋、透明蓋面及微波透氣閥。尺寸精巧，適合存放水果、剩菜及便當。"
+  },
+  "features": [
+   {
+    "en": "Food-grade 304 stainless steel, durable and rust-resistant.",
+    "zh": "食品級 304 不鏽鋼，耐用防鏽。"
+   },
+   {
+    "en": "One-press locking lid keeps food fresh.",
+    "zh": "一鍵按壓鎖扣，延長食物保鮮時間。"
+   },
+   {
+    "en": "Transparent lid shows contents without opening.",
+    "zh": "透明盒蓋，無需打開即可確認內容物。"
+   },
+   {
+    "en": "Leak-proof lid with lift-up vent for microwave reheating.",
+    "zh": "防漏膠蓋設透氣閥，微波加熱時可拉起。"
+   },
+   {
+    "en": "Wave-textured base helps prevent frozen food sticking.",
+    "zh": "底部波浪紋設計，冷凍時防止食物黏連。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "800ml",
+     "zh": "800ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Food-grade 304 stainless steel",
+     "zh": "食品級 304 不鏽鋼"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "food container",
+   "stainless steel container",
+   "lunch box",
+   "food storage",
+   "meal prep box"
+  ]
+ },
+ {
+  "id": "npfms001",
+  "slug": "flat-mop-and-bucket-set-npfms001",
+  "name": {
+   "en": "Flat Mop and Dual-Tank Bucket Set",
+   "zh": "平板拖把桶套裝"
+  },
+  "tagline": {
+   "en": "Wash, wring, and move on.",
+   "zh": "清洗脫水，一桶兼顧"
+  },
+  "summary": {
+   "en": "A flat mop set with separate washing and drying tanks, a removable top and a drain plug. A silicone bumper on the mop plate protects furniture during daily cleaning.",
+   "zh": "平板拖把套裝，設獨立清洗槽及脫水槽，上蓋可拆，桶底附排水塞。拖板鑲矽膠防撞條，日常清潔時保護傢俬。"
+  },
+  "features": [
+   {
+    "en": "Separate washing and wringing tanks for cleaner mopping.",
+    "zh": "清洗與脫水雙槽設計，清潔更衛生高效。"
+   },
+   {
+    "en": "Removable top for easy cleaning.",
+    "zh": "分離式上蓋，方便拆卸清洗。"
+   },
+   {
+    "en": "Base drain hole with rubber plug for quick emptying.",
+    "zh": "桶底排水孔附膠塞，快速排水。"
+   },
+   {
+    "en": "Silicone bumper on the mop plate protects furniture.",
+    "zh": "拖板單邊鑲矽膠防撞條，保護傢俬。"
+   },
+   {
+    "en": "Handle combines plastic and stainless steel tubing.",
+    "zh": "手柄採用塑膠與不鏽鋼管結合設計，穩固輕便。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Bucket material",
+     "zh": "桶身材質"
+    },
+    "value": {
+     "en": "Plastic",
+     "zh": "塑膠"
+    }
+   },
+   {
+    "label": {
+     "en": "Handle material",
+     "zh": "手柄材質"
+    },
+    "value": {
+     "en": "Plastic and stainless steel tube",
+     "zh": "塑膠及不鏽鋼管"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "flat mop",
+   "mop bucket",
+   "dual tank mop",
+   "floor cleaning",
+   "mop set"
+  ]
+ },
+ {
+  "id": "npsb003",
+  "slug": "foldable-five-door-storage-box-npsb003",
+  "name": {
+   "en": "Foldable Five-Door Storage Box, Extra Large",
+   "zh": "摺疊收納箱（特大）"
+  },
+  "tagline": {
+   "en": "Open from the front. Fold to 7cm.",
+   "zh": "正面取物，摺疊僅 7cm"
+  },
+  "summary": {
+   "en": "An extra-large folding storage box with five transparent front doors and a built-in desiccant compartment. Opens to 60 × 42 × 33.5cm and folds to just 7cm when not in use.",
+   "zh": "特大摺疊收納箱，設五扇透明正面門及內置乾燥盒。展開尺寸 60 × 42 × 33.5cm，不用時摺疊厚度僅 7cm。"
+  },
+  "features": [
+   {
+    "en": "Five transparent front doors for easy access and visibility.",
+    "zh": "透明五開門設計，取放方便，內容物一目了然。"
+   },
+   {
+    "en": "Built-in desiccant box in the lid keeps contents dry.",
+    "zh": "頂部內置乾燥盒，保持物品乾爽潔淨。"
+   },
+   {
+    "en": "Reinforced, thickened material for heavier loads.",
+    "zh": "升級加厚材質，承重力強。"
+   },
+   {
+    "en": "Folds to just 7cm thick.",
+    "zh": "可摺疊，摺疊後厚度僅 7cm。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Dimensions (open)",
+     "zh": "展開尺寸"
+    },
+    "value": {
+     "en": "60 × 42 × 33.5cm",
+     "zh": "60 × 42 × 33.5cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Folded thickness",
+     "zh": "摺疊厚度"
+    },
+    "value": {
+     "en": "7cm",
+     "zh": "7cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Doors",
+     "zh": "開門"
+    },
+    "value": {
+     "en": "5, transparent",
+     "zh": "5 扇，透明"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "storage box",
+   "foldable storage box",
+   "wardrobe organiser",
+   "stackable box",
+   "clothes storage"
+  ]
+ }
+]

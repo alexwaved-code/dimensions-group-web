@@ -1,0 +1,1106 @@
+[
+ {
+  "id": "npks0001",
+  "slug": "mini-bluetooth-speaker-dual-microphones-npks0001",
+  "name": {"en": "Mini Bluetooth Speaker with Dual Microphones", "zh": "迷你雙咪藍牙喇叭"},
+  "tagline": {"en": "Two voices. One small speaker.", "zh": "兩支咪，一起唱。"},
+  "summary": {"en": "A compact Bluetooth speaker paired with two wireless microphones for shared singing and speaking. A lively choice for team events, parties and gift programmes.", "zh": "小巧藍牙喇叭配備兩支無線咪高峰，可同時合唱或發言，適合團隊活動、派對及禮品計劃。"},
+  "features": [
+   {"en": "Includes two wireless microphones.", "zh": "附兩支無線咪高峰。"},
+   {"en": "Both microphones can be used at the same time.", "zh": "兩支咪高峰可同時使用。"},
+   {"en": "Compact Bluetooth speaker for easy carrying.", "zh": "迷你藍牙喇叭，方便攜帶。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["bluetooth speaker", "karaoke speaker", "wireless microphone", "mini speaker", "party speaker"]
+ },
+ {
+  "id": "npsp18001",
+  "slug": "stainless-steel-yukihira-pan-npsp18001",
+  "name": {"en": "Stainless Steel Yukihira Pan 18cm", "zh": "不鏽鋼木柄雪平鍋 18cm"},
+  "tagline": {"en": "Everyday simmering, beautifully simple.", "zh": "日常小煮，簡約自在。"},
+  "summary": {"en": "An 18 cm stainless steel yukihira pan with a wooden handle, sized for sauces, soups and noodles. A practical, enduring piece for homeware ranges and kitchen gift sets.", "zh": "18cm 不鏽鋼雪平鍋配木柄，適合煮醬汁、湯品及麵食，是家品系列及廚房禮品組合的實用之選。"},
+  "features": [
+   {"en": "Stainless steel pan body.", "zh": "不鏽鋼鍋身。"},
+   {"en": "Wooden handle for a comfortable grip.", "zh": "木製手柄，握持舒適。"},
+   {"en": "18 cm diameter, suited to small portions.", "zh": "18cm 口徑，適合小份量烹調。"}
+  ],
+  "specs": [
+   {"label": {"en": "Size", "zh": "尺寸"}, "value": {"en": "18cm", "zh": "18cm"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Stainless steel, wooden handle", "zh": "不鏽鋼、木柄"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["yukihira pan", "saucepan", "stainless steel pan", "wooden handle", "cookware"]
+ },
+ {
+  "id": "npps002",
+  "slug": "fast-charging-power-strip-8-outlets-npps002",
+  "name": {"en": "Fast-Charging Power Strip with USB, 8 Outlets", "zh": "QC3.0/PD20W 快充拖板（8位）"},
+  "tagline": {"en": "Every device, charged in one place.", "zh": "多部裝置，一處充電。"},
+  "summary": {"en": "An eight-outlet power strip with two USB-A and one USB-C port supporting QC3.0 and PD 20W fast charging. Ideal for offices, meeting rooms and hospitality spaces.", "zh": "8 位拖板配備兩個 USB-A 及一個 USB-C 接口，支援 QC3.0 及 PD 20W 快充，適合辦公室、會議室及酒店空間。"},
+  "features": [
+   {"en": "Eight power outlets.", "zh": "8 個電源插座。"},
+   {"en": "Two USB-A ports and one USB-C port.", "zh": "兩個 USB-A 及一個 USB-C 接口。"},
+   {"en": "Supports QC3.0 and PD 20W fast charging.", "zh": "支援 QC3.0 及 PD 20W 快速充電。"},
+   {"en": "2 m power cord.", "zh": "電源線長 2 米。"}
+  ],
+  "specs": [
+   {"label": {"en": "Outlets", "zh": "插座"}, "value": {"en": "8", "zh": "8 位"}},
+   {"label": {"en": "USB Ports", "zh": "USB 接口"}, "value": {"en": "2 × USB-A, 1 × USB-C", "zh": "2 × USB-A、1 × USB-C"}},
+   {"label": {"en": "Fast Charging", "zh": "快充規格"}, "value": {"en": "QC3.0 / PD 20W", "zh": "QC3.0 / PD 20W"}},
+   {"label": {"en": "Cord Length", "zh": "電源線長度"}, "value": {"en": "2m", "zh": "2米"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["power strip", "usb charger", "fast charging", "extension socket", "usb-c"]
+ },
+ {
+  "id": "npps004",
+  "slug": "vertical-tower-power-strip-9-sockets-npps004",
+  "name": {"en": "Vertical Tower Power Strip, 9 Sockets", "zh": "直立式拖板（9插座）"},
+  "tagline": {"en": "More power, less footprint.", "zh": "直立設計，節省空間。"},
+  "summary": {"en": "A vertical power strip with nine sockets that stands upright to save desk and floor space. Well suited to offices, studios and shared workspaces.", "zh": "直立式拖板設有 9 個插座，直立擺放節省桌面及地面空間，適合辦公室、工作室及共享空間。"},
+  "features": [
+   {"en": "Nine power sockets.", "zh": "設有 9 個插座。"},
+   {"en": "Upright tower design saves space.", "zh": "直立式設計，節省空間。"}
+  ],
+  "specs": [
+   {"label": {"en": "Sockets", "zh": "插座"}, "value": {"en": "9", "zh": "9 個"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["power strip", "tower socket", "extension socket", "vertical power strip"]
+ },
+ {
+  "id": "npps003",
+  "slug": "vertical-tower-power-strip-5-sockets-npps003",
+  "name": {"en": "Vertical Tower Power Strip, 5 Sockets", "zh": "直立式拖板（5插座）"},
+  "tagline": {"en": "Compact power, standing tall.", "zh": "小巧直立，供電從容。"},
+  "summary": {"en": "A compact vertical power strip with five sockets, designed to stand upright on a desk or floor. A tidy solution for offices, bedrooms and hotel rooms.", "zh": "小巧直立式拖板設有 5 個插座，可直立擺放於桌面或地面，是辦公室、睡房及酒店客房的整潔之選。"},
+  "features": [
+   {"en": "Five power sockets.", "zh": "設有 5 個插座。"},
+   {"en": "Upright tower design saves space.", "zh": "直立式設計，節省空間。"}
+  ],
+  "specs": [
+   {"label": {"en": "Sockets", "zh": "插座"}, "value": {"en": "5", "zh": "5 個"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["power strip", "tower socket", "extension socket", "vertical power strip"]
+ },
+ {
+  "id": "nptj003",
+  "slug": "316-stainless-steel-vacuum-flask-nptj003",
+  "name": {"en": "316 Stainless Steel Vacuum Flask 1500ml", "zh": "316 不鏽鋼真空保溫壺 1500ml"},
+  "tagline": {"en": "Warmth that lasts the day.", "zh": "溫度，整日相伴。"},
+  "summary": {"en": "A 1500 ml vacuum flask made with 316 stainless steel, generous enough for the whole family or the whole office. A dependable gift for corporate and seasonal programmes.", "zh": "1500ml 真空保溫壺採用 316 不鏽鋼，容量足夠家庭或辦公室共享，是企業及節日禮品的可靠之選。"},
+  "features": [
+   {"en": "316 stainless steel construction.", "zh": "採用 316 不鏽鋼。"},
+   {"en": "Vacuum insulation keeps drinks at temperature.", "zh": "真空保溫設計。"},
+   {"en": "Generous 1500 ml capacity.", "zh": "1500ml 大容量。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1500ml", "zh": "1500ml"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "316 stainless steel", "zh": "316 不鏽鋼"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["vacuum flask", "thermos", "316 stainless steel", "insulated jug", "drinkware"]
+ },
+ {
+  "id": "nppp24001",
+  "slug": "stainless-steel-low-pressure-pot-nppp24001",
+  "name": {"en": "Stainless Steel Low-Pressure Pot 5L", "zh": "不鏽鋼微壓鍋 5公升"},
+  "tagline": {"en": "Gentle pressure. Deeper flavour.", "zh": "微壓慢煮，滋味更濃。"},
+  "summary": {"en": "A 5-litre stainless steel low-pressure pot for soups, stews and family meals. A substantial, practical choice for homeware ranges and premium gift sets.", "zh": "5 公升不鏽鋼微壓鍋，適合煲湯、燉煮及家庭料理，是家品系列及高級禮品組合的實用之選。"},
+  "features": [
+   {"en": "Stainless steel construction.", "zh": "不鏽鋼鍋身。"},
+   {"en": "Low-pressure cooking design.", "zh": "微壓烹調設計。"},
+   {"en": "5-litre capacity for family meals.", "zh": "5 公升容量，適合家庭份量。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "5L", "zh": "5公升"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Stainless steel", "zh": "不鏽鋼"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["pressure pot", "low pressure cooker", "stainless steel pot", "cookware", "stock pot"]
+ },
+ {
+  "id": "clvc003",
+  "slug": "cordless-mini-handheld-vacuum-clvc003",
+  "name": {"en": "Cordless Mini Handheld Vacuum", "zh": "BLDC 無線迷你手提吸塵機"},
+  "tagline": {"en": "Powerful suction, wherever you are.", "zh": "強勁吸力，隨處可用。"},
+  "summary": {"en": "A compact cordless vacuum with a brushless motor, two suction modes and Type-C charging. Built for cars, homes, hotels and outdoor use, it suits retail ranges and corporate gifting alike.", "zh": "小巧無線吸塵機配備無刷馬達、兩檔吸力及 Type-C 充電，適用於車內、家居、酒店及戶外，適合零售及企業禮品。"},
+  "features": [
+   {"en": "Brushless motor reaches up to 14,500 RPM for strong cyclonic suction.", "zh": "高速無刷馬達，轉速高達 14500 RPM，旋風吸力強勁。"},
+   {"en": "High-power mode up to 16 minutes; ECO mode up to 30 minutes.", "zh": "高效模式最長 16 分鐘，ECO 模式最長 30 分鐘。"},
+   {"en": "Two 2500mAh lithium batteries with Type-C charging.", "zh": "兩顆 2500mAh 鋰電池，Type-C 充電。"},
+   {"en": "Washable 130 ml dust container and filter.", "zh": "130ml 集塵盒及濾網均可拆卸水洗。"},
+   {"en": "Includes a crevice nozzle and a flat brush nozzle.", "zh": "附長嘴吸頭及扁口植毛刷。"}
+  ],
+  "specs": [
+   {"label": {"en": "Max Speed", "zh": "最高轉速"}, "value": {"en": "14500 RPM", "zh": "14500 RPM"}},
+   {"label": {"en": "Battery", "zh": "電池"}, "value": {"en": "Lithium-ion, 2500mAh × 2 / 18.5Wh", "zh": "鋰離子電池（2500mAh × 2 / 18.5Wh）"}},
+   {"label": {"en": "Runtime", "zh": "續航時間"}, "value": {"en": "Approx. 16 min (high) / 30 min (ECO)", "zh": "高效模式約 16 分鐘 / ECO 模式約 30 分鐘"}},
+   {"label": {"en": "Dust Capacity", "zh": "集塵盒容量"}, "value": {"en": "130ml", "zh": "130ml"}},
+   {"label": {"en": "Charging", "zh": "充電方式"}, "value": {"en": "Type-C", "zh": "Type-C 接口"}},
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "232 × 55 × 55 mm", "zh": "232 × 55 × 55 mm"}},
+   {"label": {"en": "Weight", "zh": "重量"}, "value": {"en": "Approx. 315g", "zh": "約 315g"}},
+   {"label": {"en": "Included", "zh": "配件"}, "value": {"en": "Main unit, crevice nozzle, flat brush, charging cable, manual", "zh": "主機、長嘴吸頭、扁口植毛刷、充電線、說明書"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["handheld vacuum", "cordless vacuum", "car vacuum", "mini vacuum", "brushless motor"]
+ },
+ {
+  "id": "npht002",
+  "slug": "compact-ceramic-fan-heater-npht002",
+  "name": {"en": "Compact Ceramic Fan Heater 1000W", "zh": "1000W 座枱陶瓷暖風機"},
+  "tagline": {"en": "Quiet warmth, close at hand.", "zh": "暖意，近在身旁。"},
+  "summary": {"en": "A 1000W desktop ceramic heater with two heat settings and built-in safety cut-offs, available in square and round forms. A considerate winter gift for offices and homes.", "zh": "1000W 座枱陶瓷暖風機設兩檔溫度及安全斷電保護，備方形及圓形款式，是辦公室及家居的貼心冬季禮品。"},
+  "features": [
+   {"en": "1000W heating power.", "zh": "1000W 功率。"},
+   {"en": "Two temperature settings.", "zh": "兩檔溫度選擇。"},
+   {"en": "Overheat and tip-over cut-off protection.", "zh": "過熱及傾倒斷電保護。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1000W", "zh": "1000W"}},
+   {"label": {"en": "Heat Settings", "zh": "溫度檔位"}, "value": {"en": "2", "zh": "2 檔"}}
+  ],
+  "variants": [
+   {"en": "Square", "zh": "方形"},
+   {"en": "Round Mini", "zh": "迷你圓形"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["ceramic heater", "fan heater", "desk heater", "space heater", "ptc heater"]
+ },
+ {
+  "id": "m-033d22a4",
+  "slug": "rock-salt-slab-rectangular-small",
+  "name": {"en": "Rock Salt Slab, Small Rectangle", "zh": "岩鹽板（長方形・小）"},
+  "tagline": {"en": "A natural block of mineral salt.", "zh": "天然岩鹽，一塊成形。"},
+  "summary": {"en": "A single small rectangular slab of rock salt with a natural, mineral character. A distinctive piece for lifestyle retail and thoughtful gift sets.", "zh": "單塊小型長方形岩鹽板，質感天然，適合生活家品零售及別緻禮品組合。"},
+  "features": [
+   {"en": "Cut from rock salt.", "zh": "岩鹽切製。"},
+   {"en": "Small rectangular shape.", "zh": "小型長方形設計。"},
+   {"en": "Supplied as a single slab.", "zh": "每件一塊。"}
+  ],
+  "specs": [
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Rock salt", "zh": "岩鹽"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["rock salt slab", "salt block", "salt plate", "natural salt"]
+ },
+ {
+  "id": "m-b99a8300",
+  "slug": "rock-salt-slab-rectangular-large",
+  "name": {"en": "Rock Salt Slab, Large Rectangle", "zh": "岩鹽板（長方形・大）"},
+  "tagline": {"en": "Natural salt, generously sized.", "zh": "天然岩鹽，大尺寸。"},
+  "summary": {"en": "A single large rectangular rock salt slab measuring 30 × 20 × 5 cm. A striking natural piece for lifestyle retail and premium gift presentations.", "zh": "單塊大型長方形岩鹽板，尺寸 30 × 20 × 5cm，天然質感，適合生活家品零售及高級禮品陳列。"},
+  "features": [
+   {"en": "Cut from rock salt.", "zh": "岩鹽切製。"},
+   {"en": "Large rectangular slab, 30 × 20 × 5 cm.", "zh": "大型長方形，尺寸 30 × 20 × 5cm。"},
+   {"en": "Supplied as a single slab.", "zh": "每件一塊。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "30 × 20 × 5 cm", "zh": "30 × 20 × 5cm"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Rock salt", "zh": "岩鹽"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["rock salt slab", "salt block", "salt plate", "natural salt"]
+ },
+ {
+  "id": "m-790ce1b9",
+  "slug": "bath-salt-bottle-100g",
+  "name": {"en": "Bath Salt, 100g Bottle", "zh": "浴鹽（100g 樽裝）"},
+  "tagline": {"en": "A quiet ritual for the bath.", "zh": "沐浴時光，靜心片刻。"},
+  "summary": {"en": "Bath salt presented in a 100 g bottle, sized for a relaxing soak. An easy addition to spa, wellness and hospitality gift sets.", "zh": "100g 樽裝浴鹽，為放鬆浸浴而設，適合加入水療、健康及酒店禮品組合。"},
+  "features": [
+   {"en": "Bath salt for soaking.", "zh": "浸浴用浴鹽。"},
+   {"en": "Supplied in a 100 g bottle.", "zh": "100g 樽裝。"}
+  ],
+  "specs": [
+   {"label": {"en": "Net Weight", "zh": "淨重"}, "value": {"en": "100g", "zh": "100g"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["bath salt", "spa salt", "bath soak", "wellness gift"]
+ },
+ {
+  "id": "cbss001",
+  "slug": "oval-salt-soap-cbss001",
+  "name": {"en": "Salt Soap, Oval", "zh": "鹽皂（橢圓形）"},
+  "tagline": {"en": "Simple form. Natural cleanse.", "zh": "簡約形態，天然潔淨。"},
+  "summary": {"en": "An oval salt soap with a smooth, classic shape. A tasteful addition to bathroom, spa and hospitality gift collections.", "zh": "橢圓形鹽皂，造型圓潤經典，適合浴室、水療及酒店禮品系列。"},
+  "features": [
+   {"en": "Salt-based soap.", "zh": "鹽皂。"},
+   {"en": "Classic oval shape.", "zh": "經典橢圓造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Oval", "zh": "橢圓形"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt soap", "bath soap", "spa gift", "oval soap"]
+ },
+ {
+  "id": "cbss002",
+  "slug": "heart-salt-soap-cbss002",
+  "name": {"en": "Salt Soap, Heart", "zh": "鹽皂（心形）"},
+  "tagline": {"en": "A small gesture, shaped with care.", "zh": "一份心意，細緻成形。"},
+  "summary": {"en": "A heart-shaped salt soap that makes a gentle, personal gesture. Well suited to wedding favours, event giveaways and spa gift sets.", "zh": "心形鹽皂，傳遞溫柔心意，適合婚禮回禮、活動贈品及水療禮品組合。"},
+  "features": [
+   {"en": "Salt-based soap.", "zh": "鹽皂。"},
+   {"en": "Heart shape.", "zh": "心形造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Heart", "zh": "心形"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt soap", "heart soap", "wedding favour", "spa gift"]
+ },
+ {
+  "id": "cbss003",
+  "slug": "ingot-salt-soap-cbss003",
+  "name": {"en": "Salt Soap, Gold Ingot", "zh": "鹽皂（元寶）"},
+  "tagline": {"en": "A token of prosperity.", "zh": "元寶造型，寓意吉祥。"},
+  "summary": {"en": "A salt soap shaped as a traditional gold ingot, a symbol of prosperity. An auspicious choice for Lunar New Year gifts and corporate festive giveaways.", "zh": "以傳統元寶為造型的鹽皂，寓意興旺，適合新春禮品及企業節日贈品。"},
+  "features": [
+   {"en": "Salt-based soap.", "zh": "鹽皂。"},
+   {"en": "Traditional gold ingot shape.", "zh": "傳統元寶造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Gold Ingot", "zh": "元寶"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt soap", "ingot soap", "lunar new year gift", "festive gift"]
+ },
+ {
+  "id": "cbss004",
+  "slug": "tapered-bar-salt-soap-cbss004",
+  "name": {"en": "Salt Soap, Tapered Bar", "zh": "鹽皂（錐條）"},
+  "tagline": {"en": "Clean lines, natural salt.", "zh": "俐落線條，天然鹽皂。"},
+  "summary": {"en": "A salt soap in a tapered bar form with a clean, modern profile. A refined option for bathroom retail and hospitality amenities.", "zh": "錐條造型鹽皂，線條簡潔現代，適合浴室家品零售及酒店用品。"},
+  "features": [
+   {"en": "Salt-based soap.", "zh": "鹽皂。"},
+   {"en": "Tapered bar shape.", "zh": "錐條造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Tapered Bar", "zh": "錐條"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt soap", "bath soap", "spa gift", "bar soap"]
+ },
+ {
+  "id": "clsc005",
+  "slug": "heart-salt-candle-holder-clsc005",
+  "name": {"en": "Salt Candle Holder, Heart", "zh": "鹽燭台（心形）"},
+  "tagline": {"en": "Warm light, softly shaped.", "zh": "溫柔燭光，心形相映。"},
+  "summary": {"en": "A heart-shaped candle holder carved from salt, casting a warm glow when lit. A gentle gift for weddings, anniversaries and seasonal programmes.", "zh": "心形鹽燭台，點燃後透出溫暖光暈，適合婚禮、紀念日及節日禮品。"},
+  "features": [
+   {"en": "Candle holder made from salt.", "zh": "以鹽製成的燭台。"},
+   {"en": "Heart shape.", "zh": "心形造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Heart", "zh": "心形"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt candle holder", "tealight holder", "home decor", "heart candle holder"]
+ },
+ {
+  "id": "clsc004",
+  "slug": "cylinder-salt-candle-holder-clsc004",
+  "name": {"en": "Salt Candle Holder, Cylinder", "zh": "鹽燭台（圓柱）"},
+  "tagline": {"en": "A column of gentle light.", "zh": "圓柱燭光，柔和溫暖。"},
+  "summary": {"en": "A cylindrical salt candle holder with a simple, timeless silhouette. A calm decorative piece for homes, spas and hotel interiors.", "zh": "圓柱形鹽燭台，輪廓簡約雋永，適合家居、水療中心及酒店空間點綴。"},
+  "features": [
+   {"en": "Candle holder made from salt.", "zh": "以鹽製成的燭台。"},
+   {"en": "Cylindrical shape.", "zh": "圓柱造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Cylinder", "zh": "圓柱"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt candle holder", "tealight holder", "home decor", "spa decor"]
+ },
+ {
+  "id": "clsc001",
+  "slug": "square-salt-candle-holder-clsc001",
+  "name": {"en": "Salt Candle Holder, Square", "zh": "鹽燭台（方形）"},
+  "tagline": {"en": "Modern form. Natural glow.", "zh": "方正造型，天然光暈。"},
+  "summary": {"en": "A square salt candle holder with a clean, architectural form. A considered accent for interiors, spas and gift collections.", "zh": "方形鹽燭台，造型俐落，適合室內空間、水療中心及禮品系列。"},
+  "features": [
+   {"en": "Candle holder made from salt.", "zh": "以鹽製成的燭台。"},
+   {"en": "Square shape.", "zh": "方形造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Square", "zh": "方形"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt candle holder", "tealight holder", "home decor", "square candle holder"]
+ },
+ {
+  "id": "clsc002",
+  "slug": "yin-yang-salt-candle-holder-clsc002",
+  "name": {"en": "Salt Candle Holder, Yin-Yang", "zh": "鹽燭台（太極）"},
+  "tagline": {"en": "Balance, in a soft glow.", "zh": "陰陽平衡，柔光相伴。"},
+  "summary": {"en": "A salt candle holder shaped after the yin-yang symbol of balance. A meaningful piece for wellness spaces, yoga studios and cultural gifts.", "zh": "以太極圖為造型的鹽燭台，寓意平衡，適合健康空間、瑜伽室及文化禮品。"},
+  "features": [
+   {"en": "Candle holder made from salt.", "zh": "以鹽製成的燭台。"},
+   {"en": "Yin-yang design.", "zh": "太極造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Yin-Yang", "zh": "太極"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt candle holder", "yin yang", "tealight holder", "wellness decor"]
+ },
+ {
+  "id": "clsc003",
+  "slug": "flower-salt-candle-holder-clsc003",
+  "name": {"en": "Salt Candle Holder, Flower", "zh": "鹽燭台（花形）"},
+  "tagline": {"en": "Light, in full bloom.", "zh": "燭光綻放如花。"},
+  "summary": {"en": "A flower-shaped salt candle holder that adds a delicate glow to any room. A graceful choice for weddings, events and seasonal gifts.", "zh": "花形鹽燭台，為空間增添細緻光暈，適合婚禮、活動及節日禮品。"},
+  "features": [
+   {"en": "Candle holder made from salt.", "zh": "以鹽製成的燭台。"},
+   {"en": "Flower shape.", "zh": "花形造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Flower", "zh": "花形"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt candle holder", "flower candle holder", "tealight holder", "home decor"]
+ },
+ {
+  "id": "npcmfsm001",
+  "slug": "foldable-heated-foot-spa-npcmfsm001",
+  "name": {"en": "Foldable Heated Foot Spa", "zh": "摺疊式恆溫加熱足浴盤"},
+  "tagline": {"en": "Warmth that folds away.", "zh": "恆溫足浴，摺疊收納。"},
+  "summary": {"en": "A foldable foot spa that heats and holds water at a steady temperature, then folds flat for storage. A caring gift for wellness programmes and family occasions.", "zh": "摺疊式足浴盤可加熱並保持恆溫，用後摺疊收納，是健康計劃及家庭節日的貼心禮品。"},
+  "features": [
+   {"en": "Heats water and keeps it at a constant temperature.", "zh": "加熱並保持水溫恆定。"},
+   {"en": "Foldable design for compact storage.", "zh": "摺疊式設計，方便收納。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["foot spa", "foot bath", "heated foot massager", "foldable foot bath", "wellness"]
+ },
+ {
+  "id": "clad002",
+  "slug": "woodgrain-ultrasonic-aroma-diffuser-clad002",
+  "name": {"en": "Woodgrain Ultrasonic Aroma Diffuser", "zh": "半木紋香薰機"},
+  "tagline": {"en": "Fine mist, soft light, quiet calm.", "zh": "細霧柔光，靜謐自在。"},
+  "summary": {"en": "An ultrasonic diffuser with a half-woodgrain finish and frosted shell that doubles as a bedside light. A calm, versatile gift for homes, offices and hotel rooms.", "zh": "超聲波香薰機配半木紋外觀及磨砂外殼，亦可作床頭燈使用，是家居、辦公室及酒店客房的雅緻禮品。"},
+  "features": [
+   {"en": "Works as a diffuser, humidifier and bedside light.", "zh": "可作香薰機、加濕器及床頭燈。"},
+   {"en": "Ultrasonic misting releases fragrance quickly and adds humidity.", "zh": "超聲波霧化，快速釋放香氣並提升濕度。"},
+   {"en": "Multiple mist output levels.", "zh": "多檔霧量調節。"},
+   {"en": "Quiet operation.", "zh": "靜音運行。"},
+   {"en": "One-touch control.", "zh": "一鍵操控。"},
+   {"en": "Shuts off automatically when water runs low.", "zh": "水位過低時自動斷電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Technology", "zh": "霧化技術"}, "value": {"en": "Ultrasonic", "zh": "超聲波"}},
+   {"label": {"en": "Housing", "zh": "外殼"}, "value": {"en": "Frosted translucent, half woodgrain", "zh": "半透明磨砂、半木紋"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["aroma diffuser", "ultrasonic diffuser", "humidifier", "night light", "essential oil diffuser"]
+ },
+ {
+  "id": "clsl002",
+  "slug": "salt-lamp-sphere-and-leaf-basket-clsl002",
+  "name": {"en": "Salt Lamp, Sphere and Leaf Basket", "zh": "鹽燈（球形／葉形金屬籃）"},
+  "tagline": {"en": "A warm, natural glow.", "zh": "溫暖天然光暈。"},
+  "summary": {"en": "A salt lamp offered as a smooth sphere or in a leaf-pattern metal basket. A warm decorative piece for homes, spas and gift collections.", "zh": "鹽燈備球形及葉形金屬籃兩款，散發溫暖光暈，適合家居、水療中心及禮品系列。"},
+  "features": [
+   {"en": "Lamp made from salt.", "zh": "以鹽製成的燈飾。"},
+   {"en": "Available as a sphere or in a leaf metal basket.", "zh": "備球形及葉形金屬籃款式。"}
+  ],
+  "specs": [],
+  "variants": [
+   {"en": "Sphere", "zh": "球形"},
+   {"en": "Leaf Metal Basket", "zh": "葉形金屬籃"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt lamp", "rock salt lamp", "night light", "home decor"]
+ },
+ {
+  "id": "clsl001",
+  "slug": "usb-salt-lamp-clear-cylinder-clsl001",
+  "name": {"en": "USB Salt Lamp, Clear Cylinder", "zh": "USB 鹽燈（透明圓柱）"},
+  "tagline": {"en": "Natural glow, powered by USB.", "zh": "USB 供電，天然光暈。"},
+  "summary": {"en": "A USB-powered salt lamp housed in a clear cylinder, sized for desks and bedside tables. An easy, appealing gift for offices and events.", "zh": "USB 供電鹽燈配透明圓柱外罩，適合放在書桌或床頭，是辦公室及活動的討喜禮品。"},
+  "features": [
+   {"en": "USB powered.", "zh": "USB 供電。"},
+   {"en": "Salt set within a clear cylinder.", "zh": "透明圓柱外罩。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power Supply", "zh": "供電方式"}, "value": {"en": "USB", "zh": "USB"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt lamp", "usb lamp", "desk lamp", "night light"]
+ },
+ {
+  "id": "clsl004",
+  "slug": "salt-lamp-cylinder-metal-basket-clsl004",
+  "name": {"en": "Salt Lamp, Cylinder Metal Basket", "zh": "鹽燈（圓柱金屬籃）"},
+  "tagline": {"en": "Natural salt, framed in metal.", "zh": "金屬圓籃，盛載暖光。"},
+  "summary": {"en": "A salt lamp held in a cylindrical metal basket for a clean, contemporary look. A warm accent for homes, spas and hospitality spaces.", "zh": "鹽燈置於圓柱形金屬籃中，造型簡潔現代，適合家居、水療中心及酒店空間。"},
+  "features": [
+   {"en": "Lamp made from salt.", "zh": "以鹽製成的燈飾。"},
+   {"en": "Cylindrical metal basket.", "zh": "圓柱形金屬籃。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt lamp", "rock salt lamp", "metal basket lamp", "home decor"]
+ },
+ {
+  "id": "clsl003",
+  "slug": "rectangular-salt-lamp-clsl003",
+  "name": {"en": "Salt Lamp, Rectangle", "zh": "鹽燈（長方形）"},
+  "tagline": {"en": "Clean lines, warm light.", "zh": "線條簡潔，光影溫暖。"},
+  "summary": {"en": "A rectangular salt lamp with a crisp, modern form and a warm glow. A refined decorative piece for interiors and gift programmes.", "zh": "長方形鹽燈，造型俐落現代，光暈溫暖，適合室內陳設及禮品計劃。"},
+  "features": [
+   {"en": "Lamp made from salt.", "zh": "以鹽製成的燈飾。"},
+   {"en": "Rectangular shape.", "zh": "長方形造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt lamp", "rock salt lamp", "night light", "home decor"]
+ },
+ {
+  "id": "clsl006",
+  "slug": "natural-salt-lamp-clsl006",
+  "name": {"en": "Salt Lamp, Natural Form", "zh": "鹽燈（自然款）"},
+  "tagline": {"en": "Shaped by nature, lit by you.", "zh": "自然原石，溫暖點亮。"},
+  "summary": {"en": "A salt lamp in its natural, uncut form, so every piece is distinct. A warm, organic accent for homes, spas and wellness gifts.", "zh": "自然原石造型鹽燈，每件形態各異，適合家居、水療中心及健康禮品。"},
+  "features": [
+   {"en": "Lamp made from salt.", "zh": "以鹽製成的燈飾。"},
+   {"en": "Natural, organic form.", "zh": "自然原石造型。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["salt lamp", "natural salt lamp", "rock salt lamp", "home decor"]
+ },
+ {
+  "id": "m-a31161f0",
+  "slug": "rechargeable-mini-chopper-whisk",
+  "name": {"en": "Rechargeable Mini Chopper and Whisk", "zh": "充電迷你多功能切碎機／打蛋器"},
+  "tagline": {"en": "Small prep, made effortless.", "zh": "小小備料，輕鬆完成。"},
+  "summary": {"en": "A rechargeable mini kitchen tool that chops and whisks, available in three colours. A practical, cheerful gift for home cooks and retail promotions.", "zh": "充電式迷你廚房工具，可切碎及打蛋，備三種顏色，是家居烹飪愛好者及零售推廣的實用禮品。"},
+  "features": [
+   {"en": "Rechargeable, cord-free operation.", "zh": "充電式設計，免拖電線。"},
+   {"en": "Works as both a chopper and a whisk.", "zh": "切碎及打蛋一機兼顧。"},
+   {"en": "Compact size for small portions.", "zh": "迷你機身，適合小份量。"}
+  ],
+  "specs": [],
+  "variants": [
+   {"en": "Pink", "zh": "粉紅色"},
+   {"en": "Green", "zh": "綠色"},
+   {"en": "White", "zh": "白色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["mini chopper", "electric whisk", "rechargeable chopper", "food processor", "garlic chopper"]
+ },
+ {
+  "id": "npcb001",
+  "slug": "electric-cleaning-brush-npcb001",
+  "name": {"en": "Electric Cleaning Brush", "zh": "電動清潔刷"},
+  "tagline": {"en": "Three heads. Every surface.", "zh": "三款刷頭，全面清潔。"},
+  "summary": {"en": "A rechargeable electric scrubber with three interchangeable heads, 120 minutes of runtime and IPX7 water resistance. A useful household gift in three colours.", "zh": "充電式電動清潔刷配三款可替換刷頭，續航 120 分鐘並具 IPX7 防水，備三色，是實用家居禮品。"},
+  "features": [
+   {"en": "Three-in-one heads: nylon brush, sponge and scouring pad.", "zh": "尼龍刷頭、海棉刷頭及百潔布三合一。"},
+   {"en": "800mAh battery delivers 120 minutes of runtime.", "zh": "800mAh 電池，續航 120 分鐘。"},
+   {"en": "IPX7 waterproof.", "zh": "IPX7 防水。"}
+  ],
+  "specs": [
+   {"label": {"en": "Battery", "zh": "電池"}, "value": {"en": "800mAh", "zh": "800mAh"}},
+   {"label": {"en": "Runtime", "zh": "續航時間"}, "value": {"en": "120 min", "zh": "120 分鐘"}},
+   {"label": {"en": "Water Resistance", "zh": "防水等級"}, "value": {"en": "IPX7", "zh": "IPX7"}},
+   {"label": {"en": "Brush Heads", "zh": "刷頭"}, "value": {"en": "Nylon, sponge, scouring pad", "zh": "尼龍、海棉、百潔布"}}
+  ],
+  "variants": [
+   {"en": "Yellow", "zh": "黃色"},
+   {"en": "White", "zh": "白色"},
+   {"en": "Blue", "zh": "藍色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["electric cleaning brush", "power scrubber", "bathroom cleaner", "kitchen brush", "rechargeable brush"]
+ },
+ {
+  "id": "hepa-npwdmvc001rd-bu-uv",
+  "slug": "hepa-filter-uv-dust-mite-vacuum-npwdmvc001",
+  "name": {"en": "HEPA Filter for Cordless UV Dust Mite Vacuum", "zh": "HEPA 濾網（無線 UV 除塵蟎機適用）"},
+  "tagline": {"en": "Keep filtration at its best.", "zh": "定期更換，過濾如新。"},
+  "summary": {"en": "A replacement HEPA filter for the NPWDMVC001RD / BU cordless UV dust mite vacuum. Keeps the machine performing as intended.", "zh": "NPWDMVC001RD / BU 無線 UV 除塵蟎機專用替換 HEPA 濾網，維持機器應有表現。"},
+  "features": [
+   {"en": "Fits the NPWDMVC001RD / BU cordless UV dust mite vacuum.", "zh": "適用於 NPWDMVC001RD / BU 無線 UV 除塵蟎機。"},
+   {"en": "Meets HEPA filtration standard.", "zh": "符合 HEPA 過濾標準。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible Model", "zh": "適用型號"}, "value": {"en": "NPWDMVC001RD / BU", "zh": "NPWDMVC001RD / BU"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": ["HEPA"],
+  "giftable": false,
+  "keywords": ["hepa filter", "replacement filter", "dust mite vacuum filter", "uv vacuum"]
+ },
+ {
+  "id": "codc001a",
+  "slug": "hepa-filter-dust-mite-vacuum-codc001a",
+  "name": {"en": "HEPA Filter for Handheld Dust Mite Vacuum", "zh": "HEPA 濾網（手提除塵蟎吸塵機適用）"},
+  "tagline": {"en": "Fresh filtration, fitted in seconds.", "zh": "替換濾網，潔淨如初。"},
+  "summary": {"en": "A replacement HEPA filter for the CODC001 corded handheld dust mite vacuum. Keeps filtration performance consistent over time.", "zh": "CODC001 手提有線除塵蟎吸塵機專用替換 HEPA 濾網，長期維持穩定過濾效能。"},
+  "features": [
+   {"en": "Fits the CODC001 corded handheld dust mite vacuum.", "zh": "適用於 CODC001 手提有線除塵蟎吸塵機。"},
+   {"en": "Meets HEPA filtration standard.", "zh": "符合 HEPA 過濾標準。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible Model", "zh": "適用型號"}, "value": {"en": "CODC001", "zh": "CODC001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": ["HEPA"],
+  "giftable": false,
+  "keywords": ["hepa filter", "replacement filter", "dust mite vacuum filter", "codc001"]
+ },
+ {
+  "id": "m-21aeacdd",
+  "slug": "nylon-brush-head-electric-cleaning-brush",
+  "name": {"en": "Nylon Brush Head", "zh": "尼龍刷頭"},
+  "tagline": {"en": "Firm bristles for tough grime.", "zh": "尼龍刷毛，對付頑垢。"},
+  "summary": {"en": "A replacement nylon brush head for the NPCB001 multi-purpose cleaning brush. A simple way to keep the brush ready for regular use.", "zh": "NPCB001 多用途清潔刷專用替換尼龍刷頭，讓清潔刷隨時可用。"},
+  "features": [
+   {"en": "Fits the NPCB001 multi-purpose cleaning brush.", "zh": "適用於 NPCB001 多用途清潔刷。"},
+   {"en": "Nylon bristles.", "zh": "尼龍刷毛。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible Model", "zh": "適用型號"}, "value": {"en": "NPCB001", "zh": "NPCB001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["brush head", "nylon brush", "replacement head", "cleaning brush"]
+ },
+ {
+  "id": "m-a265dc42",
+  "slug": "scouring-pad-head-electric-cleaning-brush",
+  "name": {"en": "Scouring Pad Head", "zh": "百潔布刷頭"},
+  "tagline": {"en": "Scour with ease.", "zh": "百潔布，輕鬆刷洗。"},
+  "summary": {"en": "A replacement scouring pad head for the NPCB001 multi-purpose cleaning brush. Suited to routine scrubbing around the home.", "zh": "NPCB001 多用途清潔刷專用替換百潔布刷頭，適合日常家居刷洗。"},
+  "features": [
+   {"en": "Fits the NPCB001 multi-purpose cleaning brush.", "zh": "適用於 NPCB001 多用途清潔刷。"},
+   {"en": "Scouring pad surface.", "zh": "百潔布表面。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible Model", "zh": "適用型號"}, "value": {"en": "NPCB001", "zh": "NPCB001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["scouring pad", "brush head", "replacement head", "cleaning brush"]
+ },
+ {
+  "id": "m-128c11ac",
+  "slug": "sponge-head-electric-cleaning-brush",
+  "name": {"en": "Sponge Brush Head", "zh": "海棉刷頭"},
+  "tagline": {"en": "Gentle on delicate surfaces.", "zh": "柔軟海棉，細緻清潔。"},
+  "summary": {"en": "A replacement sponge head for the NPCB001 multi-purpose cleaning brush. A softer option for everyday wiping and cleaning.", "zh": "NPCB001 多用途清潔刷專用替換海棉刷頭，日常擦拭更柔和。"},
+  "features": [
+   {"en": "Fits the NPCB001 multi-purpose cleaning brush.", "zh": "適用於 NPCB001 多用途清潔刷。"},
+   {"en": "Soft sponge surface.", "zh": "海棉表面。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible Model", "zh": "適用型號"}, "value": {"en": "NPCB001", "zh": "NPCB001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["sponge head", "brush head", "replacement head", "cleaning brush"]
+ },
+ {
+  "id": "cchm003",
+  "slug": "digital-hand-mixer-500w-cchm003",
+  "name": {"en": "500W Digital Hand Mixer", "zh": "500W 數碼控制手持攪拌器"},
+  "tagline": {"en": "Precise control, from first turn.", "zh": "精準控速，起步平穩。"},
+  "summary": {"en": "A 500W hand mixer with an LED display, five speeds plus Turbo and a soft-start DC motor. Supplied with beaters and dough hooks, it suits baking ranges and premium kitchen gifts.", "zh": "500W 手持攪拌器配備 LED 螢幕、五段變速加 Turbo 及柔速起動直流電機，附打蛋棒及麵糰鉤，適合烘焙系列及高級廚房禮品。"},
+  "features": [
+   {"en": "500W motor handles thick mixtures with ease.", "zh": "500W 動力，濃稠食材也能輕鬆攪拌。"},
+   {"en": "LED screen shows running time and speed in real time.", "zh": "LED 螢幕即時顯示運作時間及轉速。"},
+   {"en": "Low-noise pure copper DC motor.", "zh": "DC 低噪純銅電機，運轉穩定。"},
+   {"en": "Five speeds plus Turbo; soft start at about 650 rpm reduces splashing.", "zh": "五段變速加 Turbo；柔速起動約 650 rpm，減少飛濺。"},
+   {"en": "Attachments release only when the mixer is switched off.", "zh": "僅在關機時可退出攪拌棒，避免誤操作。"},
+   {"en": "Includes stainless steel beaters and dough hooks.", "zh": "附不鏽鋼打蛋棒及麵糰鉤各一對。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "500W", "zh": "500W"}},
+   {"label": {"en": "Motor", "zh": "電機"}, "value": {"en": "DC pure copper", "zh": "DC 純銅電機"}},
+   {"label": {"en": "Speeds", "zh": "速度"}, "value": {"en": "5 + Turbo", "zh": "五段 + Turbo"}},
+   {"label": {"en": "Starting Speed", "zh": "初始轉速"}, "value": {"en": "Approx. 650 rpm (±20%)", "zh": "約 650 rpm（±20%）"}},
+   {"label": {"en": "Display", "zh": "顯示"}, "value": {"en": "LED", "zh": "LED 螢幕"}},
+   {"label": {"en": "Continuous Operation", "zh": "連續工作時間"}, "value": {"en": "Approx. 10 min", "zh": "約 10 分鐘"}},
+   {"label": {"en": "Attachments", "zh": "配件"}, "value": {"en": "2 stainless steel beaters, 2 dough hooks", "zh": "不鏽鋼打蛋棒 × 2、麵糰鉤 × 2"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hand mixer", "electric whisk", "dough hook", "baking mixer", "digital mixer"]
+ },
+ {
+  "id": "cchb001",
+  "slug": "digital-hand-blender-1000w-cchb001",
+  "name": {"en": "1000W Digital Hand Blender", "zh": "1000W 數碼手提攪拌棒"},
+  "tagline": {"en": "Strong, steady, and light in hand.", "zh": "動力強勁，輕巧順手。"},
+  "summary": {"en": "A 1000W hand blender with a copper DC motor, LED display and five speeds plus boost. Its LFGB-certified stainless steel shaft makes it a confident choice for kitchen ranges and gifts.", "zh": "1000W 手提攪拌棒配備全銅直流摩打、LED 螢幕及五段變速加加速鍵，通過 LFGB 食品接觸安全認證，適合廚房系列及禮品。"},
+  "features": [
+   {"en": "1000W full copper DC motor, powerful and quiet.", "zh": "1000W 全銅直流摩打，強勁穩定，靜音耐用。"},
+   {"en": "LED screen shows running time and speed.", "zh": "LED 螢幕即時顯示運作時間及轉速。"},
+   {"en": "Five-speed dial with a boost button.", "zh": "五段變速旋鈕及加速鍵。"},
+   {"en": "Detachable stainless steel shaft with four-blade head.", "zh": "可拆式不鏽鋼攪拌棒，四葉刀頭。"},
+   {"en": "Quick-connect design for fast assembly.", "zh": "卡榫式快速接口，拆裝便捷。"},
+   {"en": "Certified to German LFGB food-contact standard.", "zh": "通過德國 LFGB 食品接觸安全認證。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1000W", "zh": "1000W"}},
+   {"label": {"en": "Motor", "zh": "摩打"}, "value": {"en": "Full copper DC", "zh": "全銅直流摩打"}},
+   {"label": {"en": "Speeds", "zh": "速度"}, "value": {"en": "5 + boost", "zh": "五段 + 加速"}},
+   {"label": {"en": "Display", "zh": "顯示"}, "value": {"en": "LED", "zh": "LED 螢幕"}},
+   {"label": {"en": "Blade", "zh": "刀頭"}, "value": {"en": "4-blade stainless steel", "zh": "不鏽鋼四葉刀頭"}},
+   {"label": {"en": "Continuous Operation", "zh": "連續工作時間"}, "value": {"en": "Approx. 1 min", "zh": "約 1 分鐘"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": ["LFGB"],
+  "giftable": true,
+  "keywords": ["hand blender", "immersion blender", "stick blender", "digital blender", "kitchen appliance"]
+ },
+ {
+  "id": "ccim003",
+  "slug": "ice-cream-maker-0-5l-ccim003",
+  "name": {"en": "Ice Cream Maker 0.5L", "zh": "雪糕製造機 0.5L"},
+  "tagline": {"en": "Homemade dessert, made simple.", "zh": "自家甜品，簡單製作。"},
+  "summary": {"en": "A 0.5-litre ice cream maker for fresh desserts at home. A delightful gift for families and summer promotions.", "zh": "0.5 公升雪糕製造機，在家輕鬆製作新鮮甜品，是家庭及夏季推廣的討喜禮品。"},
+  "features": [
+   {"en": "Makes ice cream at home.", "zh": "在家自製雪糕。"},
+   {"en": "0.5-litre capacity.", "zh": "0.5L 容量。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "0.5L", "zh": "0.5L"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["ice cream maker", "dessert maker", "gelato maker", "kitchen appliance"]
+ },
+ {
+  "id": "coac002",
+  "slug": "cordless-desk-air-cooler-coac002",
+  "name": {"en": "2-in-1 Cordless Desk Air Cooler", "zh": "二合一無線桌面冷風機"},
+  "tagline": {"en": "Personal cool, right at your desk.", "zh": "桌上清涼，隨身自在。"},
+  "summary": {"en": "A compact cordless cooler that blows chilled air from ice water and adds humidity. Energy-efficient at 10W, it suits offices, small rooms and summer giveaways.", "zh": "小巧無線冷風機，放入冰水即吹出涼風並具加濕功能，功率僅 10W，適合辦公室、小房間及夏季贈品。"},
+  "features": [
+   {"en": "Add ice water for cool airflow.", "zh": "放入冰水，吹出涼風。"},
+   {"en": "Built-in humidifying function.", "zh": "具備加濕功能。"},
+   {"en": "Compact and energy-efficient for small rooms.", "zh": "體積小巧，節能省電，適合細小房間。"},
+   {"en": "2000mAh battery with Micro-USB charging.", "zh": "2000mAh 電池，Micro-USB 充電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "10W", "zh": "10W"}},
+   {"label": {"en": "Battery", "zh": "電池"}, "value": {"en": "2000mAh", "zh": "2000mAh"}},
+   {"label": {"en": "Charging", "zh": "充電方式"}, "value": {"en": "Micro-USB", "zh": "Micro-USB"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["air cooler", "desk fan", "portable cooler", "humidifier", "cordless fan"]
+ },
+ {
+  "id": "cohb003",
+  "slug": "cordless-curling-brush-cohb003",
+  "name": {"en": "Cordless Rechargeable Curling Brush", "zh": "充電式無線捲髮梳"},
+  "tagline": {"en": "Effortless curls, untethered.", "zh": "無線捲髮，隨心造型。"},
+  "summary": {"en": "A cordless curling brush with PTC ceramic heating, a 22 mm barrel and three temperature settings. A polished personal care gift for travel and everyday styling.", "zh": "無線捲髮梳配備 PTC 陶瓷發熱、22mm 捲髮筒及三段溫度控制，是旅行及日常造型的精緻個人護理禮品。"},
+  "features": [
+   {"en": "PTC ceramic heating with a 22 mm barrel.", "zh": "PTC 陶瓷發熱，22mm 捲髮筒。"},
+   {"en": "Three temperatures: 160℃, 180℃ and 200℃.", "zh": "三段溫度：160℃、180℃、200℃。"},
+   {"en": "Heats to 60℃ in 60 seconds.", "zh": "60 秒加熱至 60℃。"},
+   {"en": "4000mAh battery, about 30 minutes of use.", "zh": "4000mAh 電池，使用時間約 30 分鐘。"},
+   {"en": "Type-C charging, about 3 hours to full.", "zh": "Type-C 充電，約 3 小時充滿。"}
+  ],
+  "specs": [
+   {"label": {"en": "Heating", "zh": "發熱方式"}, "value": {"en": "PTC ceramic", "zh": "PTC 陶瓷"}},
+   {"label": {"en": "Barrel Size", "zh": "捲髮筒尺寸"}, "value": {"en": "22mm", "zh": "22mm"}},
+   {"label": {"en": "Temperature", "zh": "溫度"}, "value": {"en": "160℃ / 180℃ / 200℃", "zh": "160℃ / 180℃ / 200℃"}},
+   {"label": {"en": "Battery", "zh": "電池"}, "value": {"en": "4000mAh", "zh": "4000mAh"}},
+   {"label": {"en": "Charging Time", "zh": "充電時間"}, "value": {"en": "Approx. 3 hours", "zh": "約 3 小時"}},
+   {"label": {"en": "Runtime", "zh": "使用時間"}, "value": {"en": "Approx. 30 min", "zh": "約 30 分鐘"}},
+   {"label": {"en": "Charging Port", "zh": "充電接口"}, "value": {"en": "Type-C", "zh": "Type-C"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["curling brush", "cordless curler", "hair styler", "rechargeable curling iron", "travel hair tool"]
+ },
+ {
+  "id": "ccim001",
+  "slug": "ice-cream-maker-1-5l-ccim001",
+  "name": {"en": "Ice Cream Maker 1.5L", "zh": "雪糕製造機 1.5L"},
+  "tagline": {"en": "Dessert for the whole table.", "zh": "甜品，與眾同享。"},
+  "summary": {"en": "A 1.5-litre ice cream maker sized for families and gatherings. A generous gift for households and seasonal campaigns.", "zh": "1.5 公升雪糕製造機，份量適合家庭及聚會，是家庭及節日推廣的大方禮品。"},
+  "features": [
+   {"en": "Makes ice cream at home.", "zh": "在家自製雪糕。"},
+   {"en": "1.5-litre capacity for sharing.", "zh": "1.5L 容量，適合分享。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1.5L", "zh": "1.5L"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["ice cream maker", "dessert maker", "gelato maker", "kitchen appliance"]
+ },
+ {
+  "id": "cohb002",
+  "slug": "mini-rechargeable-hair-brush-cohb002",
+  "name": {"en": "Mini Rechargeable Hair Brush", "zh": "迷你充電髮梳"},
+  "tagline": {"en": "Small enough for every bag.", "zh": "小巧隨身，隨時整理。"},
+  "summary": {"en": "A compact rechargeable hair brush designed to travel in a handbag or pocket. A charming personal care gift.", "zh": "小巧充電髮梳，可放入手袋或口袋隨身攜帶，是討喜的個人護理禮品。"},
+  "features": [
+   {"en": "Rechargeable design.", "zh": "充電式設計。"},
+   {"en": "Mini size for carrying anywhere.", "zh": "迷你尺寸，方便攜帶。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Pink", "zh": "粉紅色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair brush", "mini hair brush", "rechargeable brush", "travel brush"]
+ },
+ {
+  "id": "m-7700816f",
+  "slug": "brushless-high-speed-ionic-hair-dryer",
+  "name": {"en": "Brushless High-Speed Ionic Hair Dryer", "zh": "無刷 BLDC 摩打高速負離子風筒"},
+  "tagline": {"en": "Fast drying, with a gentle touch.", "zh": "高速吹乾，柔順呵護。"},
+  "summary": {"en": "A high-speed hair dryer with a brushless BLDC motor and negative ion technology. A modern personal care choice for retail and gifting.", "zh": "高速風筒配備無刷 BLDC 摩打及負離子技術，是零售及禮品的現代個人護理之選。"},
+  "features": [
+   {"en": "Brushless BLDC motor.", "zh": "無刷 BLDC 摩打。"},
+   {"en": "High-speed airflow.", "zh": "高速風力。"},
+   {"en": "Negative ion function.", "zh": "負離子功能。"}
+  ],
+  "specs": [
+   {"label": {"en": "Motor", "zh": "摩打"}, "value": {"en": "Brushless BLDC", "zh": "無刷 BLDC"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair dryer", "ionic hair dryer", "brushless hair dryer", "high speed dryer", "bldc"]
+ },
+ {
+  "id": "cohd003",
+  "slug": "brushless-quiet-hair-dryer-cohd003",
+  "name": {"en": "Brushless High-Speed Quiet Hair Dryer", "zh": "無刷高速靜音風筒"},
+  "tagline": {"en": "More airflow. Less noise.", "zh": "風量更大，聲音更靜。"},
+  "summary": {"en": "A 1300W brushless hair dryer with airflow comparable to a conventional 2000W model, three heat and speed settings and dense ionic output. Offered in three colours for retail and gifting.", "zh": "1300W 無刷風筒，風量可與 2000W 傳統風筒相比，設三段溫度及風速，負離子豐富，備三色，適合零售及禮品。"},
+  "features": [
+   {"en": "1300W, with airflow comparable to a conventional 2000W dryer.", "zh": "1300W 功率，風量可與 2000W 傳統風筒相比。"},
+   {"en": "BLDC brushless motor at close to 100,000 rpm.", "zh": "BLDC 無碳刷摩打，每分鐘轉速近 10 萬。"},
+   {"en": "Three heat settings and three speed settings.", "zh": "三段溫度及三段風速。"},
+   {"en": "Instant cool-shot button and hot-cold cycle mode.", "zh": "即時冷風按鈕及冷熱循環模式。"},
+   {"en": "Up to 20 million negative ions per cubic centimetre.", "zh": "負離子每立方厘米高達 2000 萬。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1300W", "zh": "1300W"}},
+   {"label": {"en": "Motor", "zh": "摩打"}, "value": {"en": "BLDC brushless, close to 100,000 rpm", "zh": "BLDC 無碳刷，每分鐘轉速近 10 萬"}},
+   {"label": {"en": "Heat Settings", "zh": "溫度檔位"}, "value": {"en": "3", "zh": "3 段"}},
+   {"label": {"en": "Speed Settings", "zh": "風速檔位"}, "value": {"en": "3", "zh": "3 段"}},
+   {"label": {"en": "Negative Ions", "zh": "負離子"}, "value": {"en": "Up to 20 million/cm³", "zh": "高達 2000 萬/cm³"}}
+  ],
+  "variants": [
+   {"en": "Grey", "zh": "灰色"},
+   {"en": "White", "zh": "白色"},
+   {"en": "Black", "zh": "黑色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair dryer", "brushless hair dryer", "quiet hair dryer", "ionic hair dryer", "high speed dryer"]
+ },
+ {
+  "id": "cctb002",
+  "slug": "smart-soy-milk-maker-350ml-cctb002",
+  "name": {"en": "Smart High-Speed Soy Milk Maker 350ml", "zh": "智能破壁豆漿機 350ml"},
+  "tagline": {"en": "Fresh soy milk, one cup at a time.", "zh": "新鮮豆漿，一杯剛好。"},
+  "summary": {"en": "A smart high-speed blender for fresh soy milk, sized at 350 ml for a single serving. A thoughtful wellness gift for homes and small offices.", "zh": "智能破壁豆漿機，350ml 單人份量，在家製作新鮮豆漿，是家居及小型辦公室的健康禮品。"},
+  "features": [
+   {"en": "High-speed blending for smooth soy milk.", "zh": "破壁攪打，豆漿更細滑。"},
+   {"en": "Smart operation.", "zh": "智能操作。"},
+   {"en": "350 ml single-serve capacity.", "zh": "350ml 單人份量。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "350ml", "zh": "350ml"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["soy milk maker", "soymilk machine", "high speed blender", "mini blender"]
+ },
+ {
+  "id": "cccp005",
+  "slug": "mini-electric-cooking-pot-1-5l-cccp005",
+  "name": {"en": "Smart Mini Electric Cooking Pot 1.5L", "zh": "智能迷你電煮鍋 1.5L（有柄）"},
+  "tagline": {"en": "One small pot, many meals.", "zh": "一鍋小巧，多款料理。"},
+  "summary": {"en": "A 1.5-litre electric cooking pot with a handle, suited to noodles, soups and small meals. A practical gift for students, small homes and staff programmes.", "zh": "1.5 公升有柄電煮鍋，適合煮麵、湯品及小份量料理，是學生、小家庭及員工計劃的實用禮品。"},
+  "features": [
+   {"en": "1.5-litre capacity for small meals.", "zh": "1.5L 容量，適合小份量料理。"},
+   {"en": "Integrated handle for easy carrying.", "zh": "附手柄，方便拿取。"},
+   {"en": "Smart, multi-purpose cooking.", "zh": "智能多功能烹調。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1.5L", "zh": "1.5L"}}
+  ],
+  "variants": [
+   {"en": "Standard", "zh": "標準款"},
+   {"en": "White", "zh": "白色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["electric cooking pot", "mini hot pot", "electric cooker", "noodle cooker", "multi cooker"]
+ },
+ {
+  "id": "cohs004",
+  "slug": "cordless-hair-straightener-cohs004",
+  "name": {"en": "Cordless Rechargeable Hair Straightener", "zh": "充電式直髮器"},
+  "tagline": {"en": "Smooth styling, free of cords.", "zh": "無線直髮，自在順滑。"},
+  "summary": {"en": "A cordless straightener with floating PTC ceramic plates, three temperatures and Type-C charging. A refined personal care gift for travel and touch-ups.", "zh": "無線直髮器配備 PTC 陶瓷浮動發熱板、三段溫度及 Type-C 充電，是旅行及隨時整理的精緻個人護理禮品。"},
+  "features": [
+   {"en": "Floating PTC ceramic heating plates.", "zh": "PTC 陶瓷浮動發熱板。"},
+   {"en": "Three temperatures: 160℃, 180℃ and 200℃.", "zh": "三段溫度：160℃、180℃、200℃。"},
+   {"en": "Heats to 120℃ in 60 seconds.", "zh": "60 秒加熱至 120℃。"},
+   {"en": "4000mAh battery, about 25 minutes at maximum heat.", "zh": "4000mAh 電池，最高溫度下使用約 25 分鐘。"},
+   {"en": "Type-C charging, about 3 hours to full.", "zh": "Type-C 充電，約 3 小時充滿。"}
+  ],
+  "specs": [
+   {"label": {"en": "Heating", "zh": "發熱方式"}, "value": {"en": "PTC ceramic floating plates", "zh": "PTC 陶瓷浮動發熱板"}},
+   {"label": {"en": "Temperature", "zh": "溫度"}, "value": {"en": "160℃ / 180℃ / 200℃", "zh": "160℃ / 180℃ / 200℃"}},
+   {"label": {"en": "Battery", "zh": "電池"}, "value": {"en": "4000mAh", "zh": "4000mAh"}},
+   {"label": {"en": "Charging Time", "zh": "充電時間"}, "value": {"en": "Approx. 3 hours", "zh": "約 3 小時"}},
+   {"label": {"en": "Runtime", "zh": "使用時間"}, "value": {"en": "Approx. 25 min (max heat)", "zh": "約 25 分鐘（最高溫度）"}},
+   {"label": {"en": "Charging Port", "zh": "充電接口"}, "value": {"en": "Type-C", "zh": "Type-C"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair straightener", "cordless straightener", "flat iron", "rechargeable straightener", "travel hair tool"]
+ },
+ {
+  "id": "ccpm001",
+  "slug": "mini-popcorn-maker-ccpm001",
+  "name": {"en": "Mini Popcorn Maker", "zh": "迷你爆谷機"},
+  "tagline": {"en": "Fresh popcorn in two minutes.", "zh": "兩分鐘，新鮮爆谷。"},
+  "summary": {"en": "A compact 1200W popcorn maker that makes 60 g of popcorn in two minutes. A fun choice for parties, cafés, bars and family gifts.", "zh": "小巧 1200W 爆谷機，兩分鐘可製作 60g 爆谷，適合派對、咖啡廳、酒吧及家庭禮品。"},
+  "features": [
+   {"en": "Makes 60 g of popcorn in two minutes.", "zh": "兩分鐘可製作 60g 爆谷。"},
+   {"en": "1200W power.", "zh": "1200W 功率。"},
+   {"en": "Lid doubles as a measuring cup.", "zh": "蓋罩可用作量杯。"},
+   {"en": "Non-slip base and easy to clean.", "zh": "防滑底部，清洗方便。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1200W", "zh": "1200W"}},
+   {"label": {"en": "Output", "zh": "產量"}, "value": {"en": "60g in 2 minutes", "zh": "2 分鐘 60g"}},
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "14.3 × 26.8 × 16.0 cm", "zh": "14.3 × 26.8 × 16.0cm"}},
+   {"label": {"en": "Weight", "zh": "重量"}, "value": {"en": "0.75kg", "zh": "0.75kg"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["popcorn maker", "popcorn machine", "party appliance", "snack maker"]
+ },
+ {
+  "id": "cohs001",
+  "slug": "titanium-straightener-curler-cohs001",
+  "name": {"en": "Titanium-Plated Straightener and Curler", "zh": "鍍鈦金屬直髮捲髮器"},
+  "tagline": {"en": "Every texture. Precisely the right heat.", "zh": "精準溫控，適合每種髮質。"},
+  "summary": {"en": "A 2-in-1 styler with floating titanium-plated plates, nine temperature settings and an LED display. Its auto shut-off and swivel cord make it a dependable personal care gift.", "zh": "二合一造型器配備浮動式鍍鈦面板、九段溫控及 LED 溫度顯示，具自動斷電及旋轉電源線，是可靠的個人護理禮品。"},
+  "features": [
+   {"en": "Floating titanium-plated plates, 25 × 120 mm, heat evenly.", "zh": "浮動式鍍鈦面板（25 × 120mm），導熱快速均勻。"},
+   {"en": "PTC heater reaches temperature in 60 seconds.", "zh": "PTC 發熱器，60 秒急速升溫。"},
+   {"en": "Nine temperature settings from 150 to 230°C.", "zh": "九段溫控，150–230°C。"},
+   {"en": "LED display shows real-time temperature.", "zh": "LED 即時溫度顯示。"},
+   {"en": "360° swivel cord with hanging loop.", "zh": "360 度旋轉電源線，附掛環。"},
+   {"en": "Automatic shut-off after one hour.", "zh": "1 小時自動斷電保護。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "45W", "zh": "45W"}},
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220V–240V~, 50/60Hz", "zh": "220V–240V~，50/60Hz"}},
+   {"label": {"en": "Plate Size", "zh": "浮動板尺寸"}, "value": {"en": "25 × 120 mm", "zh": "25 × 120mm"}},
+   {"label": {"en": "Temperature Range", "zh": "溫度範圍"}, "value": {"en": "150–230°C, 9 settings", "zh": "150–230°C，9 段"}},
+   {"label": {"en": "Heat-up Time", "zh": "升溫時間"}, "value": {"en": "60 seconds", "zh": "60 秒"}},
+   {"label": {"en": "Auto Shut-off", "zh": "自動斷電"}, "value": {"en": "1 hour", "zh": "1 小時"}},
+   {"label": {"en": "Cord", "zh": "電源線"}, "value": {"en": "VDE plug, 1.8 m rubber cord", "zh": "VDE 插頭，1.8 米橡膠線"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair straightener", "hair curler", "titanium flat iron", "2-in-1 styler", "hair styling tool"]
+ },
+ {
+  "id": "ccim002",
+  "slug": "ice-cream-maker-0-3l-ccim002",
+  "name": {"en": "Ice Cream Maker 0.3L", "zh": "雪糕製造機 0.3L"},
+  "tagline": {"en": "A small batch, just for you.", "zh": "小份甜品，恰到好處。"},
+  "summary": {"en": "A compact 0.3-litre ice cream maker for single servings. An easy, cheerful gift for individuals and summer giveaways.", "zh": "小巧 0.3 公升雪糕製造機，適合單人份量，是個人及夏季贈品的輕巧之選。"},
+  "features": [
+   {"en": "Makes ice cream at home.", "zh": "在家自製雪糕。"},
+   {"en": "Compact 0.3-litre capacity.", "zh": "0.3L 小巧容量。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "0.3L", "zh": "0.3L"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["ice cream maker", "mini ice cream maker", "dessert maker", "kitchen appliance"]
+ },
+ {
+  "id": "codc001",
+  "slug": "handheld-dust-mite-vacuum-codc001",
+  "name": {"en": "Handheld Dust Mite Vacuum", "zh": "手提除塵蟎吸塵機"},
+  "tagline": {"en": "A deeper clean for bedding and fabrics.", "zh": "床鋪布藝，深層潔淨。"},
+  "summary": {"en": "A handheld vacuum designed to remove dust mites from beds, sofas and fabrics. A considerate household gift for health-conscious homes.", "zh": "手提除塵蟎吸塵機，專為清除床鋪、梳化及布藝上的塵蟎而設，是注重健康家庭的貼心禮品。"},
+  "features": [
+   {"en": "Designed for removing dust mites.", "zh": "專為清除塵蟎而設。"},
+   {"en": "Handheld design for beds and soft furnishings.", "zh": "手提設計，適合床鋪及布藝家具。"}
+  ],
+  "specs": [],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["dust mite vacuum", "mattress vacuum", "handheld vacuum", "bed cleaner"]
+ },
+ {
+  "id": "cofh001",
+  "slug": "mini-ceramic-heater-500w-cofh001",
+  "name": {"en": "500W Mini Ceramic Heater", "zh": "500W 迷你陶瓷暖風機"},
+  "tagline": {"en": "Small heater. Steady warmth.", "zh": "小巧機身，穩定暖意。"},
+  "summary": {"en": "A compact 500W PTC ceramic heater with temperature control and built-in overheat and tip-over protection. Sized for desks, it makes a practical winter gift.", "zh": "小巧 500W PTC 陶瓷暖風機，具溫度控制及過熱、傾倒斷電保護，適合放在桌面，是實用的冬季禮品。"},
+  "features": [
+   {"en": "500W PTC ceramic heating element.", "zh": "500W PTC 陶瓷發熱體。"},
+   {"en": "Adjustable temperature control.", "zh": "溫度控制。"},
+   {"en": "Integrated overheat protection and tip-over cut-off.", "zh": "內置過熱保護及傾倒斷電保護。"},
+   {"en": "Power indicator light.", "zh": "電源指示燈。"},
+   {"en": "Compact 11.3 × 9.5 × 17.3 cm body.", "zh": "機身尺寸 11.3 × 9.5 × 17.3cm。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "500W", "zh": "500W"}},
+   {"label": {"en": "Heating Element", "zh": "發熱體"}, "value": {"en": "PTC ceramic", "zh": "PTC 陶瓷"}},
+   {"label": {"en": "Housing", "zh": "外殼"}, "value": {"en": "ABS/PC", "zh": "ABS/PC 塑料"}},
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "11.3 × 9.5 × 17.3 cm", "zh": "11.3 × 9.5 × 17.3cm"}},
+   {"label": {"en": "Model No.", "zh": "型號"}, "value": {"en": "COFH001", "zh": "COFH001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["ceramic heater", "mini heater", "desk heater", "ptc heater", "space heater"]
+ },
+ {
+  "id": "cooi001",
+  "slug": "water-flosser-cooi001",
+  "name": {"en": "Water Flosser", "zh": "水牙線機"},
+  "tagline": {"en": "A cleaner smile, every day.", "zh": "每日潔淨，笑容自信。"},
+  "summary": {"en": "A water flosser with four tips, five spray settings and a 600 ml tank. IPX4 water resistance makes it a dependable personal care gift.", "zh": "水牙線機配備四支噴頭、五種噴水模式及 600ml 水箱，具 IPX4 防水，是可靠的個人護理禮品。"},
+  "features": [
+   {"en": "Four interchangeable tips.", "zh": "附四支噴頭。"},
+   {"en": "Five spray settings.", "zh": "五種噴水設定。"},
+   {"en": "600 ml water tank.", "zh": "600ml 水箱。"},
+   {"en": "IPX4 water resistance.", "zh": "IPX4 防水。"}
+  ],
+  "specs": [
+   {"label": {"en": "Tank Capacity", "zh": "水箱容量"}, "value": {"en": "600ml", "zh": "600ml"}},
+   {"label": {"en": "Modes", "zh": "模式"}, "value": {"en": "5", "zh": "5 種"}},
+   {"label": {"en": "Tips Included", "zh": "噴頭"}, "value": {"en": "4", "zh": "4 支"}},
+   {"label": {"en": "Water Resistance", "zh": "防水等級"}, "value": {"en": "IPX4", "zh": "IPX4"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["water flosser", "oral irrigator", "dental care", "teeth cleaner"]
+ },
+ {
+  "id": "coad001",
+  "slug": "3d-firework-glass-aroma-diffuser-coad001",
+  "name": {"en": "3D Firework Glass Aroma Diffuser", "zh": "3D 煙花玻璃香薰機"},
+  "tagline": {"en": "Fragrance and light, in full bloom.", "zh": "香氣與光影，綻放如煙花。"},
+  "summary": {"en": "A glass aroma diffuser with a 3D firework light effect that humidifies, scents and sets the mood. Supplied with two essential oils in silver or gold, it suits hotels, spas and premium gift programmes.", "zh": "玻璃香薰機配 3D 煙花燈效，兼具加濕、香薰及營造氣氛功能，附兩支香薰精油，備銀色及金色，適合酒店、水療中心及高級禮品計劃。"},
+  "features": [
+   {"en": "Humidifies, diffuses fragrance and creates ambient light.", "zh": "加濕、香薰及營造氣氛三大功能。"},
+   {"en": "Gradient lighting with selectable colours.", "zh": "漸變燈光，顏色可選。"},
+   {"en": "Automatic shut-off when water runs out, plus timer control.", "zh": "缺水自動斷電，具時間控制。"},
+   {"en": "100 ml capacity with 180 cm cable.", "zh": "容量 100ml，線長 180cm。"},
+   {"en": "Includes lemongrass and lavender essential oils.", "zh": "附送檸檬草及薰衣草香薰精油各一支。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "100ml", "zh": "100ml"}},
+   {"label": {"en": "Cable Length", "zh": "線長"}, "value": {"en": "180cm", "zh": "180cm"}},
+   {"label": {"en": "Functions", "zh": "功能"}, "value": {"en": "Humidifier, aroma, ambient light, timer", "zh": "加濕、香薰、氣氛燈、定時"}},
+   {"label": {"en": "Included", "zh": "附件"}, "value": {"en": "2 essential oils (lemongrass, lavender)", "zh": "香薰精油 × 2（檸檬草、薰衣草）"}}
+  ],
+  "variants": [
+   {"en": "Silver", "zh": "銀色"},
+   {"en": "Gold", "zh": "金色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["aroma diffuser", "glass diffuser", "humidifier", "mood light", "essential oil diffuser"]
+ },
+ {
+  "id": "cbsm001",
+  "slug": "electric-gua-sha-facial-massager-cbsm001",
+  "name": {"en": "Electric Gua Sha Microcurrent Facial Massager", "zh": "電動刮痧儀・臉部微電流按摩器"},
+  "tagline": {"en": "A spa ritual, in the palm of your hand.", "zh": "掌中護膚，居家享受。"},
+  "summary": {"en": "A compact gua sha device combining microcurrent, EMS, gentle warmth and five vibration levels for face and body. A refined beauty gift for wellness and corporate programmes.", "zh": "小巧刮痧儀結合微電流、EMS、溫熱及五檔震動，適用於臉部及多個部位，是健康及企業計劃的精緻美容禮品。"},
+  "features": [
+   {"en": "Microcurrent and EMS stimulation for facial care.", "zh": "微電流及 EMS 肌電刺激，呵護面部肌膚。"},
+   {"en": "Gentle constant warmth helps muscles relax.", "zh": "恆溫潤膚，放鬆肌肉。"},
+   {"en": "Five vibration levels to pair with different skincare products.", "zh": "五檔震動調節，配合不同護膚品使用。"},
+   {"en": "Suitable for multiple areas of the face and body.", "zh": "適用於多個部位。"},
+   {"en": "Lightweight 61 g body with USB charging.", "zh": "淨重 61g，USB 充電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "138 × 66 × 20 mm", "zh": "138 × 66 × 20mm"}},
+   {"label": {"en": "Net Weight", "zh": "淨重"}, "value": {"en": "61g", "zh": "61g"}},
+   {"label": {"en": "Vibration Levels", "zh": "震動檔位"}, "value": {"en": "5", "zh": "5 檔"}},
+   {"label": {"en": "Charging", "zh": "充電方式"}, "value": {"en": "USB", "zh": "USB"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["gua sha", "facial massager", "microcurrent device", "ems face massager", "beauty device"]
+ }
+]

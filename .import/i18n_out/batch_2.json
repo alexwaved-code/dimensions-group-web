@@ -1,0 +1,5556 @@
+[
+ {
+  "id": "npbfm004",
+  "slug": "ems-gua-sha-facial-device-npbfm004",
+  "name": {
+   "en": "EMS Heated Gua Sha Device",
+   "zh": "EMS 恆溫刮痧美容儀"
+  },
+  "tagline": {
+   "en": "Gentle warmth. Visible renewal.",
+   "zh": "溫熱輕刮，煥活肌膚。"
+  },
+  "summary": {
+   "en": "A palm-sized gua sha device combining 43℃ constant heat, EMS lifting and three-colour light. A refined wellness gift for clients and teams.",
+   "zh": "掌心大小的刮痧美容儀，結合 43℃ 恆溫熱刮、EMS 提拉與三色光。適合作為企業客戶及團隊的精緻保養禮品。"
+  },
+  "features": [
+   {
+    "en": "Constant 43℃ heated gua sha massage.",
+    "zh": "43℃ 恆溫熱刮。"
+   },
+   {
+    "en": "EMS micro-current lifting technology.",
+    "zh": "EMS 電提拉技術。"
+   },
+   {
+    "en": "Red, green and blue light modes to revitalise skin.",
+    "zh": "紅、綠、藍三色光子，煥活肌膚。"
+   },
+   {
+    "en": "Built-in 600mAh rechargeable battery.",
+    "zh": "內置 600mAh 充電電池。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Heat Temperature",
+     "zh": "熱敷溫度"
+    },
+    "value": {
+     "en": "43℃",
+     "zh": "43℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "600mAh",
+     "zh": "600mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "93.2 x 82 x 27.6mm",
+     "zh": "93.2 x 82 x 27.6mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPBFM004",
+     "zh": "NPBFM004"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "ems facial device",
+   "gua sha",
+   "heated massager",
+   "skincare device",
+   "led light therapy"
+  ]
+ },
+ {
+  "id": "npfms002a",
+  "slug": "spin-flat-mop-refill-pad-npfms002a",
+  "name": {
+   "en": "Replacement Pad for Spin Flat Mop Set",
+   "zh": "旋轉平板拖把桶套裝替換拖布"
+  },
+  "tagline": {
+   "en": "A fresh pad, ready when you are.",
+   "zh": "隨時更換，常保潔淨。"
+  },
+  "summary": {
+   "en": "A replacement mop pad designed for the NPFMS002 spin flat mop and bucket set. Keeps the system performing at its best.",
+   "zh": "專為 NPFMS002 旋轉平板拖把連拖桶套裝設計的替換拖布，讓整套清潔系統持續保持最佳表現。"
+  },
+  "features": [
+   {
+    "en": "Made for the NPFMS002 spin flat mop and bucket set.",
+    "zh": "適用於 NPFMS002 旋轉平板拖把連拖桶套裝。"
+   },
+   {
+    "en": "Easy swap-in replacement for worn pads.",
+    "zh": "輕鬆替換舊拖布。"
+   },
+   {
+    "en": "Flat pad format for everyday floor cleaning.",
+    "zh": "平板拖布設計，適合日常地面清潔。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Compatible Model",
+     "zh": "適用型號"
+    },
+    "value": {
+     "en": "NPFMS002",
+     "zh": "NPFMS002"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPFMS002a",
+     "zh": "NPFMS002a"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "mop pad",
+   "replacement mop cloth",
+   "flat mop refill",
+   "spin mop accessory"
+  ]
+ },
+ {
+  "id": "npfms001a",
+  "slug": "flat-mop-refill-pad-npfms001a",
+  "name": {
+   "en": "Replacement Pad for Flat Mop Set",
+   "zh": "平板拖把桶套裝替換拖布"
+  },
+  "tagline": {
+   "en": "Made to fit. Made to clean.",
+   "zh": "專屬配件，貼合每次清潔。"
+  },
+  "summary": {
+   "en": "A replacement mop pad designed for the NPFMS001 flat mop and bucket set. A simple way to keep floors spotless.",
+   "zh": "專為 NPFMS001 平板拖把桶套裝設計的替換拖布，簡單維持地面潔淨。"
+  },
+  "features": [
+   {
+    "en": "Made for the NPFMS001 flat mop and bucket set.",
+    "zh": "適用於 NPFMS001 平板拖把桶套裝。"
+   },
+   {
+    "en": "Easy swap-in replacement for worn pads.",
+    "zh": "輕鬆替換舊拖布。"
+   },
+   {
+    "en": "Flat pad format for everyday floor cleaning.",
+    "zh": "平板拖布設計，適合日常地面清潔。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Compatible Model",
+     "zh": "適用型號"
+    },
+    "value": {
+     "en": "NPFMS001",
+     "zh": "NPFMS001"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPFMS001a",
+     "zh": "NPFMS001a"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "mop pad",
+   "replacement mop cloth",
+   "flat mop refill",
+   "mop accessory"
+  ]
+ },
+ {
+  "id": "nptj001",
+  "slug": "316-stainless-vacuum-flask-1100ml-nptj001",
+  "name": {
+   "en": "316 Stainless Steel Vacuum Flask 1100ml",
+   "zh": "316 不鏽鋼保溫壺 1100ml"
+  },
+  "tagline": {
+   "en": "Warmth that lasts all day.",
+   "zh": "溫度，整日相伴。"
+  },
+  "summary": {
+   "en": "A 1100ml vacuum flask with a 316 stainless steel inner wall and 24-hour heat retention. A practical, enduring gift for offices and homes.",
+   "zh": "1100ml 保溫壺，配備 316 不鏽鋼內膽，24 小時長效保溫。實用耐用，適合辦公室與家居送禮。"
+  },
+  "features": [
+   {
+    "en": "316 stainless steel inner wall.",
+    "zh": "316 不鏽鋼內膽。"
+   },
+   {
+    "en": "Up to 24 hours of heat retention.",
+    "zh": "24 小時長效保溫。"
+   },
+   {
+    "en": "Generous 1100ml capacity.",
+    "zh": "1100ml 大容量。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1100ml",
+     "zh": "1100ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner Material",
+     "zh": "內膽材質"
+    },
+    "value": {
+     "en": "316 stainless steel",
+     "zh": "316 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "24 hours",
+     "zh": "24 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTJ001",
+     "zh": "NPTJ001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum flask",
+   "thermal flask",
+   "316 stainless steel",
+   "insulated jug",
+   "corporate gift"
+  ]
+ },
+ {
+  "id": "nptj006",
+  "slug": "316-stainless-tea-infuser-flask-2l-nptj006",
+  "name": {
+   "en": "316 Stainless Steel Tea Infuser Flask 2L",
+   "zh": "316 不鏽鋼燜泡壺 2L"
+  },
+  "tagline": {
+   "en": "Steep slowly. Pour warmly.",
+   "zh": "慢燜細泡，溫潤入杯。"
+  },
+  "summary": {
+   "en": "A 2L insulated flask with a smart lid and built-in tea chamber, keeping drinks hot for up to 24 hours. Ideal for meeting rooms, pantries and gifting.",
+   "zh": "2L 保溫燜泡壺，配備智能蓋與茶倉，24 小時長效保溫。適用於會議室、茶水間及送禮。"
+  },
+  "features": [
+   {
+    "en": "Food-grade stainless steel inner wall.",
+    "zh": "食品級不鏽鋼內膽。"
+   },
+   {
+    "en": "Up to 24 hours of heat retention.",
+    "zh": "24 小時長效保溫。"
+   },
+   {
+    "en": "Smart lid with a built-in tea chamber.",
+    "zh": "智能蓋連茶倉設計。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "2L",
+     "zh": "2L"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless steel",
+     "zh": "316 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "24 hours",
+     "zh": "24 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTJ006",
+     "zh": "NPTJ006"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "tea infuser flask",
+   "thermal teapot",
+   "316 stainless steel",
+   "vacuum flask",
+   "insulated jug"
+  ]
+ },
+ {
+  "id": "nptj005",
+  "slug": "316-stainless-tea-infuser-flask-1100ml-nptj005",
+  "name": {
+   "en": "316 Stainless Steel Tea Infuser Flask 1100ml",
+   "zh": "316 不鏽鋼燜泡壺 1100ml"
+  },
+  "tagline": {
+   "en": "Tea, perfectly steeped. Anywhere.",
+   "zh": "隨時隨地，一壺好茶。"
+  },
+  "summary": {
+   "en": "An 1100ml insulated flask with a smart lid and tea chamber, keeping drinks hot for up to 24 hours. A considered gift for tea lovers.",
+   "zh": "1100ml 保溫燜泡壺，配備智能蓋與茶倉，24 小時長效保溫。是送給愛茶之人的貼心之選。"
+  },
+  "features": [
+   {
+    "en": "Food-grade stainless steel inner wall.",
+    "zh": "食品級不鏽鋼內膽。"
+   },
+   {
+    "en": "Up to 24 hours of heat retention.",
+    "zh": "24 小時長效保溫。"
+   },
+   {
+    "en": "Smart lid with a built-in tea chamber.",
+    "zh": "智能蓋連茶倉設計。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1100ml",
+     "zh": "1100ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "316 stainless steel",
+     "zh": "316 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "24 hours",
+     "zh": "24 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTJ005",
+     "zh": "NPTJ005"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "tea infuser flask",
+   "thermal teapot",
+   "316 stainless steel",
+   "vacuum flask"
+  ]
+ },
+ {
+  "id": "npcu001-c",
+  "slug": "acacia-nylon-soup-ladle-npcu001-c",
+  "name": {
+   "en": "Acacia Wood Handle Nylon Soup Ladle 31cm",
+   "zh": "31cm 相思木柄耐熱尼龍深湯勺"
+  },
+  "tagline": {
+   "en": "Natural wood. Lasting strength.",
+   "zh": "自然木質，經久耐用。"
+  },
+  "summary": {
+   "en": "A deep heat-resistant nylon ladle with an ergonomic acacia wood handle. Durable, easy to clean and warm in character, it suits kitchenware ranges and gift sets.",
+   "zh": "耐熱尼龍深湯勺，配人體工學相思木柄。耐用易清潔，質感溫潤，適合廚具系列與禮品套裝。"
+  },
+  "features": [
+   {
+    "en": "FDA-certified nylon head resists heat, warping and breakage.",
+    "zh": "勺頭採用 FDA 認證尼龍，耐熱耐用，不易變形或斷裂。"
+   },
+   {
+    "en": "Ergonomic acacia wood handle for a secure, non-slip grip.",
+    "zh": "人體工學相思木柄，握持穩固防滑。"
+   },
+   {
+    "en": "Non-stick surface rinses clean with mild detergent.",
+    "zh": "表面不易沾黏，以溫和清潔劑沖洗即可潔淨。"
+   },
+   {
+    "en": "Hanging hole for space-saving storage.",
+    "zh": "吊掛孔設計，懸掛收納更節省空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Head Material",
+     "zh": "勺身材質"
+    },
+    "value": {
+     "en": "Nylon (FDA certified)",
+     "zh": "尼龍（符合 FDA 認證）"
+    }
+   },
+   {
+    "label": {
+     "en": "Handle Material",
+     "zh": "手柄材質"
+    },
+    "value": {
+     "en": "Acacia wood",
+     "zh": "相思木"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "325 x 102 mm",
+     "zh": "325 x 102 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 70g",
+     "zh": "約 70g"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPCU001-C",
+     "zh": "NPCU001-C"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [
+   "FDA"
+  ],
+  "giftable": true,
+  "keywords": [
+   "soup ladle",
+   "nylon ladle",
+   "acacia wood utensil",
+   "kitchen utensil",
+   "heat resistant"
+  ]
+ },
+ {
+  "id": "npcu001-b",
+  "slug": "acacia-nylon-skimmer-npcu001-b",
+  "name": {
+   "en": "Acacia Wood Handle Nylon Skimmer 32cm",
+   "zh": "32cm 相思木柄耐熱尼龍漏勺"
+  },
+  "tagline": {
+   "en": "Lift, drain, serve.",
+   "zh": "一撈即瀝，清爽上碟。"
+  },
+  "summary": {
+   "en": "A heat-resistant nylon skimmer with evenly spaced drainage holes and an acacia wood handle. Built for frying, dumplings and noodles in everyday kitchens.",
+   "zh": "耐熱尼龍漏勺，勺身佈滿均勻圓孔，配相思木柄。適合撈取炸物、水餃與麵條。"
+  },
+  "features": [
+   {
+    "en": "FDA-certified nylon head resists heat, warping and breakage.",
+    "zh": "勺頭採用 FDA 認證尼龍，耐熱耐用，不易變形或斷裂。"
+   },
+   {
+    "en": "Dense round holes quickly separate oil and water.",
+    "zh": "密集圓孔設計，迅速分離油分與水分。"
+   },
+   {
+    "en": "Ergonomic acacia wood handle for a secure, non-slip grip.",
+    "zh": "人體工學相思木柄，握持穩固防滑。"
+   },
+   {
+    "en": "Non-stick surface rinses clean with mild detergent.",
+    "zh": "表面不易沾黏，以溫和清潔劑沖洗即可潔淨。"
+   },
+   {
+    "en": "Hanging hole for space-saving storage.",
+    "zh": "吊掛孔設計，懸掛收納更節省空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Head Material",
+     "zh": "勺身材質"
+    },
+    "value": {
+     "en": "Nylon (FDA certified)",
+     "zh": "尼龍（符合 FDA 認證）"
+    }
+   },
+   {
+    "label": {
+     "en": "Handle Material",
+     "zh": "手柄材質"
+    },
+    "value": {
+     "en": "Acacia wood",
+     "zh": "相思木"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "325 x 102 mm",
+     "zh": "325 x 102 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 70g",
+     "zh": "約 70g"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPCU001-B",
+     "zh": "NPCU001-B"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [
+   "FDA"
+  ],
+  "giftable": true,
+  "keywords": [
+   "skimmer",
+   "slotted spoon",
+   "nylon strainer",
+   "acacia wood utensil",
+   "kitchen utensil"
+  ]
+ },
+ {
+  "id": "npcu001-a",
+  "slug": "acacia-nylon-slotted-turner-npcu001-a",
+  "name": {
+   "en": "Acacia Wood Handle Nylon Slotted Turner 32cm",
+   "zh": "32cm 相思木柄耐熱尼龍鏤空鑊鏟"
+  },
+  "tagline": {
+   "en": "Every flip, perfectly drained.",
+   "zh": "翻炒之間，瀝油自如。"
+  },
+  "summary": {
+   "en": "A heat-resistant nylon turner with drainage slots and an acacia wood handle. A refined everyday tool for cookware ranges and kitchen gift sets.",
+   "zh": "耐熱尼龍鏤空鑊鏟，鏟面設導流孔槽，配相思木柄。是廚具系列與廚房禮品套裝的雅致之選。"
+  },
+  "features": [
+   {
+    "en": "FDA-certified nylon head with excellent heat resistance.",
+    "zh": "鏟頭採用 FDA 認證尼龍，耐熱耐用。"
+   },
+   {
+    "en": "Slotted face drains excess oil and sauce while frying.",
+    "zh": "鏟面導流孔槽，煎炒時有效瀝出多餘油脂與湯汁。"
+   },
+   {
+    "en": "Ergonomic acacia wood handle for a secure, non-slip grip.",
+    "zh": "人體工學相思木柄，握持穩固防滑。"
+   },
+   {
+    "en": "Non-stick surface for effortless cleaning.",
+    "zh": "表面不易沾黏，清潔輕鬆。"
+   },
+   {
+    "en": "Hanging hole for space-saving storage.",
+    "zh": "吊掛孔設計，懸掛收納更節省空間。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Head Material",
+     "zh": "鏟身材質"
+    },
+    "value": {
+     "en": "Nylon (FDA certified)",
+     "zh": "尼龍（符合 FDA 認證）"
+    }
+   },
+   {
+    "label": {
+     "en": "Handle Material",
+     "zh": "手柄材質"
+    },
+    "value": {
+     "en": "Acacia wood",
+     "zh": "相思木"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "330 x 90 mm",
+     "zh": "330 x 90 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Weight",
+     "zh": "重量"
+    },
+    "value": {
+     "en": "Approx. 58g",
+     "zh": "約 58g"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPCU001-A",
+     "zh": "NPCU001-A"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [
+   "FDA"
+  ],
+  "giftable": true,
+  "keywords": [
+   "slotted turner",
+   "spatula",
+   "nylon turner",
+   "acacia wood utensil",
+   "kitchen utensil"
+  ]
+ },
+ {
+  "id": "m-8ebbee7f",
+  "slug": "aroma-essential-oil-collection",
+  "name": {
+   "en": "Aroma Essential Oil",
+   "zh": "香薰精油"
+  },
+  "tagline": {
+   "en": "A scent for every space.",
+   "zh": "一室一香，各有其韻。"
+  },
+  "summary": {
+   "en": "Aroma essential oils offered in twelve scents. An easy, well-received choice for corporate gifts, events and hospitality spaces.",
+   "zh": "香薰精油，提供 12 種香味選擇。適合企業禮品、活動贈品及款客空間。"
+  },
+  "features": [
+   {
+    "en": "Available in twelve scents.",
+    "zh": "提供 12 種香味。"
+   },
+   {
+    "en": "For use with aroma diffusers and home fragrance.",
+    "zh": "適用於香薰機及居家香氛。"
+   }
+  ],
+  "specs": [],
+  "variants": [
+   {
+    "en": "12 Scents",
+    "zh": "12 種香味"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "essential oil",
+   "aroma oil",
+   "aromatherapy",
+   "home fragrance",
+   "diffuser oil"
+  ]
+ },
+ {
+  "id": "npfsb003",
+  "slug": "mini-steam-iron-npfsb003",
+  "name": {
+   "en": "Mini Steam Iron",
+   "zh": "迷你蒸氣熨燙機"
+  },
+  "tagline": {
+   "en": "Crisp in seconds. Compact by design.",
+   "zh": "輕巧機身，瞬間平整。"
+  },
+  "summary": {
+   "en": "A compact 1100W steam iron that heats up in 15 seconds. Ideal for travel, hotel amenities and small homes.",
+   "zh": "1100W 迷你蒸氣熨燙機，15 秒快速預熱。適合旅行、酒店客房及小型家居。"
+  },
+  "features": [
+   {
+    "en": "1100W power for efficient pressing.",
+    "zh": "1100W 功率，熨燙高效。"
+   },
+   {
+    "en": "Ready in 15 seconds.",
+    "zh": "15 秒快速預熱。"
+   },
+   {
+    "en": "125ml water tank.",
+    "zh": "125ml 水箱容量。"
+   },
+   {
+    "en": "Up to 23g of steam per minute on high.",
+    "zh": "高檔每分鐘噴出 23 克蒸氣。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "1100W",
+     "zh": "1100W"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat-up Time",
+     "zh": "預熱時間"
+    },
+    "value": {
+     "en": "15 seconds",
+     "zh": "15 秒"
+    }
+   },
+   {
+    "label": {
+     "en": "Water Tank",
+     "zh": "水箱容量"
+    },
+    "value": {
+     "en": "125ml",
+     "zh": "125ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Steam Output",
+     "zh": "蒸氣量"
+    },
+    "value": {
+     "en": "23g/min (high)",
+     "zh": "每分鐘 23 克（高檔）"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPFSB003",
+     "zh": "NPFSB003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mini steam iron",
+   "travel iron",
+   "garment steamer",
+   "portable iron"
+  ]
+ },
+ {
+  "id": "cosb001",
+  "slug": "handheld-garment-steamer-cosb001",
+  "name": {
+   "en": "Handheld Garment Steamer",
+   "zh": "手提蒸氣掛熨機"
+  },
+  "tagline": {
+   "en": "No board. No creases.",
+   "zh": "無需燙板，褶痕盡去。"
+  },
+  "summary": {
+   "en": "A 1300W handheld steamer for vertical pressing, ready in under 30 seconds. A practical choice for homes, boutiques and hospitality.",
+   "zh": "1300W 手提蒸氣掛熨機，垂直掛熨，30 秒內快速預熱。適用於家居、服飾店及酒店。"
+  },
+  "features": [
+   {
+    "en": "Vertical steaming without an ironing board.",
+    "zh": "垂直掛熨，無需展開熨衣板。"
+   },
+   {
+    "en": "Continuous steam output removes creases quickly.",
+    "zh": "自動持續輸出蒸氣，快速去除褶痕。"
+   },
+   {
+    "en": "Up to 20g of steam per minute.",
+    "zh": "蒸氣噴射高達每分鐘 20 克。"
+   },
+   {
+    "en": "Heats up in under 30 seconds.",
+    "zh": "30 秒內快速預熱。"
+   },
+   {
+    "en": "Detachable 250ml tank, refillable during use.",
+    "zh": "250ml 可拆式水箱，使用中可隨時加水。"
+   },
+   {
+    "en": "Includes a fabric brush attachment.",
+    "zh": "附衣物纖維刷配件。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "1300W",
+     "zh": "1300W"
+    }
+   },
+   {
+    "label": {
+     "en": "Rated Voltage",
+     "zh": "額定電壓"
+    },
+    "value": {
+     "en": "220V-240V~, 50Hz",
+     "zh": "220V-240V~，50Hz"
+    }
+   },
+   {
+    "label": {
+     "en": "Steam Output",
+     "zh": "蒸氣量"
+    },
+    "value": {
+     "en": "Up to 20g/min",
+     "zh": "最高每分鐘 20 克"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat-up Time",
+     "zh": "預熱時間"
+    },
+    "value": {
+     "en": "< 30 seconds",
+     "zh": "少於 30 秒"
+    }
+   },
+   {
+    "label": {
+     "en": "Water Tank",
+     "zh": "水箱容量"
+    },
+    "value": {
+     "en": "250ml, detachable",
+     "zh": "250ml，可拆式"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "COSB001",
+     "zh": "COSB001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Blue",
+    "zh": "藍色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "garment steamer",
+   "handheld steamer",
+   "steam iron",
+   "clothes steamer"
+  ]
+ },
+ {
+  "id": "npfh002",
+  "slug": "mini-oscillating-ceramic-heater-npfh002",
+  "name": {
+   "en": "Mini Oscillating Ceramic Heater",
+   "zh": "迷你速熱自動搖頭陶瓷暖風機"
+  },
+  "tagline": {
+   "en": "Small in size. Generous in warmth.",
+   "zh": "小巧機身，暖意滿室。"
+  },
+  "summary": {
+   "en": "A compact 600W ceramic heater with 90° oscillation, hot and cool modes, and tip-over protection. Well suited to desks, bedrooms and seasonal gifting.",
+   "zh": "600W 迷你陶瓷暖風機，約 90° 自動擺頭，冷暖雙模式，設傾倒斷電保護。適合書桌、睡房及季節性送禮。"
+  },
+  "features": [
+   {
+    "en": "600W output, with outlet air reaching about 80℃.",
+    "zh": "600W 速暖功率，出風口溫度最高約 80℃。"
+   },
+   {
+    "en": "Approx. 90° automatic oscillation for wider coverage.",
+    "zh": "約 90° 自動擺頭，擴大溫暖範圍。"
+   },
+   {
+    "en": "One-touch switch between warm and cool air.",
+    "zh": "一鍵切換暖風與涼風。"
+   },
+   {
+    "en": "Automatic shut-off after 8 hours.",
+    "zh": "8 小時自動斷電。"
+   },
+   {
+    "en": "Tip-over protection cuts power if knocked over.",
+    "zh": "傾倒斷電保護，保障使用安全。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Rated Power",
+     "zh": "額定功率"
+    },
+    "value": {
+     "en": "600W",
+     "zh": "600W"
+    }
+   },
+   {
+    "label": {
+     "en": "Outlet Temperature",
+     "zh": "出風口溫度"
+    },
+    "value": {
+     "en": "Up to approx. 80℃ (10cm from outlet)",
+     "zh": "最高約 80℃（距出風口 10cm 處）"
+    }
+   },
+   {
+    "label": {
+     "en": "Oscillation",
+     "zh": "擺頭角度"
+    },
+    "value": {
+     "en": "Approx. 90°",
+     "zh": "約 90°"
+    }
+   },
+   {
+    "label": {
+     "en": "Noise Level",
+     "zh": "噪音水平"
+    },
+    "value": {
+     "en": "≤60dB",
+     "zh": "≤60dB"
+    }
+   },
+   {
+    "label": {
+     "en": "Auto Shut-off",
+     "zh": "自動關機"
+    },
+    "value": {
+     "en": "8 hours",
+     "zh": "8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "146 × 123 × 202mm",
+     "zh": "146 × 123 × 202mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPFH002",
+     "zh": "NPFH002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "ceramic heater",
+   "mini heater",
+   "oscillating heater",
+   "fan heater",
+   "desk heater"
+  ]
+ },
+ {
+  "id": "nptb014",
+  "slug": "foldable-shopping-trolley-50l-nptb014",
+  "name": {
+   "en": "50L Foldable Shopping Trolley",
+   "zh": "50L 摺疊式活動拉桿購物車"
+  },
+  "tagline": {
+   "en": "Carry more. Store it flat.",
+   "zh": "承載更多，摺疊即收。"
+  },
+  "summary": {
+   "en": "A 50L folding trolley with push or pull handling, braked wheels and a load-bearing top lid. Built for shopping, camping and light logistics.",
+   "zh": "50L 摺疊購物車，平拉斜拉皆可，設剎車輪與承重頂蓋。適用於購物、露營及輕量搬運。"
+  },
+  "features": [
+   {
+    "en": "Flat-pull and angled-pull modes for different situations.",
+    "zh": "平拉與斜拉雙模式，依情境靈活切換。"
+   },
+   {
+    "en": "2.2-inch shock-absorbing wheels with brakes.",
+    "zh": "2.2 吋飛機輪連剎車設計，吸震平穩。"
+   },
+   {
+    "en": "360° swivel wheels for smooth turning.",
+    "zh": "360° 萬向輪，轉彎順暢。"
+   },
+   {
+    "en": "Reinforced body and integrated lid doubles as a platform.",
+    "zh": "加厚車身與一體式頂蓋，可作臨時置物平台。"
+   },
+   {
+    "en": "Folds quickly for compact storage.",
+    "zh": "快速摺疊，收納省空間。"
+   },
+   {
+    "en": "Ergonomic handle reduces fatigue.",
+    "zh": "人體工學握把，長時間使用不易疲勞。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "50L",
+     "zh": "50L"
+    }
+   },
+   {
+    "label": {
+     "en": "Wheels",
+     "zh": "輪子"
+    },
+    "value": {
+     "en": "2.2-inch with brakes, 360° swivel",
+     "zh": "2.2 吋連剎車，360° 萬向"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTB014",
+     "zh": "NPTB014"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "shopping trolley",
+   "foldable cart",
+   "utility wagon",
+   "camping cart",
+   "folding trolley"
+  ]
+ },
+ {
+  "id": "nptb001",
+  "slug": "foldable-shopping-trolley-bag-nptb001",
+  "name": {
+   "en": "Foldable Shopping Trolley Bag",
+   "zh": "摺疊購物車"
+  },
+  "tagline": {
+   "en": "Everyday errands, lighter.",
+   "zh": "日常採買，從此輕鬆。"
+  },
+  "summary": {
+   "en": "A fully foldable shopping trolley with a reinforced base and water-resistant lining, offered in solid colours and prints. A practical promotional item for retail and community programmes.",
+   "zh": "可完全摺疊的購物車，底部加固並設防水內襯，提供多款純色與印花。適合零售推廣及社區活動。"
+  },
+  "features": [
+   {
+    "en": "High-strength PP base with a metal frame supporting the bag.",
+    "zh": "底部 PP 板高強度承重，金屬支架穩固袋身。"
+   },
+   {
+    "en": "Folds completely, including wheels and frame.",
+    "zh": "整體可摺疊，包括輪子與金屬支架。"
+   },
+   {
+    "en": "Non-woven inner base with water resistance.",
+    "zh": "內底無紡布，具防水功能。"
+   },
+   {
+    "en": "Polyester handles with reinforced back-stitching.",
+    "zh": "滌綸手挽，回針車縫加固。"
+   },
+   {
+    "en": "Button closure for quick access.",
+    "zh": "紐扣封口，存取便捷。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Open Dimensions",
+     "zh": "展開尺寸"
+    },
+    "value": {
+     "en": "39 × 13.5 × 30 cm; height extends to 45cm",
+     "zh": "39 × 13.5 × 30 cm，高度可伸長至 45cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTB001",
+     "zh": "NPTB001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Orange",
+    "zh": "橙色"
+   },
+   {
+    "en": "Blue",
+    "zh": "藍色"
+   },
+   {
+    "en": "Green",
+    "zh": "綠色"
+   },
+   {
+    "en": "Red",
+    "zh": "紅色"
+   },
+   {
+    "en": "Peony Floral",
+    "zh": "富貴花"
+   },
+   {
+    "en": "Wave Stripe",
+    "zh": "波浪條紋"
+   },
+   {
+    "en": "Green and White Floral",
+    "zh": "綠白花"
+   },
+   {
+    "en": "Green and White Polka Dot",
+    "zh": "綠白點"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "shopping trolley bag",
+   "foldable trolley",
+   "shopping cart",
+   "reusable shopping bag"
+  ]
+ },
+ {
+  "id": "nptb003d2",
+  "slug": "expandable-insulated-shopping-bag-nptb003d2",
+  "name": {
+   "en": "Expandable Two-Tier Insulated Shopping Bag",
+   "zh": "上下層擴張式保溫購物袋"
+  },
+  "tagline": {
+   "en": "Hot and cold, kept apart.",
+   "zh": "冷熱分層，各得其所。"
+  },
+  "summary": {
+   "en": "A two-tier insulated bag with a dividing zip, removable foil liner and side pocket. Fits onto trolleys and suits grocery and outdoor promotions.",
+   "zh": "上下雙層保溫購物袋，設中間拉鏈、可拆式錫紙內膽及側袋，可套於拉桿車上。適合超市及戶外推廣活動。"
+  },
+  "features": [
+   {
+    "en": "Central zip joins or separates the upper and lower tiers.",
+    "zh": "中間拉鏈可聯通或分隔上下兩層。"
+   },
+   {
+    "en": "3mm foil lining keeps contents hot or cold and is waterproof.",
+    "zh": "3mm 厚錫紙內層，保溫、保冷兼防水。"
+   },
+   {
+    "en": "Removable foil liner for easy washing.",
+    "zh": "可拆式錫紙內膽，清洗方便。"
+   },
+   {
+    "en": "Side pocket for an umbrella or water bottle.",
+    "zh": "側袋可放雨傘或水杯。"
+   },
+   {
+    "en": "Fits over a trolley handle.",
+    "zh": "可套於拉桿車上。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "33 x 23 x 64 mm",
+     "zh": "33 x 23 x 64 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Lining",
+     "zh": "內層"
+    },
+    "value": {
+     "en": "3mm foil",
+     "zh": "3mm 錫紙"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTB003D2",
+     "zh": "NPTB003D2"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Star Print",
+    "zh": "星星圖案"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "insulated shopping bag",
+   "cooler bag",
+   "thermal bag",
+   "trolley bag"
+  ]
+ },
+ {
+  "id": "cbbr01",
+  "slug": "visual-pore-cleanser-cbbr01",
+  "name": {
+   "en": "Visual Pore Cleanser",
+   "zh": "家用可視毛孔清潔器"
+  },
+  "tagline": {
+   "en": "See clearly. Cleanse precisely.",
+   "zh": "清晰可見，精準潔淨。"
+  },
+  "summary": {
+   "en": "A home pore cleanser with three suction levels, four tips and app-based close-up viewing. A modern personal care gift.",
+   "zh": "家用可視毛孔清潔器，設三段吸力與四款吸頭，可透過 App 近距離觀察毛孔。是時尚的個人護理禮品。"
+  },
+  "features": [
+   {
+    "en": "Three suction levels.",
+    "zh": "三段吸力調節。"
+   },
+   {
+    "en": "Approx. 60 minutes of operation per charge.",
+    "zh": "約 60 分鐘使用時間。"
+   },
+   {
+    "en": "View pores up close with the Kskin app.",
+    "zh": "可下載 Kskin App 近距離觀察毛孔。"
+   },
+   {
+    "en": "Four interchangeable suction tips.",
+    "zh": "附四款吸頭。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Suction Levels",
+     "zh": "吸力段數"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 段"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 60 minutes",
+     "zh": "約 60 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Suction Tips",
+     "zh": "吸頭"
+    },
+    "value": {
+     "en": "4",
+     "zh": "4 款"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CBBR01",
+     "zh": "CBBR01"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "pore cleanser",
+   "blackhead remover",
+   "pore vacuum",
+   "facial care",
+   "skincare device"
+  ]
+ },
+ {
+  "id": "cbem001",
+  "slug": "hot-cold-eye-massager-cbem001",
+  "name": {
+   "en": "Hot and Cold Eye Care Device",
+   "zh": "冷熱轉敷護眼儀"
+  },
+  "tagline": {
+   "en": "Warm, cool, refreshed.",
+   "zh": "冷熱交替，雙眼煥然。"
+  },
+  "summary": {
+   "en": "An eye care device with cold, hot and alternating modes that reach temperature in 10 seconds. A thoughtful wellness gift for screen-heavy workdays.",
+   "zh": "護眼儀設冷敷、熱敷及交替模式，10 秒即熱即冷。是長時間用眼的辦公族群的貼心保健禮品。"
+  },
+  "features": [
+   {
+    "en": "Cold mode at 18℃ and hot mode at 40-43℃.",
+    "zh": "冷敷 18℃，熱敷 40-43℃。"
+   },
+   {
+    "en": "Alternating mode cycles cold, heat and vibration.",
+    "zh": "交替模式：冷、熱、震動循環。"
+   },
+   {
+    "en": "Heats or cools in 10 seconds.",
+    "zh": "10 秒快速即熱即冷。"
+   },
+   {
+    "en": "Approx. 60 minutes of use from a 120-minute charge.",
+    "zh": "充電 120 分鐘，可使用約 60 分鐘。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Cold Temperature",
+     "zh": "冷敷溫度"
+    },
+    "value": {
+     "en": "18℃",
+     "zh": "18℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Hot Temperature",
+     "zh": "熱敷溫度"
+    },
+    "value": {
+     "en": "40-43℃",
+     "zh": "40-43℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "120 minutes",
+     "zh": "120 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 60 minutes",
+     "zh": "約 60 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CBEM001",
+     "zh": "CBEM001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "eye massager",
+   "hot cold eye mask",
+   "eye care device",
+   "wellness gift"
+  ]
+ },
+ {
+  "id": "npap26-005",
+  "slug": "marble-nonstick-frying-pan-26cm-npap26-005",
+  "name": {
+   "en": "Marble Non-Stick Frying Pan 26cm",
+   "zh": "26cm 大理石塗層煎鍋"
+  },
+  "tagline": {
+   "en": "Effortless release. Natural warmth.",
+   "zh": "不黏易煎，木紋溫潤。"
+  },
+  "summary": {
+   "en": "A 26cm forged aluminium frying pan with marble non-stick coating and a wood-grain handle. Works on gas and induction, ideal for cookware ranges and premiums.",
+   "zh": "26cm 鍛造鋁煎鍋，大理石防黏塗層配木紋手柄，煤氣爐與電磁爐通用。適合廚具系列與贈品計劃。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Forged aluminium body.",
+    "zh": "鍛造鋁鍋身。"
+   },
+   {
+    "en": "Wood-grain handle.",
+    "zh": "木紋手柄。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "26cm",
+     "zh": "26cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Forged aluminium",
+     "zh": "鍛造鋁"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP26-005",
+     "zh": "NPAP26-005"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Grey",
+    "zh": "灰色"
+   },
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "frying pan",
+   "non-stick pan",
+   "marble coating",
+   "induction pan",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npap22-004",
+  "slug": "marble-nonstick-frying-pan-lid-22cm-npap22-004",
+  "name": {
+   "en": "Marble Non-Stick Frying Pan with Lid 22cm",
+   "zh": "22cm 大理石塗層煎鍋（連玻璃蓋）"
+  },
+  "tagline": {
+   "en": "Cook, cover, store with ease.",
+   "zh": "煎煮收納，一鍋從容。"
+  },
+  "summary": {
+   "en": "A 22cm marble-coated frying pan with glass lid and detachable handle. Works on gas and induction, with a compact footprint for smaller kitchens.",
+   "zh": "22cm 大理石防黏煎鍋，配玻璃蓋及可拆式手柄，煤氣爐與電磁爐通用，適合小型廚房。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Heat-resistant soft-touch handle and lid knob.",
+    "zh": "耐熱柔軟手柄及鍋蓋把手。"
+   },
+   {
+    "en": "Detachable handle design.",
+    "zh": "可拆式手柄設計。"
+   },
+   {
+    "en": "Supplied with a glass lid.",
+    "zh": "附玻璃蓋。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "22cm",
+     "zh": "22cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Lid",
+     "zh": "鍋蓋"
+    },
+    "value": {
+     "en": "Glass",
+     "zh": "玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP22-004",
+     "zh": "NPAP22-004"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "frying pan",
+   "non-stick pan",
+   "detachable handle",
+   "glass lid",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npap18-003",
+  "slug": "marble-nonstick-milk-pan-18cm-npap18-003",
+  "name": {
+   "en": "Marble Non-Stick Milk Pan with Lid 18cm",
+   "zh": "18cm 大理石塗層奶鍋（連玻璃蓋）"
+  },
+  "tagline": {
+   "en": "Small batches, beautifully done.",
+   "zh": "小鍋細煮，恰到好處。"
+  },
+  "summary": {
+   "en": "An 18cm forged aluminium milk pan with marble non-stick coating, glass lid and wood-grain handle. Ideal for sauces, milk and single servings.",
+   "zh": "18cm 鍛造鋁奶鍋，大理石防黏塗層，配玻璃蓋與木紋手柄。適合煮醬汁、熱奶及單人份料理。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Forged aluminium body.",
+    "zh": "鍛造鋁鍋身。"
+   },
+   {
+    "en": "Wood-grain handle and lid knob.",
+    "zh": "木紋手柄及鍋蓋把手。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "18cm",
+     "zh": "18cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Forged aluminium",
+     "zh": "鍛造鋁"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Lid",
+     "zh": "鍋蓋"
+    },
+    "value": {
+     "en": "Glass",
+     "zh": "玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP18-003",
+     "zh": "NPAP18-003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "milk pan",
+   "saucepan",
+   "non-stick",
+   "marble coating",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npap24-002",
+  "slug": "marble-nonstick-frying-pan-24cm-npap24-002",
+  "name": {
+   "en": "Marble Non-Stick Frying Pan 24cm",
+   "zh": "24cm 大理石塗層煎鍋"
+  },
+  "tagline": {
+   "en": "The everyday pan, refined.",
+   "zh": "日常好鍋，更見講究。"
+  },
+  "summary": {
+   "en": "A 24cm forged aluminium frying pan with marble non-stick coating. Compatible with gas and induction, it suits everyday cooking and kitchenware promotions.",
+   "zh": "24cm 鍛造鋁煎鍋，大理石防黏塗層，煤氣爐與電磁爐通用。適合日常烹調及廚具推廣。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Forged aluminium body.",
+    "zh": "鍛造鋁鍋身。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "24cm",
+     "zh": "24cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Forged aluminium",
+     "zh": "鍛造鋁"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP24-002",
+     "zh": "NPAP24-002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "frying pan",
+   "non-stick pan",
+   "marble coating",
+   "induction pan"
+  ]
+ },
+ {
+  "id": "npap20-002",
+  "slug": "marble-nonstick-frying-pan-20cm-npap20-002",
+  "name": {
+   "en": "Marble Non-Stick Frying Pan 20cm",
+   "zh": "20cm 大理石塗層煎鍋"
+  },
+  "tagline": {
+   "en": "Compact. Capable. Non-stick.",
+   "zh": "小巧好用，不黏易潔。"
+  },
+  "summary": {
+   "en": "A 20cm forged aluminium frying pan with marble non-stick coating. Compatible with gas and induction, sized for eggs, breakfasts and small portions.",
+   "zh": "20cm 鍛造鋁煎鍋，大理石防黏塗層，煤氣爐與電磁爐通用。尺寸適合煎蛋、早餐及小份量料理。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Forged aluminium body.",
+    "zh": "鍛造鋁鍋身。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "20cm",
+     "zh": "20cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Forged aluminium",
+     "zh": "鍛造鋁"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP20-002",
+     "zh": "NPAP20-002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "frying pan",
+   "small frying pan",
+   "non-stick",
+   "marble coating"
+  ]
+ },
+ {
+  "id": "npap24-001",
+  "slug": "marble-nonstick-stockpot-24cm-npap24-001",
+  "name": {
+   "en": "Marble Non-Stick Stockpot with Lid 24cm",
+   "zh": "24cm 大理石塗層燉鍋（連玻璃蓋）"
+  },
+  "tagline": {
+   "en": "Slow simmering, made simple.",
+   "zh": "慢火細燉，簡單從容。"
+  },
+  "summary": {
+   "en": "A 24cm marble-coated stockpot with glass lid and wood-grain handles. Compatible with gas and induction, suited to soups, stews and family meals.",
+   "zh": "24cm 大理石防黏燉鍋，配玻璃蓋與木紋把手，煤氣爐與電磁爐通用。適合煲湯、燉煮及家庭料理。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Wood-grain handles and lid knob.",
+    "zh": "木紋把手及鍋蓋把手。"
+   },
+   {
+    "en": "Supplied with a glass lid.",
+    "zh": "附玻璃蓋。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "24cm",
+     "zh": "24cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Lid",
+     "zh": "鍋蓋"
+    },
+    "value": {
+     "en": "Glass",
+     "zh": "玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP24-001",
+     "zh": "NPAP24-001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "stockpot",
+   "casserole pot",
+   "non-stick pot",
+   "marble coating",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npap20-001",
+  "slug": "marble-nonstick-stockpot-20cm-npap20-001",
+  "name": {
+   "en": "Marble Non-Stick Stockpot with Lid 20cm",
+   "zh": "20cm 大理石塗層燉鍋（連玻璃蓋）"
+  },
+  "tagline": {
+   "en": "Home cooking, gently simmered.",
+   "zh": "家常好味，細火慢燉。"
+  },
+  "summary": {
+   "en": "A 20cm marble-coated stockpot with glass lid and wood-grain handles. Compatible with gas and induction, sized for smaller households.",
+   "zh": "20cm 大理石防黏燉鍋，配玻璃蓋與木紋把手，煤氣爐與電磁爐通用，適合小家庭使用。"
+  },
+  "features": [
+   {
+    "en": "Marble non-stick coating.",
+    "zh": "大理石防黏塗層。"
+   },
+   {
+    "en": "Suitable for gas and induction hobs.",
+    "zh": "煤氣爐、電磁爐通用。"
+   },
+   {
+    "en": "Wood-grain handles and lid knob.",
+    "zh": "木紋把手及鍋蓋把手。"
+   },
+   {
+    "en": "Supplied with a glass lid.",
+    "zh": "附玻璃蓋。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Diameter",
+     "zh": "直徑"
+    },
+    "value": {
+     "en": "20cm",
+     "zh": "20cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Coating",
+     "zh": "塗層"
+    },
+    "value": {
+     "en": "Marble non-stick",
+     "zh": "大理石防黏"
+    }
+   },
+   {
+    "label": {
+     "en": "Lid",
+     "zh": "鍋蓋"
+    },
+    "value": {
+     "en": "Glass",
+     "zh": "玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Compatible Hobs",
+     "zh": "適用爐具"
+    },
+    "value": {
+     "en": "Gas, induction",
+     "zh": "煤氣爐、電磁爐"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPAP20-001",
+     "zh": "NPAP20-001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "stockpot",
+   "small pot",
+   "non-stick pot",
+   "marble coating",
+   "cookware"
+  ]
+ },
+ {
+  "id": "npps001",
+  "slug": "8-sheet-paper-shredder-15l-npps001",
+  "name": {
+   "en": "8-Sheet Paper Shredder 15L",
+   "zh": "8 張碎紙機 15L"
+  },
+  "tagline": {
+   "en": "Confidential, kept confidential.",
+   "zh": "機密文件，安心銷毀。"
+  },
+  "summary": {
+   "en": "A 15L shredder that cuts up to eight A4 sheets into 4x32mm particles, even with staples or clips. Built for offices handling sensitive documents.",
+   "zh": "15L 碎紙機，可同時處理最多 8 張 A4 紙，切割成 4x32mm 碎粒，釘書釘與萬字夾亦可處理。適合處理機密文件的辦公室。"
+  },
+  "features": [
+   {
+    "en": "Shreds documents with staples or paper clips attached.",
+    "zh": "可處理附有釘書釘或萬字夾的文件。"
+   },
+   {
+    "en": "Up to eight A4 80gsm sheets at once.",
+    "zh": "最多可同時碎 8 張 A4 80gsm 紙。"
+   },
+   {
+    "en": "4x32mm cross-cut for confidential documents.",
+    "zh": "4x32mm 切割尺寸，適合處理機密文件。"
+   },
+   {
+    "en": "Shredding speed of 2.25m per minute.",
+    "zh": "碎紙速度每分鐘 2.25 米。"
+   },
+   {
+    "en": "Continuous operation for up to 2 minutes.",
+    "zh": "可持續運作 2 分鐘。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Sheet Capacity",
+     "zh": "碎紙張數"
+    },
+    "value": {
+     "en": "8 sheets (A4 80gsm)",
+     "zh": "8 張（A4 80gsm）"
+    }
+   },
+   {
+    "label": {
+     "en": "Bin Capacity",
+     "zh": "紙箱容量"
+    },
+    "value": {
+     "en": "15L",
+     "zh": "15L"
+    }
+   },
+   {
+    "label": {
+     "en": "Cut Size",
+     "zh": "切割尺寸"
+    },
+    "value": {
+     "en": "4x32mm",
+     "zh": "4x32mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Shredding Speed",
+     "zh": "碎紙速度"
+    },
+    "value": {
+     "en": "2.25m/min",
+     "zh": "2.25 米/分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Continuous Run Time",
+     "zh": "連續運作時間"
+    },
+    "value": {
+     "en": "2 minutes",
+     "zh": "2 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPPS001",
+     "zh": "NPPS001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "paper shredder",
+   "office shredder",
+   "cross cut shredder",
+   "document shredder"
+  ]
+ },
+ {
+  "id": "nptb002",
+  "slug": "large-insulated-shopping-bag-nptb002",
+  "name": {
+   "en": "Large Insulated Shopping Bag",
+   "zh": "大號錫紙保溫購物袋"
+  },
+  "tagline": {
+   "en": "Keeps the cold in. And the warm.",
+   "zh": "保冷保溫，一袋兼顧。"
+  },
+  "summary": {
+   "en": "A large foil-lined shopping bag that keeps food hot or cold and fits over a trolley. Available in four prints for retail and community giveaways.",
+   "zh": "大號錫紙內層購物袋，保溫保冷，可套於拉桿車上。提供四款圖案，適合零售及社區贈品。"
+  },
+  "features": [
+   {
+    "en": "Foil lining keeps contents hot or cold and is waterproof.",
+    "zh": "錫紙內層保溫、保冷兼防水。"
+   },
+   {
+    "en": "Easy-clean foil interior.",
+    "zh": "錫紙內層易清洗。"
+   },
+   {
+    "en": "Side pocket for an umbrella or water bottle.",
+    "zh": "側袋可放雨傘或水杯。"
+   },
+   {
+    "en": "Fits over a trolley handle.",
+    "zh": "可套於拉桿車上。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Dimensions (L x W x H)",
+     "zh": "尺寸（長 x 闊 x 高）"
+    },
+    "value": {
+     "en": "32 x 20 x 43 cm",
+     "zh": "32 x 20 x 43 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPTB002",
+     "zh": "NPTB002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Star Print",
+    "zh": "星星圖案"
+   },
+   {
+    "en": "Rose Print",
+    "zh": "月季花圖案"
+   },
+   {
+    "en": "Leaf Print",
+    "zh": "葉子圖案"
+   },
+   {
+    "en": "Elephant Print",
+    "zh": "大象圖案"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "insulated shopping bag",
+   "cooler bag",
+   "thermal tote",
+   "trolley bag"
+  ]
+ },
+ {
+  "id": "npbs0001",
+  "slug": "mini-bluetooth-speaker-npbs0001",
+  "name": {
+   "en": "Mini Wireless Bluetooth Speaker",
+   "zh": "迷你藍牙無線喇叭"
+  },
+  "tagline": {
+   "en": "Big sound. Pocket size.",
+   "zh": "掌心大小，聲聲出色。"
+  },
+  "summary": {
+   "en": "A compact IPX5 water-resistant Bluetooth speaker with top lighting and up to 7 hours of play. A crowd-pleasing tech giveaway.",
+   "zh": "迷你 IPX5 防水藍牙喇叭，設頂部燈光效果，續航最長 7 小時。是廣受歡迎的科技贈品。"
+  },
+  "features": [
+   {
+    "en": "1200mAh battery for 4-7 hours of play.",
+    "zh": "1200mAh 電池，可使用 4-7 小時。"
+   },
+   {
+    "en": "Top lighting effect.",
+    "zh": "頂部燈光效果。"
+   },
+   {
+    "en": "Pair two units for stereo sound (sold separately).",
+    "zh": "可配對成雙聲道喇叭（需另購一部）。"
+   },
+   {
+    "en": "IPX5 water resistance.",
+    "zh": "IPX5 防水。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "1200mAh",
+     "zh": "1200mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "4-7 hours",
+     "zh": "4-7 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Water Resistance",
+     "zh": "防水等級"
+    },
+    "value": {
+     "en": "IPX5",
+     "zh": "IPX5"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPBS0001",
+     "zh": "NPBS0001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "bluetooth speaker",
+   "mini speaker",
+   "wireless speaker",
+   "waterproof speaker",
+   "tech gift"
+  ]
+ },
+ {
+  "id": "npbfm003",
+  "slug": "heated-eye-massager-npbfm003",
+  "name": {
+   "en": "Heated Eye Massager",
+   "zh": "眼部按摩儀"
+  },
+  "tagline": {
+   "en": "Rest your eyes, beautifully.",
+   "zh": "讓雙眼，好好休息。"
+  },
+  "summary": {
+   "en": "An eye massager with adjustable 37-45℃ heat, red LED care and high-frequency vibration. A considered wellness gift for busy professionals.",
+   "zh": "眼部按摩儀，37-45℃ 恆溫熱敷可調，配 LED 紅光護理與高頻振動。是送給忙碌專業人士的保健禮品。"
+  },
+  "features": [
+   {
+    "en": "Constant heat from 37-45℃ across nine levels.",
+    "zh": "37-45℃ 恆溫熱敷，9 段溫度可調。"
+   },
+   {
+    "en": "Red LED light care.",
+    "zh": "LED 紅光護理。"
+   },
+   {
+    "en": "Three heat modes.",
+    "zh": "3 種熱敷模式。"
+   },
+   {
+    "en": "High-frequency vibration at 10,000 times per minute.",
+    "zh": "每分鐘 1 萬次高頻振動。"
+   },
+   {
+    "en": "Curved zinc alloy massage heads and LCD display.",
+    "zh": "鋅合金弧面按摩頭，配 LCD 顯示屏。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Temperature",
+     "zh": "熱敷溫度"
+    },
+    "value": {
+     "en": "37-45℃, 9 levels",
+     "zh": "37-45℃，9 段可調"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Modes",
+     "zh": "熱敷模式"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 種"
+    }
+   },
+   {
+    "label": {
+     "en": "Vibration",
+     "zh": "振動頻率"
+    },
+    "value": {
+     "en": "10,000 times/min",
+     "zh": "1 萬次/分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Massage Head",
+     "zh": "按摩頭"
+    },
+    "value": {
+     "en": "Zinc alloy",
+     "zh": "鋅合金"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPBFM003",
+     "zh": "NPBFM003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "eye massager",
+   "heated eye mask",
+   "eye care",
+   "wellness gift",
+   "red light"
+  ]
+ },
+ {
+  "id": "nplm001",
+  "slug": "cordless-heated-leg-massager-nplm001",
+  "name": {
+   "en": "Cordless Heated Leg Massager",
+   "zh": "無線熱敷腿部按摩器"
+  },
+  "tagline": {
+   "en": "Ease every step.",
+   "zh": "舒緩每一步。"
+  },
+  "summary": {
+   "en": "A rechargeable leg massager with three intensities and three heat levels up to 55℃. A restorative gift for active and on-the-feet teams.",
+   "zh": "充電式腿部按摩器，設三檔按摩強度及三段溫度，最高 55℃。適合送給經常走動或久站的團隊。"
+  },
+  "features": [
+   {
+    "en": "Three massage intensities.",
+    "zh": "3 檔按摩強度。"
+   },
+   {
+    "en": "Three heat levels: 40℃, 45℃ and 55℃.",
+    "zh": "3 段溫度：40℃、45℃、55℃。"
+   },
+   {
+    "en": "15-minute massage sessions.",
+    "zh": "每次按摩 15 分鐘。"
+   },
+   {
+    "en": "2000mAh battery for up to 90 minutes per charge.",
+    "zh": "2000mAh 電池，滿電可使用 90 分鐘。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Massage Intensity",
+     "zh": "按摩強度"
+    },
+    "value": {
+     "en": "3 levels",
+     "zh": "3 檔"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Settings",
+     "zh": "溫度檔位"
+    },
+    "value": {
+     "en": "40℃ / 45℃ / 55℃",
+     "zh": "40℃ / 45℃ / 55℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Session Time",
+     "zh": "每次按摩時間"
+    },
+    "value": {
+     "en": "15 minutes",
+     "zh": "15 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "2000mAh",
+     "zh": "2000mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "90 minutes",
+     "zh": "90 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPLM001",
+     "zh": "NPLM001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Single Unit",
+    "zh": "單件裝"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "leg massager",
+   "calf massager",
+   "heated massager",
+   "cordless massager"
+  ]
+ },
+ {
+  "id": "npsm001",
+  "slug": "heated-shiatsu-neck-massager-npsm001",
+  "name": {
+   "en": "Heated Shiatsu Neck Massager",
+   "zh": "熱敷指壓頸部按摩器"
+  },
+  "tagline": {
+   "en": "Release the day's tension.",
+   "zh": "卸下一天的緊繃。"
+  },
+  "summary": {
+   "en": "A neck massager with six 3D shiatsu heads, infrared heat and auto shut-off. A well-loved wellness gift for desk-bound professionals.",
+   "zh": "頸部按摩器，設 6 個 3D 指壓按摩頭及紅外線恆溫熱敷，具自動關機功能。是長時間伏案人士的理想保健禮品。"
+  },
+  "features": [
+   {
+    "en": "Six massage heads for 3D shiatsu massage.",
+    "zh": "6 個按摩頭，3D 全方位指壓。"
+   },
+   {
+    "en": "Two speed and intensity settings.",
+    "zh": "2 檔速度及力度調節。"
+   },
+   {
+    "en": "Infrared constant heat at 40-45℃.",
+    "zh": "紅外線恆溫熱敷 40-45℃。"
+   },
+   {
+    "en": "120 minutes of operation per charge.",
+    "zh": "120 分鐘使用時間。"
+   },
+   {
+    "en": "Auto shut-off after 15 minutes.",
+    "zh": "15 分鐘自動關機。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Massage Heads",
+     "zh": "按摩頭"
+    },
+    "value": {
+     "en": "6",
+     "zh": "6 個"
+    }
+   },
+   {
+    "label": {
+     "en": "Speed / Intensity",
+     "zh": "速度及力度"
+    },
+    "value": {
+     "en": "2 levels",
+     "zh": "2 檔"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat",
+     "zh": "熱敷溫度"
+    },
+    "value": {
+     "en": "40-45℃ infrared",
+     "zh": "紅外線 40-45℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "120 minutes",
+     "zh": "120 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Auto Shut-off",
+     "zh": "自動關機"
+    },
+    "value": {
+     "en": "15 minutes",
+     "zh": "15 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPSM001",
+     "zh": "NPSM001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "neck massager",
+   "shiatsu massager",
+   "heated massager",
+   "wellness gift"
+  ]
+ },
+ {
+  "id": "nltfb001a",
+  "slug": "lunch-box-insulated-bag-nltfb001a",
+  "name": {
+   "en": "Insulated Bag for Double-Layer Lunch Box",
+   "zh": "雙層便當盒專用保溫袋"
+  },
+  "tagline": {
+   "en": "A perfect fit for lunch.",
+   "zh": "貼身收納，午餐隨行。"
+  },
+  "summary": {
+   "en": "An insulated carry bag made for the NLTFB001 304 stainless steel double-layer lunch box. Completes the set for daily commuting.",
+   "zh": "專為 NLTFB001 304 不鏽鋼雙層便當盒而設的保溫袋，配套使用，方便日常攜帶。"
+  },
+  "features": [
+   {
+    "en": "Made for the NLTFB001 double-layer lunch box.",
+    "zh": "適用於 NLTFB001 304 不鏽鋼雙層便當盒。"
+   },
+   {
+    "en": "Insulated carry bag for everyday use.",
+    "zh": "保溫收納袋，方便日常攜帶。"
+   },
+   {
+    "en": "Keeps the lunch box and its contents together on the go.",
+    "zh": "外出時妥善收納便當盒。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Compatible Model",
+     "zh": "適用型號"
+    },
+    "value": {
+     "en": "NLTFB001",
+     "zh": "NLTFB001"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NLTFB001a",
+     "zh": "NLTFB001a"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "lunch bag",
+   "insulated bag",
+   "lunch box accessory",
+   "thermal bag"
+  ]
+ },
+ {
+  "id": "nltfb001",
+  "slug": "304-stainless-double-layer-lunch-box-nltfb001",
+  "name": {
+   "en": "304 Stainless Steel Double-Layer Lunch Box",
+   "zh": "304 不鏽鋼雙層便當盒"
+  },
+  "tagline": {
+   "en": "Lunch, thoughtfully stacked.",
+   "zh": "雙層收納，午餐從容。"
+  },
+  "summary": {
+   "en": "A double-layer 304 stainless steel lunch box with 700ml per tier and removable inner containers. A practical, reusable gift for staff and sustainability programmes.",
+   "zh": "304 不鏽鋼雙層便當盒，每層 700ml，內膽可拆洗。是員工禮品及環保計劃的實用之選。"
+  },
+  "features": [
+   {
+    "en": "700ml capacity per layer.",
+    "zh": "單層 700ml 容量。"
+   },
+   {
+    "en": "Breathable design keeps food fresh.",
+    "zh": "透氣保鮮設計。"
+   },
+   {
+    "en": "Removable inner containers for easy cleaning.",
+    "zh": "分離式內膽，可拆卸清洗。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "304 stainless steel",
+     "zh": "304 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "700ml per layer",
+     "zh": "每層 700ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "12.5 x 12.5 x 14.5 cm",
+     "zh": "12.5 x 12.5 x 14.5 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NLTFB001",
+     "zh": "NLTFB001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "lunch box",
+   "stainless steel lunch box",
+   "bento box",
+   "food container"
+  ]
+ },
+ {
+  "id": "npkcb002",
+  "slug": "304-stainless-dual-sided-cutting-board-npkcb002",
+  "name": {
+   "en": "304 Stainless Steel Dual-Sided Cutting Board",
+   "zh": "304 不鏽鋼雙面砧板"
+  },
+  "tagline": {
+   "en": "Raw on one side. Ready on the other.",
+   "zh": "生熟分切，一板兩用。"
+  },
+  "summary": {
+   "en": "A dual-sided board pairing 304 stainless steel for raw food with food-grade PP for cooked food. Includes a grating zone and built-in knife sharpener.",
+   "zh": "雙面砧板，304 不鏽鋼面處理生食，食品級 PP 面處理熟食，並設薑蒜研磨區及磨刀石。"
+  },
+  "features": [
+   {
+    "en": "304 stainless steel side for raw meat and seafood.",
+    "zh": "304 不鏽鋼面，專用於處理生肉及海鮮。"
+   },
+   {
+    "en": "Food-grade PP reverse for cooked food, fruit and vegetables.",
+    "zh": "背面食品級 PP，適用於熟食及蔬果，避免交叉污染。"
+   },
+   {
+    "en": "Soft rubber edging absorbs chopping impact.",
+    "zh": "軟膠包邊，吸收剁砍衝擊。"
+   },
+   {
+    "en": "Textured zone for grating ginger and garlic.",
+    "zh": "專設薑蒜研磨區。"
+   },
+   {
+    "en": "Built-in side sharpener keeps knives keen.",
+    "zh": "側邊嵌入磨刀石，隨時保養刀刃。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "304 stainless steel / food-grade PP",
+     "zh": "304 不鏽鋼 / 食品級 PP"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "27 × 40 cm",
+     "zh": "27 × 40 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPKCB002",
+     "zh": "NPKCB002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "cutting board",
+   "stainless steel chopping board",
+   "dual sided board",
+   "knife sharpener"
+  ]
+ },
+ {
+  "id": "npkcb001",
+  "slug": "304-stainless-wheat-straw-cutting-board-npkcb001",
+  "name": {
+   "en": "304 Stainless Steel and Wheat Straw Cutting Board",
+   "zh": "304 不鏽鋼小麥秸稈雙面砧板"
+  },
+  "tagline": {
+   "en": "Two surfaces. One clean kitchen.",
+   "zh": "雙面分工，廚房更潔淨。"
+  },
+  "summary": {
+   "en": "A dual-sided board with a 304 stainless steel face for raw food and a wheat straw face for cooked food. Features a grating zone and a sharpener in the handle.",
+   "zh": "雙面砧板，304 不鏽鋼面處理生食，小麥秸稈面處理熟食，設薑蒜研磨區，把手嵌入磨刀石。"
+  },
+  "features": [
+   {
+    "en": "304 stainless steel side for raw meat and seafood.",
+    "zh": "304 不鏽鋼面，專用於處理生肉及海鮮。"
+   },
+   {
+    "en": "Wheat straw reverse for cooked food, fruit and vegetables.",
+    "zh": "小麥秸稈面適用於熟食及蔬果，避免交叉污染。"
+   },
+   {
+    "en": "Impact-absorbing structure protects knife edges.",
+    "zh": "抗衝擊結構，保護刀刃鋒利度。"
+   },
+   {
+    "en": "Textured zone for grating ginger and garlic.",
+    "zh": "專設薑蒜研磨區。"
+   },
+   {
+    "en": "Sharpener built into the handle.",
+    "zh": "把手嵌入磨刀石，隨時保養刀刃。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "304 stainless steel / wheat straw",
+     "zh": "304 不鏽鋼 / 小麥秸稈"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "27 × 40 cm",
+     "zh": "27 × 40 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPKCB001",
+     "zh": "NPKCB001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "cutting board",
+   "wheat straw board",
+   "stainless steel chopping board",
+   "knife sharpener"
+  ]
+ },
+ {
+  "id": "npek001",
+  "slug": "led-temperature-control-kettle-npek001",
+  "name": {
+   "en": "LED Temperature Control Kettle 1.7L",
+   "zh": "LED 溫控電熱水壺 1.7L"
+  },
+  "tagline": {
+   "en": "The right temperature, every cup.",
+   "zh": "每一杯，都是剛好的溫度。"
+  },
+  "summary": {
+   "en": "A 1500W, 1.7L kettle with LED temperature display and five presets for tea and coffee. A refined choice for offices, hotels and pantries.",
+   "zh": "1500W、1.7L 電熱水壺，LED 實時顯示水溫，設五段溫控，適合沖茶及咖啡。是辦公室、酒店及茶水間的理想之選。"
+  },
+  "features": [
+   {
+    "en": "1500W heating for fast boiling.",
+    "zh": "1500W 急速沸騰。"
+   },
+   {
+    "en": "LED display and five touch-select temperature settings.",
+    "zh": "LED 屏顯示實時水溫，五段觸控溫度選擇。"
+   },
+   {
+    "en": "Double-wall body with 304 stainless steel interior stays cool to touch.",
+    "zh": "304 不鏽鋼內層配隔熱外殼，雙層防燙。"
+   },
+   {
+    "en": "Resumes its setting when returned to the base.",
+    "zh": "提壺記憶，放回底座自動延續原設定。"
+   },
+   {
+    "en": "Fully removable lid for thorough cleaning.",
+    "zh": "全開式上蓋，清潔無死角。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Rated Power",
+     "zh": "額定功率"
+    },
+    "value": {
+     "en": "1500W",
+     "zh": "1500W"
+    }
+   },
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1.7L max",
+     "zh": "最大 1.7L"
+    }
+   },
+   {
+    "label": {
+     "en": "Temperature Settings",
+     "zh": "溫控段數"
+    },
+    "value": {
+     "en": "5",
+     "zh": "5 段"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner Material",
+     "zh": "內層材質"
+    },
+    "value": {
+     "en": "304 stainless steel",
+     "zh": "304 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "210 x 152 x 242 mm",
+     "zh": "210 x 152 x 242 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPEK001",
+     "zh": "NPEK001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "electric kettle",
+   "temperature control kettle",
+   "led kettle",
+   "tea kettle"
+  ]
+ },
+ {
+  "id": "cccp007",
+  "slug": "purple-clay-electric-cooker-4l-cccp007",
+  "name": {
+   "en": "Smart Purple Clay Electric Cooker 4L",
+   "zh": "智能紫砂電煮鍋 4L"
+  },
+  "tagline": {
+   "en": "Time-honoured clay. Modern control.",
+   "zh": "傳統紫砂，智能掌控。"
+  },
+  "summary": {
+   "en": "A 4L, 700W electric cooker with a handmade natural purple clay pot and 360° even heating. Cooks soups, congee, rice and desserts, with up to 12-hour scheduling.",
+   "zh": "4L、700W 電煮鍋，採用天然紫砂手工內膽，360° 均勻受熱。可煲湯、煮粥、煮飯及製作甜品，預約最長 12 小時。"
+  },
+  "features": [
+   {
+    "en": "Handmade natural purple clay inner pot.",
+    "zh": "純天然紫砂，手工製作。"
+   },
+   {
+    "en": "Suspended base heating for 360° even cooking.",
+    "zh": "懸浮立底加熱，360° 均勻受熱。"
+   },
+   {
+    "en": "Cooks rice, soup, congee and desserts.",
+    "zh": "可煮飯、燉湯、煲粥及製作甜品。"
+   },
+   {
+    "en": "Timer and keep-warm functions.",
+    "zh": "附計時及保溫功能。"
+   },
+   {
+    "en": "Delay start up to 12 hours.",
+    "zh": "預約時間最長 12 小時。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "700W",
+     "zh": "700W"
+    }
+   },
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "4L",
+     "zh": "4L"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner Pot",
+     "zh": "內膽材質"
+    },
+    "value": {
+     "en": "Natural purple clay",
+     "zh": "天然紫砂"
+    }
+   },
+   {
+    "label": {
+     "en": "Delay Start",
+     "zh": "預約時間"
+    },
+    "value": {
+     "en": "Up to 12 hours",
+     "zh": "最長 12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CCCP007",
+     "zh": "CCCP007"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "purple clay cooker",
+   "electric stew pot",
+   "slow cooker",
+   "soup cooker",
+   "multi cooker"
+  ]
+ },
+ {
+  "id": "npik005",
+  "slug": "2-in-1-mosquito-killer-camping-lantern-npik005",
+  "name": {
+   "en": "2-in-1 Rechargeable Mosquito Killer Lantern",
+   "zh": "二合一充電滅蚊露營燈"
+  },
+  "tagline": {
+   "en": "Light the night. Keep it bite-free.",
+   "zh": "照亮夜晚，遠離蚊擾。"
+  },
+  "summary": {
+   "en": "A rechargeable lantern combining dual-wavelength UV mosquito trapping with 26 bright LEDs. Ideal for camping, homes and outdoor event giveaways.",
+   "zh": "充電式露營燈，結合雙波段紫光誘蚊與 26 顆高亮 LED。適合露營、家居及戶外活動贈品。"
+  },
+  "features": [
+   {
+    "en": "365nm and 395nm UV light with a dual 2000V grid.",
+    "zh": "365nm 及 395nm 雙波段紫光誘蚊，配 2000V 雙重電網。"
+   },
+   {
+    "en": "3600mAh battery; use while charging.",
+    "zh": "3600mAh 大容量電池，支援邊充邊用。"
+   },
+   {
+    "en": "26 LEDs with three modes: trap, light or both.",
+    "zh": "26 顆 LED，三種模式：單滅蚊、單照明、全功能。"
+   },
+   {
+    "en": "2m Type-C cable extends where it can be used.",
+    "zh": "附 2 米 Type-C 充電線，延伸使用範圍。"
+   },
+   {
+    "en": "Four-level battery indicator.",
+    "zh": "4 格電量指示燈。"
+   },
+   {
+    "en": "Twist-off cover for cleaning, with safety switch.",
+    "zh": "旋開外罩即可清潔電網，內置保護開關。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Grid Voltage",
+     "zh": "瞬間電壓"
+    },
+    "value": {
+     "en": "2000V",
+     "zh": "2000V"
+    }
+   },
+   {
+    "label": {
+     "en": "UV Wavelength",
+     "zh": "誘蚊波段"
+    },
+    "value": {
+     "en": "365nm + 395nm",
+     "zh": "365nm + 395nm"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "8W",
+     "zh": "8W"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "3600mAh",
+     "zh": "3600mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 6 hours (trap only) / 4.5 hours (trap + light)",
+     "zh": "單開滅蚊燈約 6 小時 / 滅蚊加燈光約 4.5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "Approx. 6.5 hours",
+     "zh": "約 6.5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Port",
+     "zh": "電源接口"
+    },
+    "value": {
+     "en": "Type-C",
+     "zh": "Type-C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "258 x 150 x 150 mm",
+     "zh": "258 x 150 x 150 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "In the Box",
+     "zh": "隨附配件"
+    },
+    "value": {
+     "en": "Cleaning brush ×1, 2m charging cable ×1, manual ×1",
+     "zh": "清潔刷 ×1、2 米充電線 ×1、說明書 ×1"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPIK005",
+     "zh": "NPIK005"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mosquito killer",
+   "camping lantern",
+   "bug zapper",
+   "uv mosquito lamp",
+   "rechargeable lantern"
+  ]
+ },
+ {
+  "id": "npik006",
+  "slug": "3-in-1-mosquito-killer-camping-lantern-npik006",
+  "name": {
+   "en": "3-in-1 Rechargeable Mosquito Killer Lantern",
+   "zh": "三合一充電滅蚊露營燈"
+  },
+  "tagline": {
+   "en": "Light, protection and SOS, in one.",
+   "zh": "照明、滅蚊、求救，一機兼顧。"
+  },
+  "summary": {
+   "en": "A compact rechargeable lantern with dual-wavelength UV trapping, three brightness levels and an SOS mode. Clips onto backpacks and tents for outdoor use.",
+   "zh": "輕巧充電式露營燈，具雙波段紫光滅蚊、三段亮度及 SOS 求救模式，可掛於背包及帳篷，適合戶外使用。"
+  },
+  "features": [
+   {
+    "en": "365nm and 395nm UV light with a 2000V grid.",
+    "zh": "365nm 及 395nm 雙波段紫光誘蚊，配 2000V 高壓電網。"
+   },
+   {
+    "en": "2000mAh battery; use while charging.",
+    "zh": "2000mAh 電池，支援邊充邊用。"
+   },
+   {
+    "en": "12 LEDs with low, medium, high and SOS modes.",
+    "zh": "12 顆 LED，低、中、高三段亮度及 SOS 模式。"
+   },
+   {
+    "en": "Translucent tray shows catches and twists off to empty.",
+    "zh": "半透明收集盒，清晰可見，旋開即可清理。"
+   },
+   {
+    "en": "Top carabiner for backpacks, tents and lantern poles.",
+    "zh": "頂部登山扣，可掛於背包、帳篷或燈桿。"
+   },
+   {
+    "en": "Four-level battery indicator.",
+    "zh": "4 格電量指示燈。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Grid Voltage",
+     "zh": "瞬間電壓"
+    },
+    "value": {
+     "en": "2000V",
+     "zh": "2000V"
+    }
+   },
+   {
+    "label": {
+     "en": "UV Wavelength",
+     "zh": "誘蚊波段"
+    },
+    "value": {
+     "en": "365nm + 395nm",
+     "zh": "365nm + 395nm"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "2W",
+     "zh": "2W"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "2000mAh",
+     "zh": "2000mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 7 hours (trap only) / 4.5 hours (trap + light)",
+     "zh": "單開滅蚊燈約 7 小時 / 滅蚊加燈光約 4.5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "Approx. 4 hours",
+     "zh": "約 4 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Port",
+     "zh": "電源接口"
+    },
+    "value": {
+     "en": "Type-C",
+     "zh": "Type-C"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "167 x 103 x 103 mm",
+     "zh": "167 x 103 x 103 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPIK006",
+     "zh": "NPIK006"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mosquito killer",
+   "camping lantern",
+   "bug zapper",
+   "sos light",
+   "outdoor lantern"
+  ]
+ },
+ {
+  "id": "npik003",
+  "slug": "uv-suction-mosquito-trap-npik003",
+  "name": {
+   "en": "UV Suction Mosquito Trap",
+   "zh": "誘蚊滅蚊器"
+  },
+  "tagline": {
+   "en": "Quiet nights, undisturbed.",
+   "zh": "靜謐夜晚，不受打擾。"
+  },
+  "summary": {
+   "en": "A rechargeable mosquito trap using 395nm UV light, fan suction and an electric grid, running at 25dB. Suited to bedrooms, offices and hospitality spaces.",
+   "zh": "充電式滅蚊器，結合 395nm 紫外光、風導吸蚊及電擊，運作噪音僅 25dB。適用於睡房、辦公室及酒店空間。"
+  },
+  "features": [
+   {
+    "en": "395nm UV light attracts mosquitoes from 360°.",
+    "zh": "395nm 紫外光，360° 光波誘蚊。"
+   },
+   {
+    "en": "Fan suction draws nearby insects in.",
+    "zh": "風導吸蚊，將附近蚊蟲吸入。"
+   },
+   {
+    "en": "Electric grid with multiple anti-escape barriers.",
+    "zh": "電擊滅蚊，配多重防逃逸裝置。"
+   },
+   {
+    "en": "Includes carbon dioxide lure tablets.",
+    "zh": "附二氧化碳誘蚊片。"
+   },
+   {
+    "en": "2000mAh battery for up to 6 hours.",
+    "zh": "2000mAh 電池，最長可持續使用 6 小時。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Input",
+     "zh": "輸入電源"
+    },
+    "value": {
+     "en": "DC5V/1A",
+     "zh": "DC5V/1A"
+    }
+   },
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "5W",
+     "zh": "5W"
+    }
+   },
+   {
+    "label": {
+     "en": "UV Wavelength",
+     "zh": "紫外線波長"
+    },
+    "value": {
+     "en": "395nm",
+     "zh": "395nm"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "2000mAh",
+     "zh": "2000mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "Approx. 2-3 hours",
+     "zh": "約 2-3 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 3-6 hours",
+     "zh": "約 3-6 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Noise Level",
+     "zh": "噪音值"
+    },
+    "value": {
+     "en": "25dB",
+     "zh": "25dB"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "130 x 130 x 253 mm",
+     "zh": "130 x 130 x 253 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPIK003",
+     "zh": "NPIK003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mosquito trap",
+   "mosquito killer",
+   "uv insect trap",
+   "bug zapper",
+   "silent mosquito lamp"
+  ]
+ },
+ {
+  "id": "npik004",
+  "slug": "2-in-1-mosquito-killer-flashlight-npik004",
+  "name": {
+   "en": "2-in-1 Rechargeable Mosquito Killer Flashlight",
+   "zh": "二合一充電滅蚊燈手電筒"
+  },
+  "tagline": {
+   "en": "Find your way. Lose the mosquitoes.",
+   "zh": "照亮前路，告別蚊擾。"
+  },
+  "summary": {
+   "en": "A rechargeable UV mosquito zapper combined with a flashlight and soft side lights, rated IP44. Built for camping, power cuts and outdoor events.",
+   "zh": "充電式紫光滅蚊燈結合手電筒及柔和側燈，具 IP44 防水等級。適合露營、停電應急及戶外活動。"
+  },
+  "features": [
+   {
+    "en": "Combines a flashlight with a UV mosquito zapper.",
+    "zh": "結合手電筒與電擊滅蚊燈功能。"
+   },
+   {
+    "en": "Side LEDs for soft tent lighting; base spotlight for emergencies.",
+    "zh": "兩側 LED 柔和照明，底部探照燈可應急照明。"
+   },
+   {
+    "en": "1800mAh battery: 10-14 hours trapping, 2-3 hours full use.",
+    "zh": "1800mAh 電池：純滅蚊約 10-14 小時，全功能約 2-3 小時。"
+   },
+   {
+    "en": "360° open grid with finger-safe fine mesh.",
+    "zh": "360° 開放式網格，細密設計防止手指誤入。"
+   },
+   {
+    "en": "IP44 water resistance for outdoor use.",
+    "zh": "IP44 防水等級，適合戶外使用。"
+   },
+   {
+    "en": "USB charging with dust-protected port and hidden hook.",
+    "zh": "USB 充電，接口防塵，設隱藏式掛鉤。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "1800mAh",
+     "zh": "1800mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "Approx. 2.5 hours",
+     "zh": "約 2.5 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時間"
+    },
+    "value": {
+     "en": "Approx. 10-14 hours (trap only) / 2-3 hours (trap + light)",
+     "zh": "純滅蚊約 10-14 小時 / 照明加滅蚊約 2-3 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Water Resistance",
+     "zh": "防水等級"
+    },
+    "value": {
+     "en": "IP44",
+     "zh": "IP44"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging",
+     "zh": "充電方式"
+    },
+    "value": {
+     "en": "USB",
+     "zh": "USB"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPIK004",
+     "zh": "NPIK004"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mosquito killer",
+   "flashlight",
+   "bug zapper",
+   "camping light",
+   "uv mosquito lamp"
+  ]
+ },
+ {
+  "id": "nphu001",
+  "slug": "cordless-mini-humidifier-nphu001",
+  "name": {
+   "en": "Cordless Mini Humidifier",
+   "zh": "無線迷你加濕器"
+  },
+  "tagline": {
+   "en": "Softer air, wherever you work.",
+   "zh": "濕潤空氣，隨處相伴。"
+  },
+  "summary": {
+   "en": "A compact cordless humidifier with a 2000mAh battery and continuous or intermittent mist. Ideal for desks and bedrooms, and a popular corporate gift.",
+   "zh": "輕巧無線加濕器，內置 2000mAh 電池，設持續與間歇噴霧模式。適合書桌及睡房，亦是受歡迎的企業禮品。"
+  },
+  "features": [
+   {
+    "en": "Built-in 2000mAh rechargeable battery.",
+    "zh": "內置 2000mAh 充電電池。"
+   },
+   {
+    "en": "Continuous and intermittent mist modes.",
+    "zh": "持續噴霧與間歇噴霧雙模式。"
+   },
+   {
+    "en": "Intermittent mode saves energy and extends runtime.",
+    "zh": "間歇模式節能，延長使用時間。"
+   },
+   {
+    "en": "Compact design for desks and bedrooms.",
+    "zh": "小巧設計，適合辦公桌及睡房。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Water Tank",
+     "zh": "水箱容量"
+    },
+    "value": {
+     "en": "1L",
+     "zh": "1L"
+    }
+   },
+   {
+    "label": {
+     "en": "Battery",
+     "zh": "電池容量"
+    },
+    "value": {
+     "en": "2000mAh",
+     "zh": "2000mAh"
+    }
+   },
+   {
+    "label": {
+     "en": "Charging Time",
+     "zh": "充電時間"
+    },
+    "value": {
+     "en": "Approx. 3 hours",
+     "zh": "約 3 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Runtime",
+     "zh": "使用時長"
+    },
+    "value": {
+     "en": "Approx. 7 hours",
+     "zh": "約 7 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Mist Output",
+     "zh": "噴霧量"
+    },
+    "value": {
+     "en": "Approx. 50ml/h",
+     "zh": "約 50ml/h"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "125 × 125 × 149 mm",
+     "zh": "125 × 125 × 149 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPHU001",
+     "zh": "NPHU001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Wood Grain",
+    "zh": "木紋"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "humidifier",
+   "cordless humidifier",
+   "desk humidifier",
+   "mini humidifier"
+  ]
+ },
+ {
+  "id": "npcd001",
+  "slug": "portable-foldable-clothes-dryer-npcd001",
+  "name": {
+   "en": "Portable Foldable Clothes Dryer",
+   "zh": "便攜摺疊衣物烘乾機"
+  },
+  "tagline": {
+   "en": "Dry anywhere. Fold away after.",
+   "zh": "隨處烘乾，用後即收。"
+  },
+  "summary": {
+   "en": "A foldable 600W clothes dryer with a garment bag and 1, 2 or 4-hour timer. Ideal for travel, small flats and humid seasons.",
+   "zh": "600W 摺疊衣物烘乾機，附衣物袋，設 1、2、4 小時定時關機。適合旅行、小型住宅及潮濕季節。"
+  },
+  "features": [
+   {
+    "en": "600W drying power.",
+    "zh": "600W 功率。"
+   },
+   {
+    "en": "Folds flat for storage and travel.",
+    "zh": "可摺疊，方便收納及攜帶。"
+   },
+   {
+    "en": "Includes a garment bag.",
+    "zh": "附衣物袋。"
+   },
+   {
+    "en": "Timer with 1, 2 or 4-hour shut-off.",
+    "zh": "定時關機：1、2、4 小時。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "600W",
+     "zh": "600W"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時"
+    },
+    "value": {
+     "en": "1 / 2 / 4 hours",
+     "zh": "1 / 2 / 4 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "270 x 216 x 108 mm",
+     "zh": "270 x 216 x 108 mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPCD001",
+     "zh": "NPCD001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "clothes dryer",
+   "portable dryer",
+   "foldable dryer",
+   "travel dryer"
+  ]
+ },
+ {
+  "id": "clth001",
+  "slug": "bathroom-ceramic-heater-towel-rack-clth001",
+  "name": {
+   "en": "2-in-1 Ceramic Heater with Towel Rack",
+   "zh": "二合一浴室及桌上陶瓷暖風機（附毛巾架）"
+  },
+  "tagline": {
+   "en": "Warmth, made for the bathroom.",
+   "zh": "為浴室而設的溫暖。"
+  },
+  "summary": {
+   "en": "A 2000W PTC ceramic heater rated IPX22 for bathrooms, mounting on the wall as a towel rack or standing on a table. Includes remote and 12-hour timer.",
+   "zh": "2000W PTC 陶瓷暖風機，具 IPX22 防濺水等級，可壁掛作毛巾架或枱式擺放，附遙控器及 12 小時定時。"
+  },
+  "features": [
+   {
+    "en": "IPX22 splash protection for bathroom use.",
+    "zh": "IPX22 防濺水等級，適合浴室使用。"
+   },
+   {
+    "en": "PTC ceramic heating, up to 2000W, warms instantly.",
+    "zh": "PTC 陶瓷發熱，最高 2000W，即開即熱。"
+   },
+   {
+    "en": "Cool, warm and hot air settings.",
+    "zh": "涼風、暖風、熱風三種模式。"
+   },
+   {
+    "en": "Touch display with timer up to 12 hours.",
+    "zh": "電子觸控顯示屏，定時最長 12 小時。"
+   },
+   {
+    "en": "Wall or table mounting; wall mount doubles as towel rack.",
+    "zh": "支援壁掛及枱式擺放，壁掛可作毛巾架。"
+   },
+   {
+    "en": "Remote control included.",
+    "zh": "附遙控器。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Rated Power",
+     "zh": "額定功率"
+    },
+    "value": {
+     "en": "2000W",
+     "zh": "2000W"
+    }
+   },
+   {
+    "label": {
+     "en": "Heating Element",
+     "zh": "發熱體"
+    },
+    "value": {
+     "en": "PTC ceramic",
+     "zh": "PTC 陶瓷"
+    }
+   },
+   {
+    "label": {
+     "en": "Modes",
+     "zh": "模式"
+    },
+    "value": {
+     "en": "Cool / Warm / Hot",
+     "zh": "涼風 / 暖風 / 熱風"
+    }
+   },
+   {
+    "label": {
+     "en": "Water Protection",
+     "zh": "防水等級"
+    },
+    "value": {
+     "en": "IPX22",
+     "zh": "IPX22"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時功能"
+    },
+    "value": {
+     "en": "Up to 12 hours",
+     "zh": "最長 12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CLTH001",
+     "zh": "CLTH001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "bathroom heater",
+   "ceramic heater",
+   "towel warmer",
+   "wall heater",
+   "ptc heater"
+  ]
+ },
+ {
+  "id": "m-87891da7",
+  "slug": "handheld-steam-cleaner-floor-attachment",
+  "name": {
+   "en": "Handheld Steam Cleaner with Floor Attachment",
+   "zh": "手持蒸氣清潔槍（附地拖配件）"
+  },
+  "tagline": {
+   "en": "The power of steam, in hand.",
+   "zh": "蒸氣之力，盡在掌握。"
+  },
+  "summary": {
+   "en": "A handheld steam cleaner supplied with a floor mop attachment. One tool for surfaces and floors around the home.",
+   "zh": "手持蒸氣清潔槍，附地拖配件，一機兼顧家居表面與地面清潔。"
+  },
+  "features": [
+   {
+    "en": "Handheld steam cleaning for household surfaces.",
+    "zh": "手持蒸氣清潔，適用於家居表面。"
+   },
+   {
+    "en": "Includes a floor mop attachment.",
+    "zh": "附地拖配件，可清潔地面。"
+   }
+  ],
+  "specs": [],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "steam cleaner",
+   "handheld steamer",
+   "steam mop",
+   "home cleaning"
+  ]
+ },
+ {
+  "id": "m-1f24e060",
+  "slug": "gyro-mapping-robot-vacuum-cleaner",
+  "name": {
+   "en": "2000Pa Gyro-Mapping Robot Vacuum",
+   "zh": "2000Pa 陀螺儀建圖自動回充掃地機械人"
+  },
+  "tagline": {
+   "en": "Clean floors, without a thought.",
+   "zh": "地面潔淨，無需費心。"
+  },
+  "summary": {
+   "en": "A robot vacuum with gyroscope mapping, up to 2000Pa suction, app scheduling and automatic recharging. A smart, low-effort upgrade for homes and small offices.",
+   "zh": "掃地機械人配備陀螺儀建圖導航，最高 2000Pa 吸力，支援 App 預約及自動回充。為家居及小型辦公室帶來省心的智能清潔。"
+  },
+  "features": [
+   {
+    "en": "Gyroscope navigation with mapping for efficient cleaning paths.",
+    "zh": "陀螺儀導航建圖，高效規劃清潔路徑。"
+   },
+   {
+    "en": "Auto, spot, edge and max modes, up to 2000Pa.",
+    "zh": "自動、定點、角落及最強模式，最高 2000Pa 吸力。"
+   },
+   {
+    "en": "Schedule cleaning through the Tuya app.",
+    "zh": "可透過 Tuya App 預約定時清潔。"
+   },
+   {
+    "en": "Five anti-collision and three anti-drop sensors.",
+    "zh": "5 組防撞及 3 組防跌感應器。"
+   },
+   {
+    "en": "Returns to the dock automatically to recharge.",
+    "zh": "低電量自動回航充電。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Suction",
+     "zh": "吸力"
+    },
+    "value": {
+     "en": "Auto 800Pa / Max 2000Pa",
+     "zh": "自動模式 800Pa / 最強模式 2000Pa"
+    }
+   },
+   {
+    "label": {
+     "en": "Climbing Height",
+     "zh": "越障高度"
+    },
+    "value": {
+     "en": "10mm",
+     "zh": "10mm"
+    }
+   },
+   {
+    "label": {
+     "en": "Noise Level (at 1m)",
+     "zh": "噪音水平（1 米距離）"
+    },
+    "value": {
+     "en": "Standard 68dB / Max 72dB",
+     "zh": "標準 68dB / 最強 72dB"
+    }
+   },
+   {
+    "label": {
+     "en": "Filter",
+     "zh": "濾網規格"
+    },
+    "value": {
+     "en": "E12",
+     "zh": "E12 級別"
+    }
+   },
+   {
+    "label": {
+     "en": "Dust Bin",
+     "zh": "集塵箱容量"
+    },
+    "value": {
+     "en": "450ml (usable 140ml)",
+     "zh": "450ml（實際可用 140ml）"
+    }
+   },
+   {
+    "label": {
+     "en": "Sensors",
+     "zh": "感應器"
+    },
+    "value": {
+     "en": "5 anti-collision, 3 anti-drop",
+     "zh": "5 組防撞、3 組防跌"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "robot vacuum",
+   "robotic vacuum cleaner",
+   "smart vacuum",
+   "app controlled vacuum",
+   "gyro navigation"
+  ]
+ },
+ {
+  "id": "nphp005",
+  "slug": "flannel-double-electric-blanket-nphp005",
+  "name": {
+   "en": "Flannel Double Electric Blanket",
+   "zh": "法蘭絨雙人電熱毯"
+  },
+  "tagline": {
+   "en": "Winter nights, made gentle.",
+   "zh": "寒夜裡的一份溫柔。"
+  },
+  "summary": {
+   "en": "A 160x120cm flannel electric blanket with three heat settings, overheat protection and 3-hour auto shut-off. A comforting seasonal gift.",
+   "zh": "160x120cm 法蘭絨電熱毯，三檔溫度，設過熱斷電保護及 3 小時自動關機。是溫暖貼心的季節性禮品。"
+  },
+  "features": [
+   {
+    "en": "Three heat settings.",
+    "zh": "3 檔溫度調節。"
+   },
+   {
+    "en": "Auto shut-off after 3 hours.",
+    "zh": "3 小時自動關機。"
+   },
+   {
+    "en": "Overheat protection.",
+    "zh": "過熱斷電保護。"
+   },
+   {
+    "en": "Washable once the power cord is removed and fully dried.",
+    "zh": "可清洗（需拔除電源線並完全晾乾）。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "120W",
+     "zh": "120W"
+    }
+   },
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "160 x 120cm",
+     "zh": "160 x 120cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Material",
+     "zh": "材質"
+    },
+    "value": {
+     "en": "Flannel",
+     "zh": "法蘭絨"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Settings",
+     "zh": "溫度檔位"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 檔"
+    }
+   },
+   {
+    "label": {
+     "en": "Auto Shut-off",
+     "zh": "自動關機"
+    },
+    "value": {
+     "en": "3 hours",
+     "zh": "3 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPHP005",
+     "zh": "NPHP005"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "electric blanket",
+   "heated blanket",
+   "flannel blanket",
+   "double electric blanket"
+  ]
+ },
+ {
+  "id": "cbwb001",
+  "slug": "usb-heated-waist-belt-cbwb001",
+  "name": {
+   "en": "USB Heated Waist Belt",
+   "zh": "電熱暖宮腰帶"
+  },
+  "tagline": {
+   "en": "Comfort that wraps around you.",
+   "zh": "溫暖貼身，舒適環抱。"
+  },
+  "summary": {
+   "en": "A USB-powered heated belt with three temperatures that warms in 3 seconds. Comfortable for the abdomen, stomach and lower back, and an easy wellness gift.",
+   "zh": "USB 供電暖宮腰帶，三檔溫度，3 秒迅速發熱，適用於腹部、胃部及腰部。是輕便的保健禮品。"
+  },
+  "features": [
+   {
+    "en": "5W, powered via USB-A.",
+    "zh": "5W 功率，USB-A 供電。"
+   },
+   {
+    "en": "Three temperatures: 45℃, 55℃ and 65℃.",
+    "zh": "3 檔溫度：45℃、55℃、65℃。"
+   },
+   {
+    "en": "Warms up in 3 seconds.",
+    "zh": "3 秒迅速發熱。"
+   },
+   {
+    "en": "For the abdomen, stomach and lower back.",
+    "zh": "適用於腹部、胃部及腰部。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "5W",
+     "zh": "5W"
+    }
+   },
+   {
+    "label": {
+     "en": "Power Supply",
+     "zh": "供電方式"
+    },
+    "value": {
+     "en": "USB-A",
+     "zh": "USB-A"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Settings",
+     "zh": "溫度檔位"
+    },
+    "value": {
+     "en": "45℃ / 55℃ / 65℃",
+     "zh": "45℃ / 55℃ / 65℃"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat-up Time",
+     "zh": "發熱時間"
+    },
+    "value": {
+     "en": "3 seconds",
+     "zh": "3 秒"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CBWB001",
+     "zh": "CBWB001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "heated waist belt",
+   "heating pad",
+   "usb heated belt",
+   "menstrual heating pad"
+  ]
+ },
+ {
+  "id": "cbhp003",
+  "slug": "washable-heated-neck-shoulder-wrap-cbhp003",
+  "name": {
+   "en": "Washable Heated Neck and Shoulder Wrap",
+   "zh": "可洗式速熱頸肩電暖毯"
+  },
+  "tagline": {
+   "en": "Warmth, shaped to you.",
+   "zh": "貼合肩頸，暖意隨身。"
+  },
+  "summary": {
+   "en": "A 100W heated wrap contoured to the neck and shoulders, with three heat settings and 90-minute auto shut-off. A soothing gift for desk-bound teams.",
+   "zh": "100W 頸肩電暖毯，貼合肩頸曲線，三段溫度，90 分鐘自動斷電。是長時間伏案團隊的舒緩禮品。"
+  },
+  "features": [
+   {
+    "en": "100W rapid, even heating with overheat protection.",
+    "zh": "100W 快速均勻升溫，具過熱保護。"
+   },
+   {
+    "en": "Three heat settings with clear indicator lights.",
+    "zh": "三段溫度調節，配清晰檔位指示燈。"
+   },
+   {
+    "en": "60x62cm ergonomic shape fits the neck and shoulders.",
+    "zh": "60x62cm 人體工學設計，貼合肩頸。"
+   },
+   {
+    "en": "Auto shut-off after 90 minutes.",
+    "zh": "90 分鐘自動斷電。"
+   },
+   {
+    "en": "Detachable controller; pad washes separately.",
+    "zh": "可分離式設計，墊面可單獨清洗。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "100W",
+     "zh": "100W"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Settings",
+     "zh": "溫控檔位"
+    },
+    "value": {
+     "en": "3",
+     "zh": "3 段"
+    }
+   },
+   {
+    "label": {
+     "en": "Size",
+     "zh": "尺寸"
+    },
+    "value": {
+     "en": "60 × 62 cm",
+     "zh": "60 × 62 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Auto Shut-off",
+     "zh": "自動斷電"
+    },
+    "value": {
+     "en": "90 minutes",
+     "zh": "90 分鐘"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CBHP003",
+     "zh": "CBHP003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "heated shoulder wrap",
+   "neck heating pad",
+   "electric shawl",
+   "heated blanket"
+  ]
+ },
+ {
+  "id": "npht010",
+  "slug": "oscillating-desktop-heater-ambient-light-npht010",
+  "name": {
+   "en": "1200W Oscillating Desktop Heater with Ambient Light",
+   "zh": "1200W 速熱桌面搖頭暖風機（附氛圍燈及遙控）"
+  },
+  "tagline": {
+   "en": "Warm air, soft glow.",
+   "zh": "暖風徐來，柔光相伴。"
+  },
+  "summary": {
+   "en": "A 1200W PTC ceramic desktop heater with 80° oscillation, timer, remote and warm ambient light. Practical and attractive for offices and bedrooms.",
+   "zh": "1200W PTC 陶瓷桌面暖風機，約 80° 擺頭，設定時、遙控及暖黃氛圍燈。實用美觀，適合辦公室及睡房。"
+  },
+  "features": [
+   {
+    "en": "PTC ceramic heating with flame-retardant housing.",
+    "zh": "PTC 陶瓷發熱體，配阻燃內膽結構。"
+   },
+   {
+    "en": "High heat, low heat and fan-only modes.",
+    "zh": "高熱、低熱及自然送風三種模式。"
+   },
+   {
+    "en": "2, 4 or 8-hour timer with indicator lights.",
+    "zh": "2、4、8 小時三段定時，配指示燈。"
+   },
+   {
+    "en": "Approx. 80° oscillation for wider coverage.",
+    "zh": "約 80° 左右擺頭送風。"
+   },
+   {
+    "en": "Remote controls power, oscillation, timer, mode and light.",
+    "zh": "遙控器可控制開關、擺頭、定時、檔位及燈光。"
+   },
+   {
+    "en": "Warm ambient base light and tip-over protection.",
+    "zh": "底部暖黃氛圍燈，設傾倒斷電保護。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Rated Power",
+     "zh": "額定功率"
+    },
+    "value": {
+     "en": "1200W",
+     "zh": "1200W"
+    }
+   },
+   {
+    "label": {
+     "en": "Heating Element",
+     "zh": "發熱體"
+    },
+    "value": {
+     "en": "PTC ceramic",
+     "zh": "PTC 陶瓷"
+    }
+   },
+   {
+    "label": {
+     "en": "Timer",
+     "zh": "定時功能"
+    },
+    "value": {
+     "en": "2 / 4 / 8 hours",
+     "zh": "2 / 4 / 8 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Oscillation",
+     "zh": "左右擺頭"
+    },
+    "value": {
+     "en": "Approx. 80°",
+     "zh": "約 80°"
+    }
+   },
+   {
+    "label": {
+     "en": "Indicator",
+     "zh": "指示燈"
+    },
+    "value": {
+     "en": "Blue (fan), dark red (low heat), red (high heat)",
+     "zh": "藍色（自然風）、暗紅色（低熱）、紅色（高熱）"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "12 × 12 × 24 cm",
+     "zh": "12 × 12 × 24 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPHT010",
+     "zh": "NPHT010"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "desktop heater",
+   "ceramic heater",
+   "oscillating heater",
+   "fan heater",
+   "remote heater"
+  ]
+ },
+ {
+  "id": "npfms002",
+  "slug": "spin-flat-mop-bucket-set-npfms002",
+  "name": {
+   "en": "Spin Flat Mop and Bucket Set",
+   "zh": "旋轉平板拖把連拖桶套裝"
+  },
+  "tagline": {
+   "en": "Clean water in. Dirty water out.",
+   "zh": "淨污分離，清潔更衛生。"
+  },
+  "summary": {
+   "en": "A flat mop system with separate clean and dirty water zones, a press-to-rinse mechanism and two mop pads. Hygienic, efficient floor care for homes and offices.",
+   "zh": "平板拖把系統，淨水與污水分區，設按壓沖水裝置，附兩塊拖布。為家居及辦公室提供衛生高效的地面清潔。"
+  },
+  "features": [
+   {
+    "en": "Separate clean and dirty water compartments.",
+    "zh": "淨水與污水分區，清洗與脫水分離。"
+   },
+   {
+    "en": "Built-in press-to-rinse system cleans the pad.",
+    "zh": "內置按壓沖水裝置，自動沖洗拖布。"
+   },
+   {
+    "en": "Clean-water filling port for quick refills.",
+    "zh": "附淨水注水口，注水簡單快捷。"
+   },
+   {
+    "en": "Base drain with plug for easy emptying.",
+    "zh": "桶底排水孔連膠塞，排水省力。"
+   },
+   {
+    "en": "Supplied with two mop pads.",
+    "zh": "配有 2 塊拖布。"
+   },
+   {
+    "en": "Lightweight, durable plastic bucket.",
+    "zh": "優質塑膠桶身，輕便耐用。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Mop Pads Included",
+     "zh": "拖布數量"
+    },
+    "value": {
+     "en": "2",
+     "zh": "2 塊"
+    }
+   },
+   {
+    "label": {
+     "en": "Bucket Material",
+     "zh": "桶材質"
+    },
+    "value": {
+     "en": "Plastic",
+     "zh": "塑膠"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPFMS002",
+     "zh": "NPFMS002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": false,
+  "keywords": [
+   "flat mop",
+   "mop and bucket",
+   "spin mop",
+   "floor cleaning"
+  ]
+ },
+ {
+  "id": "npvc007",
+  "slug": "316-stainless-light-vacuum-cup-200ml-npvc007",
+  "name": {
+   "en": "316 Stainless Steel Lightweight Vacuum Cup 200ml",
+   "zh": "316 不鏽鋼輕量保溫杯 200ml"
+  },
+  "tagline": {
+   "en": "Light in hand. Warm for hours.",
+   "zh": "輕盈在手，溫度長留。"
+  },
+  "summary": {
+   "en": "A slim 200ml vacuum cup with a 316 stainless steel interior, leak-proof seal and 12-hour retention. A refined, portable gift for any occasion.",
+   "zh": "纖巧 200ml 保溫杯，316 不鏽鋼內膽，密封防漏，12 小時長效保溫。是各種場合皆適宜的精緻隨身禮品。"
+  },
+  "features": [
+   {
+    "en": "Food-grade 316 inner wall with 304 stainless steel shell.",
+    "zh": "食品級 316 不鏽鋼內膽，304 不鏽鋼外殼。"
+   },
+   {
+    "en": "Keeps drinks hot or cold for 12 hours.",
+    "zh": "12 小時長效保溫保冷。"
+   },
+   {
+    "en": "Silicone-sealed lid prevents leaks.",
+    "zh": "杯蓋內置矽膠密封圈，嚴防滲漏。"
+   },
+   {
+    "en": "Smooth polished rim for comfortable drinking.",
+    "zh": "杯口精工研磨，觸感光滑。"
+   },
+   {
+    "en": "Compact and light enough for any bag.",
+    "zh": "纖巧輕盈，輕鬆放入隨身包。"
+   },
+   {
+    "en": "Silicone base pad for stable, quiet placement.",
+    "zh": "底部矽膠墊，防滑減震。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "200ml",
+     "zh": "200ml"
+    }
+   },
+   {
+    "label": {
+     "en": "Inner Material",
+     "zh": "內膽材質"
+    },
+    "value": {
+     "en": "316 stainless steel",
+     "zh": "316 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Shell Material",
+     "zh": "外殼材質"
+    },
+    "value": {
+     "en": "304 stainless steel",
+     "zh": "304 不鏽鋼"
+    }
+   },
+   {
+    "label": {
+     "en": "Heat Retention",
+     "zh": "保溫時間"
+    },
+    "value": {
+     "en": "12 hours",
+     "zh": "12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Dimensions",
+     "zh": "產品尺寸"
+    },
+    "value": {
+     "en": "Ø5.7 x 13.4cm",
+     "zh": "Ø5.7 x 13.4cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "NPVC007",
+     "zh": "NPVC007"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Green",
+    "zh": "綠色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "vacuum cup",
+   "mini thermos",
+   "insulated cup",
+   "316 stainless steel",
+   "corporate gift"
+  ]
+ },
+ {
+  "id": "cctb003",
+  "slug": "smart-high-speed-soy-milk-maker-cctb003",
+  "name": {
+   "en": "Smart High-Speed Soy Milk Maker 1200ml",
+   "zh": "智能破壁豆漿機 1200ml"
+  },
+  "tagline": {
+   "en": "Silky, fresh, ready on schedule.",
+   "zh": "幼滑新鮮，準時呈獻。"
+  },
+  "summary": {
+   "en": "A 1.2L high-speed blender with six presets, a glass jug and 12-hour delay start. Makes soy milk, rice paste, soup and juice for families of three to four.",
+   "zh": "1.2L 智能破壁豆漿機，六款預設功能，玻璃杯身，預約最長 12 小時。可製作豆漿、米糊、湯品及果汁，適合三至四人家庭。"
+  },
+  "features": [
+   {
+    "en": "Six presets: soy milk, rice paste, soup, juice, keep warm, clean.",
+    "zh": "六款預設：豆漿、米糊、煲湯、果汁、保溫、清洗。"
+   },
+   {
+    "en": "32,000 rpm motor for smooth, residue-free results.",
+    "zh": "每分鐘 32000 轉摩打，攪出幼滑無渣豆漿。"
+   },
+   {
+    "en": "Six-blade stainless steel assembly.",
+    "zh": "不鏽鋼六刀頭，堅固耐用。"
+   },
+   {
+    "en": "Clear food-grade glass jug.",
+    "zh": "透明食品級玻璃杯身。"
+   },
+   {
+    "en": "Delay start up to 12 hours.",
+    "zh": "預約功能最長 12 小時。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1.2L",
+     "zh": "1.2L"
+    }
+   },
+   {
+    "label": {
+     "en": "Motor Speed",
+     "zh": "轉速"
+    },
+    "value": {
+     "en": "32,000 rpm",
+     "zh": "每分鐘 32000 轉"
+    }
+   },
+   {
+    "label": {
+     "en": "Blades",
+     "zh": "刀頭"
+    },
+    "value": {
+     "en": "6, stainless steel",
+     "zh": "不鏽鋼 6 刀頭"
+    }
+   },
+   {
+    "label": {
+     "en": "Jug Material",
+     "zh": "杯身材質"
+    },
+    "value": {
+     "en": "Food-grade glass",
+     "zh": "食品級玻璃"
+    }
+   },
+   {
+    "label": {
+     "en": "Presets",
+     "zh": "預設功能"
+    },
+    "value": {
+     "en": "6",
+     "zh": "6 款"
+    }
+   },
+   {
+    "label": {
+     "en": "Delay Start",
+     "zh": "預約時間"
+    },
+    "value": {
+     "en": "Up to 12 hours",
+     "zh": "最長 12 小時"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CCTB003",
+     "zh": "CCTB003"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Standard",
+    "zh": "標準款"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "soy milk maker",
+   "high speed blender",
+   "soup maker",
+   "blender",
+   "kitchen appliance"
+  ]
+ },
+ {
+  "id": "cchp001",
+  "slug": "260w-mini-food-chopper-cchp001",
+  "name": {
+   "en": "260W Mini Food Chopper 0.5L",
+   "zh": "260W 食物切碎器 0.5L"
+  },
+  "tagline": {
+   "en": "Prep in seconds. Precisely.",
+   "zh": "瞬間備料，粗細隨心。"
+  },
+  "summary": {
+   "en": "A compact 260W chopper with two speeds, turbo mode and a clear bowl, LFGB-certified for food contact. Offered in four colours for retail and gifting.",
+   "zh": "260W 輕巧食物切碎器，雙速加 TURBO 模式，透明容器，通過德國 LFGB 食品接觸安全認證。提供四款顏色，適合零售及送禮。"
+  },
+  "features": [
+   {
+    "en": "260W motor with two speed settings.",
+    "zh": "260W 馬達，雙速控制。"
+   },
+   {
+    "en": "Turbo mode for instant high-speed chopping.",
+    "zh": "TURBO 模式，瞬間高轉速切碎。"
+   },
+   {
+    "en": "Crushes ice and grinds nuts to powder.",
+    "zh": "可碎冰，亦可將堅果研磨成粉。"
+   },
+   {
+    "en": "Clear bowl shows texture at a glance.",
+    "zh": "透明容器，切碎程度一目了然。"
+   },
+   {
+    "en": "Includes a whisk attachment for eggs and sauces.",
+    "zh": "附打蛋配件，可攪拌蛋液或醬料。"
+   },
+   {
+    "en": "German LFGB food-contact safety certified.",
+    "zh": "通過德國 LFGB 食品接觸安全認證。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Power",
+     "zh": "功率"
+    },
+    "value": {
+     "en": "260W",
+     "zh": "260W"
+    }
+   },
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "0.5L",
+     "zh": "0.5L"
+    }
+   },
+   {
+    "label": {
+     "en": "Speeds",
+     "zh": "轉速"
+    },
+    "value": {
+     "en": "2 + Turbo",
+     "zh": "2 段加 TURBO"
+    }
+   },
+   {
+    "label": {
+     "en": "Cord Length",
+     "zh": "電源線長度"
+    },
+    "value": {
+     "en": "Approx. 130 cm",
+     "zh": "約 130 cm"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CCHP001",
+     "zh": "CCHP001"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "Black",
+    "zh": "黑色"
+   },
+   {
+    "en": "White",
+    "zh": "白色"
+   },
+   {
+    "en": "Slate Grey",
+    "zh": "低調灰色"
+   },
+   {
+    "en": "Mint Green",
+    "zh": "薄荷綠色"
+   }
+  ],
+  "certs": [
+   "LFGB"
+  ],
+  "giftable": true,
+  "keywords": [
+   "food chopper",
+   "mini chopper",
+   "food processor",
+   "electric chopper",
+   "kitchen appliance"
+  ]
+ },
+ {
+  "id": "cccp002",
+  "slug": "multi-function-mini-electric-cooker-cccp002",
+  "name": {
+   "en": "Multi-Function Mini Electric Cooker 1.5L",
+   "zh": "多功能迷你電煮鍋 1.5L"
+  },
+  "tagline": {
+   "en": "Small pot. Many possibilities.",
+   "zh": "小小一鍋，變化萬千。"
+  },
+  "summary": {
+   "en": "A compact 1.5L multi-function electric cooker for small kitchens, dorms and solo meals. A versatile, well-received gift.",
+   "zh": "1.5L 多功能迷你電煮鍋，適合小型廚房、宿舍及一人料理，是實用又受歡迎的禮品。"
+  },
+  "features": [
+   {
+    "en": "Compact 1.5L capacity.",
+    "zh": "1.5L 輕巧容量。"
+   },
+   {
+    "en": "Multi-function design for everyday cooking.",
+    "zh": "多功能設計，應付日常烹調。"
+   }
+  ],
+  "specs": [
+   {
+    "label": {
+     "en": "Capacity",
+     "zh": "容量"
+    },
+    "value": {
+     "en": "1.5L",
+     "zh": "1.5L"
+    }
+   },
+   {
+    "label": {
+     "en": "Model No.",
+     "zh": "型號"
+    },
+    "value": {
+     "en": "CCCP002",
+     "zh": "CCCP002"
+    }
+   }
+  ],
+  "variants": [
+   {
+    "en": "White",
+    "zh": "白色"
+   }
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": [
+   "mini electric cooker",
+   "electric hot pot",
+   "multi cooker",
+   "dorm cooker"
+  ]
+ }
+]

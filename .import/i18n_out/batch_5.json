@@ -1,0 +1,1211 @@
+[
+ {
+  "id": "npsb002",
+  "slug": "foldable-storage-box-large-npsb002",
+  "name": {"en": "Foldable Storage Box, Large", "zh": "摺疊收納箱（大）"},
+  "tagline": {"en": "Room for everything. Folds to almost nothing.", "zh": "收得多，摺得薄。"},
+  "summary": {"en": "A clear, five-door storage box that folds flat when not in use. A practical choice for homes, offices and dormitories.", "zh": "透明五開門收納箱，不用時可摺平存放，適用於家居、辦公室及宿舍。"},
+  "features": [
+   {"en": "Clear five-door design for access from multiple sides and an easy view of contents.", "zh": "透明五開門設計，可多方向取放物品，內容物清晰可見。"},
+   {"en": "Built-in desiccant box at the top helps keep contents dry and protected from insects.", "zh": "頂部內置乾燥盒，保持物品乾爽，防蟲防潮。"},
+   {"en": "Thickened, high-strength material for reliable load-bearing.", "zh": "升級加厚高強度材質，承重穩定耐用。"},
+   {"en": "Folds down to just 7cm thick for compact storage.", "zh": "可摺疊至僅 7cm 厚，節省空間。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions (unfolded)", "zh": "展開尺寸"}, "value": {"en": "48 × 36 × 28.5cm (L × W × H)", "zh": "48 × 36 × 28.5cm（長 × 闊 × 高）"}},
+   {"label": {"en": "Folded thickness", "zh": "摺疊厚度"}, "value": {"en": "7cm", "zh": "7cm"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPSB002", "zh": "NPSB002"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["storage box", "foldable storage", "clear storage box", "home organisation"]
+ },
+ {
+  "id": "npsb001",
+  "slug": "foldable-storage-box-small-npsb001",
+  "name": {"en": "Foldable Storage Box, Small", "zh": "摺疊收納箱（小）"},
+  "tagline": {"en": "Small things, neatly kept.", "zh": "小物收納，井然有序。"},
+  "summary": {"en": "A compact, clear five-door storage box that folds flat. Ideal for sorting smaller items at home, in the office or in dormitories.", "zh": "小巧透明五開門收納箱，可摺平存放，適合家居、辦公室及宿舍分類整理小物。"},
+  "features": [
+   {"en": "Clear five-door design for easy access and quick identification of contents.", "zh": "透明五開門設計，取放方便，內容物一目了然。"},
+   {"en": "Built-in desiccant box at the top helps keep contents dry and protected from insects.", "zh": "頂部內置乾燥盒，保持物品乾爽，防蟲防潮。"},
+   {"en": "Thickened, high-strength material for reliable load-bearing.", "zh": "升級加厚高強度材質，承重穩定耐用。"},
+   {"en": "Folds down to just 7cm thick for compact storage.", "zh": "可摺疊至僅 7cm 厚，節省空間。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions (unfolded)", "zh": "展開尺寸"}, "value": {"en": "40.5 × 29 × 24cm (L × W × H)", "zh": "40.5 × 29 × 24cm（長 × 闊 × 高）"}},
+   {"label": {"en": "Folded thickness", "zh": "摺疊厚度"}, "value": {"en": "7cm", "zh": "7cm"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPSB001", "zh": "NPSB001"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["storage box", "foldable storage", "clear storage box", "small organiser"]
+ },
+ {
+  "id": "npms007",
+  "slug": "rechargeable-mini-shaver-npms007",
+  "name": {"en": "Rechargeable Mini Shaver", "zh": "充電式迷你電鬚刨"},
+  "tagline": {"en": "A close shave that fits in your palm.", "zh": "掌心大小，貼面淨剃。"},
+  "summary": {"en": "A pocket-sized rechargeable shaver with dual-ring blades and adaptive power. A refined gift for travel and everyday grooming.", "zh": "掌心大小的充電式電鬚刨，配備雙環刀片及智能感應動力，適合日常及旅行使用，亦是得體的禮品之選。"},
+  "features": [
+   {"en": "Curved dual-ring blades in German martensitic steel, with 5 inner and 10 outer cutters.", "zh": "德國馬氏體精鋼弧面雙環刀片，內環 5 刀齒、外環 10 刀齒。"},
+   {"en": "Intelligent power sensing adjusts output to beard density.", "zh": "智能感應動力，按鬍鬚濃密程度自動調節輸出。"},
+   {"en": "High-speed cutting at 99,000 cuts per minute.", "zh": "每分鐘 99000 次高速切割。"},
+   {"en": "Magnetic blade guard and magnetic hair chamber for quick removal and cleaning.", "zh": "磁吸式刀網保護蓋及儲屑倉，拆裝清潔方便。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "66.4 × 63 × 32mm", "zh": "66.4 × 63 × 32mm"}},
+   {"label": {"en": "Weight", "zh": "重量"}, "value": {"en": "Approx. 117g", "zh": "約 117g"}},
+   {"label": {"en": "Rated power", "zh": "額定功率"}, "value": {"en": "5W", "zh": "5W"}},
+   {"label": {"en": "Charging input", "zh": "充電電壓"}, "value": {"en": "DC 5V/1A", "zh": "DC 5V/1A"}},
+   {"label": {"en": "Cutting speed", "zh": "切割速度"}, "value": {"en": "99,000 cuts/min", "zh": "每分鐘 99000 次"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPMS007", "zh": "NPMS007"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["mini shaver", "electric shaver", "rechargeable shaver", "travel grooming"]
+ },
+ {
+  "id": "cbkd812a",
+  "slug": "tens-heated-neck-massager-cbkd812a",
+  "name": {"en": "TENS Heated Neck Massager", "zh": "頸椎 TENS 熱敷按摩器"},
+  "tagline": {"en": "Gentle warmth. Deep relief.", "zh": "恆溫熱敷，深層舒緩。"},
+  "summary": {"en": "A neck massager combining TENS pulses with 42°C heat, six modes and voice control. A thoughtful wellness gift for desk-bound teams.", "zh": "結合 TENS 脈衝與 42℃ 恆溫熱敷的頸部按摩器，提供六種模式及聲控操作，是辦公人士的貼心健康禮品。"},
+  "features": [
+   {"en": "Four conductive silicone pads follow the contours of the neck.", "zh": "4 個導電矽膠按摩頭，貼合頸部曲線。"},
+   {"en": "Voice recognition control for hands-free operation.", "zh": "智能聲控識別，免手操作。"},
+   {"en": "Constant 42°C heat helps relax tense muscles.", "zh": "42℃ 恆溫熱敷，舒緩緊繃肌肉。"},
+   {"en": "Six modes: auto, tapping, kneading, scraping, acupuncture and rolling massage.", "zh": "六大模式：自動、捶打、推拿、刮痧、針灸、揉捏。"},
+   {"en": "Nine intensity levels, plus electrode pads for use on other body areas.", "zh": "9 檔強度調節，另附電極片，可用於頸部以外部位。"}
+  ],
+  "specs": [
+   {"label": {"en": "Heat temperature", "zh": "熱敷溫度"}, "value": {"en": "42°C", "zh": "42℃"}},
+   {"label": {"en": "Modes", "zh": "模式"}, "value": {"en": "6", "zh": "6 種"}},
+   {"label": {"en": "Intensity levels", "zh": "強度檔位"}, "value": {"en": "9", "zh": "9 檔"}},
+   {"label": {"en": "Massage pads", "zh": "按摩頭"}, "value": {"en": "4 conductive silicone pads", "zh": "4 個導電矽膠按摩頭"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CBKD812A", "zh": "CBKD812A"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["neck massager", "tens massager", "heated massager", "wellness gift"]
+ },
+ {
+  "id": "nptb006",
+  "slug": "multifunction-soy-milk-maker-1200ml-nptb006",
+  "name": {"en": "Multifunction Soy Milk Maker, 1200ml", "zh": "多功能豆漿機 1200ml"},
+  "tagline": {"en": "Fresh soy milk, made simply.", "zh": "新鮮豆漿，簡單即成。"},
+  "summary": {"en": "A 1200ml blender-cooker with nine automatic programmes and a 304 stainless steel chamber. Suited to families and small offices.", "zh": "1200ml 加熱破壁機，具備九大自動程式及 304 不鏽鋼內膽，適合家庭及小型辦公室使用。"},
+  "features": [
+   {"en": "Nine programmes: timer, soy milk, juice, baby food, rice paste, grains, boil, keep warm, clean.", "zh": "九大自動模式：預約、豆漿、果汁、輔食、米糊、五穀、燒水、保溫、清洗。"},
+   {"en": "Food-grade 304 stainless steel inner chamber.", "zh": "304 食品級不鏽鋼內膽。"},
+   {"en": "Eight-blade steel cutter for smooth, fine results.", "zh": "8 葉精鋼刀片，打出細膩順滑口感。"},
+   {"en": "Silicone sealing ring prevents leaks during operation.", "zh": "密封矽膠圈，運作時不易洩漏。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1200ml", "zh": "1200ml"}},
+   {"label": {"en": "Heating power", "zh": "電熱功率"}, "value": {"en": "700W", "zh": "700W"}},
+   {"label": {"en": "Motor power", "zh": "電動功率"}, "value": {"en": "180W", "zh": "180W"}},
+   {"label": {"en": "Programmes", "zh": "模式"}, "value": {"en": "9", "zh": "9 種"}},
+   {"label": {"en": "Blades", "zh": "刀片"}, "value": {"en": "8-blade steel", "zh": "8 葉精鋼"}},
+   {"label": {"en": "Inner chamber", "zh": "內膽"}, "value": {"en": "304 stainless steel", "zh": "304 不鏽鋼"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTB006", "zh": "NPTB006"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["soy milk maker", "blender cooker", "kitchen appliance", "juicer"]
+ },
+ {
+  "id": "nptb005",
+  "slug": "compact-soy-milk-maker-450ml-nptb005",
+  "name": {"en": "Compact Soy Milk Maker, 450ml", "zh": "多功能豆漿機 450ml"},
+  "tagline": {"en": "One serving. Nine ways.", "zh": "一人份量，九種用途。"},
+  "summary": {"en": "A 450ml personal blender-cooker with nine programmes and a double-wall, heat-resistant body. A compact gift for individuals and small households.", "zh": "450ml 個人加熱破壁機，具備九大程式及雙層防燙杯體，小巧實用，適合單人或小家庭，亦宜作禮品。"},
+  "features": [
+   {"en": "Nine programmes: timer, soy milk, juice, baby food, rice paste, grains, boil, keep warm, clean.", "zh": "九大自動模式：預約、豆漿、果汁、輔食、米糊、五穀、燒水、保溫、清洗。"},
+   {"en": "Ten-blade steel cutter for smooth, fine results.", "zh": "10 葉精鋼刀片，打出細膩順滑口感。"},
+   {"en": "Double-wall body: 304 stainless steel inside, PP anti-scald outer layer.", "zh": "雙層杯體：內層 304 不鏽鋼，外層 PP 防燙覆膜。"},
+   {"en": "Waterproof silicone stopper and automatic power-off when the lid opens.", "zh": "防水矽膠塞，開蓋自動斷電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "450ml", "zh": "450ml"}},
+   {"label": {"en": "Programmes", "zh": "模式"}, "value": {"en": "9", "zh": "9 種"}},
+   {"label": {"en": "Blades", "zh": "刀片"}, "value": {"en": "10-blade steel", "zh": "10 葉精鋼"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "304 stainless steel inner, PP outer", "zh": "內層 304 不鏽鋼，外層 PP"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTB005", "zh": "NPTB005"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["soy milk maker", "personal blender", "compact kitchen appliance", "blender cooker"]
+ },
+ {
+  "id": "nptk003",
+  "slug": "foldable-travel-electric-kettle-nptk003",
+  "name": {"en": "Foldable Travel Electric Kettle", "zh": "便攜式摺疊旅行電熱水壺"},
+  "tagline": {"en": "Hot water, wherever you go.", "zh": "隨行熱飲，摺疊即走。"},
+  "summary": {"en": "An 800ml foldable kettle with a 304 stainless steel interior and two heating modes. A practical gift for frequent travellers.", "zh": "800ml 摺疊電熱水壺，配備 304 不鏽鋼內膽及兩檔加熱模式，是經常出行人士的實用禮品。"},
+  "features": [
+   {"en": "Food-grade 304 stainless steel interior.", "zh": "食品級 304 不鏽鋼內膽。"},
+   {"en": "600W heating for quick boiling on the go.", "zh": "600W 功率，快速加熱。"},
+   {"en": "Two modes: fast boil and slow simmer for tea or soups.", "zh": "兩檔調溫：快煮及慢燉，適合沖茶或燉湯。"},
+   {"en": "Double-wall insulated, anti-scald structure.", "zh": "雙層隔熱防燙結構。"},
+   {"en": "Folds down for compact packing.", "zh": "可摺疊收納，方便攜帶。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "600W", "zh": "600W"}},
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "800ml", "zh": "800ml"}},
+   {"label": {"en": "Inner material", "zh": "內膽材質"}, "value": {"en": "304 stainless steel", "zh": "304 不鏽鋼"}},
+   {"label": {"en": "Modes", "zh": "模式"}, "value": {"en": "Fast boil, slow simmer", "zh": "快煮、慢燉"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTK003", "zh": "NPTK003"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["travel kettle", "foldable kettle", "electric kettle", "portable kettle"]
+ },
+ {
+  "id": "npcg001",
+  "slug": "wet-and-dry-grinder-npcg001",
+  "name": {"en": "Wet and Dry Grinder", "zh": "乾濕兩用研磨機"},
+  "tagline": {"en": "Press longer. Grind finer.", "zh": "按得越久，磨得越細。"},
+  "summary": {"en": "A 200W grinder for spices, grains and wet ingredients, with a removable steel cup and dual-voltage support.", "zh": "200W 乾濕兩用研磨機，適用於香料、穀物及濕性食材，配備可拆式鋼杯，支援寬電壓使用。"},
+  "features": [
+   {"en": "Removable steel cup for easy cleaning.", "zh": "可拆卸鋼杯，清洗方便。"},
+   {"en": "Press-to-grind switch: hold longer for a finer result.", "zh": "按壓式開關，按壓越久研磨越細。"},
+   {"en": "Overheat protection cuts power after 6 minutes of continuous use.", "zh": "過熱保護，連續運作 6 分鐘後自動斷電。"},
+   {"en": "Up to 30000rpm for fast, even grinding.", "zh": "轉速高達 30000rpm，研磨快速均勻。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "200W", "zh": "200W"}},
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "110V–220V", "zh": "110V–220V"}},
+   {"label": {"en": "Speed", "zh": "轉速"}, "value": {"en": "Up to 30000rpm", "zh": "高達 30000rpm"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPCG001", "zh": "NPCG001"}}
+  ],
+  "variants": [{"en": "Black", "zh": "黑色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["grinder", "spice grinder", "coffee grinder", "wet dry grinder"]
+ },
+ {
+  "id": "npks0004",
+  "slug": "bluetooth-speaker-mic-set-square-npks0004",
+  "name": {"en": "Bluetooth Speaker and Mic Set, Square", "zh": "藍牙無線喇叭咪高峰套裝（方形）"},
+  "tagline": {"en": "Your stage, anywhere.", "zh": "隨時隨地，一展歌喉。"},
+  "summary": {"en": "A square Bluetooth 5.3 speaker paired with a wireless microphone. A lively giveaway for events, parties and team gatherings.", "zh": "方形藍牙 5.3 喇叭配無線咪高峰，適合活動、派對及團隊聚會，亦是富趣味的贈品。"},
+  "features": [
+   {"en": "ABS housing with metal grille for a durable, refined finish.", "zh": "ABS 外殼配金屬網罩，堅固耐用，外觀精緻。"},
+   {"en": "Bluetooth 5.3 with a range of up to 10 metres.", "zh": "藍牙 5.3，傳輸距離可達 10 米。"},
+   {"en": "Plays via Bluetooth, TF card or headphone connection.", "zh": "支援藍牙、TF 卡及耳機三種播放方式。"},
+   {"en": "6W dual-unit design with tweeter and bass diaphragm.", "zh": "6W 雙單元設計，配備高音喇叭及低音振膜。"},
+   {"en": "3–4 hours of continuous playback.", "zh": "可連續播放 3–4 小時。"}
+  ],
+  "specs": [
+   {"label": {"en": "Speaker output", "zh": "喇叭功率"}, "value": {"en": "6W", "zh": "6W"}},
+   {"label": {"en": "Speaker battery", "zh": "音響電池"}, "value": {"en": "1200mAh", "zh": "1200mAh"}},
+   {"label": {"en": "Microphone battery", "zh": "咪高峰電池"}, "value": {"en": "500mAh", "zh": "500mAh"}},
+   {"label": {"en": "Playback time", "zh": "播放時間"}, "value": {"en": "3–4 hours", "zh": "3–4 小時"}},
+   {"label": {"en": "Bluetooth", "zh": "藍牙"}, "value": {"en": "5.3, up to 10m", "zh": "5.3，最遠 10 米"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "ABS, metal grille", "zh": "ABS、金屬網"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPKS0004", "zh": "NPKS0004"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["bluetooth speaker", "karaoke speaker", "wireless microphone", "portable speaker"]
+ },
+ {
+  "id": "npcmfsm002b",
+  "slug": "foldable-heated-foot-spa-npcmfsm002b",
+  "name": {"en": "Foldable Heated Foot Spa", "zh": "摺疊式發熱震動浴足盆"},
+  "tagline": {"en": "Warm water. Unhurried evenings.", "zh": "暖水浸足，慢享時光。"},
+  "summary": {"en": "An 800W foldable foot spa with three water temperatures and motorised massage rollers. A restorative gift for clients and staff.", "zh": "800W 摺疊式足浴盆，提供三段水溫及電動按摩轉盤，是送贈客戶及員工的舒心禮品。"},
+  "features": [
+   {"en": "800W ceramic heating with circulation for stable, even warmth.", "zh": "800W 陶瓷加熱管循環技術，加熱穩定均勻。"},
+   {"en": "Heats up in about 15 minutes.", "zh": "約 15 分鐘快速加熱。"},
+   {"en": "Three water temperatures: 40°C, 43°C and 46°C.", "zh": "三段水溫調節：40℃／43℃／46℃。"},
+   {"en": "Four motorised massage rollers, removable for cleaning.", "zh": "4 組電動按摩轉盤，可拆卸清洗。"},
+   {"en": "Surging water-flow mode for added relaxation.", "zh": "湧浪水流模式，加強放鬆效果。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "800W", "zh": "800W"}},
+   {"label": {"en": "Water temperature", "zh": "水溫"}, "value": {"en": "40°C / 43°C / 46°C", "zh": "40℃／43℃／46℃"}},
+   {"label": {"en": "Heat-up time", "zh": "加熱時間"}, "value": {"en": "15 minutes", "zh": "15 分鐘"}},
+   {"label": {"en": "Massage rollers", "zh": "按摩轉盤"}, "value": {"en": "4", "zh": "4 組"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPCMFSM002B", "zh": "NPCMFSM002B"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["foot spa", "foot bath", "foldable foot spa", "massage"]
+ },
+ {
+  "id": "npkm001",
+  "slug": "heated-knee-massager-npkm001",
+  "name": {"en": "Heated Knee Massager", "zh": "膝部熱敷按摩器"},
+  "tagline": {"en": "Warmth that moves with you.", "zh": "溫暖呵護，隨身相伴。"},
+  "summary": {"en": "A cordless knee massager with three heat levels, three modes and a 3000mAh battery. A considerate wellness gift.", "zh": "無線膝部按摩器，具備三段熱敷、三種模式及 3000mAh 電池，是體貼的健康禮品。"},
+  "features": [
+   {"en": "Three intensity levels: low, medium and high.", "zh": "三檔強度調節：低、中、高。"},
+   {"en": "Three massage modes: M1, M2 and M3.", "zh": "M1、M2、M3 三種按摩模式。"},
+   {"en": "Three heat settings: 45°C, 55°C and 65°C.", "zh": "三檔熱敷：45℃／55℃／65℃。"},
+   {"en": "Automatic shut-off after 20 minutes.", "zh": "預設 20 分鐘自動關機。"},
+   {"en": "3000mAh rechargeable battery.", "zh": "3000mAh 充電電池。"}
+  ],
+  "specs": [
+   {"label": {"en": "Heat settings", "zh": "熱敷溫度"}, "value": {"en": "45°C / 55°C / 65°C", "zh": "45℃／55℃／65℃"}},
+   {"label": {"en": "Modes", "zh": "模式"}, "value": {"en": "M1, M2, M3", "zh": "M1、M2、M3"}},
+   {"label": {"en": "Intensity levels", "zh": "強度檔位"}, "value": {"en": "3 (L / M / H)", "zh": "3 檔（L／M／H）"}},
+   {"label": {"en": "Timer", "zh": "定時"}, "value": {"en": "20 minutes", "zh": "20 分鐘"}},
+   {"label": {"en": "Battery", "zh": "電池容量"}, "value": {"en": "3000mAh", "zh": "3000mAh"}},
+   {"label": {"en": "Charging voltage", "zh": "額定充電電壓"}, "value": {"en": "5V", "zh": "5V"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPKM001", "zh": "NPKM001"}}
+  ],
+  "variants": [{"en": "Single unit", "zh": "單件裝"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["knee massager", "heated massager", "cordless massager", "wellness gift"]
+ },
+ {
+  "id": "npps007",
+  "slug": "gan-38w-pd-charger-npps007",
+  "name": {"en": "38W GaN PD Charger", "zh": "PD 38W 氮化鎵充電器"},
+  "tagline": {"en": "Three ports. One small charger.", "zh": "三個接口，一個充電器。"},
+  "summary": {"en": "A compact GaN charger with one USB-C and two USB-A ports and worldwide voltage support. A useful branded accessory for travelling teams.", "zh": "小巧氮化鎵充電器，配備一個 USB-C 及兩個 USB-A 接口，支援全球電壓，是出差團隊的實用配件。"},
+  "features": [
+   {"en": "GaN technology for a smaller body, lower heat and higher efficiency.", "zh": "氮化鎵技術，體積小巧，發熱更低，效率更高。"},
+   {"en": "Three ports: USB-C1, USB-A1 and USB-A2 for charging several devices.", "zh": "USB-C1、USB-A1、USB-A2 三個接口，可同時為多部設備充電。"},
+   {"en": "100–240V input for use worldwide.", "zh": "100–240V 輸入，全球通用。"}
+  ],
+  "specs": [
+   {"label": {"en": "Total output", "zh": "總輸出"}, "value": {"en": "38W", "zh": "38W"}},
+   {"label": {"en": "Input", "zh": "輸入"}, "value": {"en": "100–240V~ 50/60Hz, 0.9A", "zh": "100–240V~ 50/60Hz，0.9A"}},
+   {"label": {"en": "USB-C1 output", "zh": "USB-C1 輸出"}, "value": {"en": "5V⎓3A, 9V⎓2.22A, 12V⎓1.67A (20W max)", "zh": "5V⎓3A、9V⎓2.22A、12V⎓1.67A（最高 20W）"}},
+   {"label": {"en": "USB-A1/A2 output", "zh": "USB-A1/A2 輸出"}, "value": {"en": "18W max", "zh": "最高 18W"}},
+   {"label": {"en": "Technology", "zh": "技術"}, "value": {"en": "GaN", "zh": "氮化鎵"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPPS007", "zh": "NPPS007"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["gan charger", "usb-c charger", "pd charger", "travel charger"]
+ },
+ {
+  "id": "clps006",
+  "slug": "pd-20w-dual-port-charger-clps006",
+  "name": {"en": "20W PD Dual-Port Charger", "zh": "PD 20W 充電器"},
+  "tagline": {"en": "Fast charging, made simple.", "zh": "快速充電，簡單俐落。"},
+  "summary": {"en": "A compact PD fast charger with USB-A and USB-C ports and worldwide voltage support. An easy, practical giveaway.", "zh": "小巧 PD 快充充電器，配備 USB-A 及 USB-C 接口，支援全球電壓，是簡單實用的贈品之選。"},
+  "features": [
+   {"en": "PD fast charging for quicker top-ups.", "zh": "PD 快充技術，迅速回復電量。"},
+   {"en": "USB-A and USB-C ports for multiple devices.", "zh": "USB-A 與 USB-C 接口，兼顧多部設備。"},
+   {"en": "110–240V input for use worldwide.", "zh": "110–240V 輸入，全球通用。"}
+  ],
+  "specs": [
+   {"label": {"en": "Input", "zh": "輸入"}, "value": {"en": "110–240V~ 50/60Hz, 0.5A max", "zh": "110–240V~ 50/60Hz，最高 0.5A"}},
+   {"label": {"en": "USB-A output", "zh": "USB-A 輸出"}, "value": {"en": "5V⎓3A 15W; 9V⎓2A 18W; 12V⎓1.5A 18W", "zh": "5V⎓3A 15W；9V⎓2A 18W；12V⎓1.5A 18W"}},
+   {"label": {"en": "Ports", "zh": "接口"}, "value": {"en": "USB-A, USB-C", "zh": "USB-A、USB-C"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLPS006", "zh": "CLPS006"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["pd charger", "usb-c charger", "fast charger", "travel adapter"]
+ },
+ {
+  "id": "nptj007",
+  "slug": "316-stainless-food-jar-1l-nptj007",
+  "name": {"en": "1L 316 Stainless Steel Food Jar", "zh": "1L 316 不鏽鋼燜燒杯"},
+  "tagline": {"en": "A warm meal, wherever the day leads.", "zh": "溫熱一餐，隨行相伴。"},
+  "summary": {"en": "A 1000ml insulated food jar in 316 stainless steel with a divided inner bowl. Well suited to commuters, students and outdoor outings.", "zh": "1000ml 316 不鏽鋼燜燒杯，附分隔菜碗，適合上班族、學生及郊遊使用。"},
+  "features": [
+   {"en": "Generous 1000ml capacity.", "zh": "1000ml 大容量。"},
+   {"en": "Food-grade 316 stainless steel inner for superior corrosion resistance.", "zh": "316 食品級不鏽鋼內膽，耐腐蝕性更佳。"},
+   {"en": "One-touch vent valve on the lid releases internal pressure.", "zh": "頂部一鍵排氣閥，快速釋放內部壓力。"},
+   {"en": "Removable divided bowl keeps foods separate.", "zh": "可拆分隔層菜碗，食物分開存放。"},
+   {"en": "Non-slip silicone base.", "zh": "矽膠防滑杯底。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1000ml", "zh": "1000ml"}},
+   {"label": {"en": "Inner material", "zh": "內膽材質"}, "value": {"en": "316 stainless steel", "zh": "316 不鏽鋼"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTJ007", "zh": "NPTJ007"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["food jar", "thermal food container", "stainless steel lunch jar", "insulated jar"]
+ },
+ {
+  "id": "cccm001",
+  "slug": "4-in-1-capsule-coffee-machine-cccm001",
+  "name": {"en": "4-in-1 Capsule Coffee and Tea Machine", "zh": "專業級四合一膠囊咖啡／茶機"},
+  "tagline": {"en": "One machine. Every kind of cup.", "zh": "一機兼顧，杯杯講究。"},
+  "summary": {"en": "A 19-bar machine that brews ground coffee, ESE pods, tea bags and two capsule formats. A versatile choice for homes and offices.", "zh": "19Bar 高壓沖煮機，兼容咖啡粉、ESE 咖啡包、茶包及兩種膠囊，適合家庭及辦公室。"},
+  "features": [
+   {"en": "Italian CEME-ULKA 19-bar pump for stable, aromatic extraction.", "zh": "意大利 CEME-ULKA 19Bar 高壓泵，萃取穩定，香氣層次豐富。"},
+   {"en": "Brews ground coffee, ESE pods, tea bags, Nespresso and DG capsules.", "zh": "兼容咖啡粉、ESE 咖啡包、茶包、Nespresso 及 DG 膠囊。"},
+   {"en": "Preheats in approximately 30 seconds.", "zh": "約 30 秒快速預熱。"},
+   {"en": "Adjustable cup-volume memory, with large and small cup options.", "zh": "可調式記憶杯量，提供大杯及小杯選擇。"}
+  ],
+  "specs": [
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220–240V~, 50Hz", "zh": "220–240V~，50Hz"}},
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1450W", "zh": "1450W"}},
+   {"label": {"en": "Water tank", "zh": "水箱容量"}, "value": {"en": "0.6L", "zh": "0.6L"}},
+   {"label": {"en": "Pump pressure", "zh": "泵壓"}, "value": {"en": "19 bar", "zh": "19Bar"}},
+   {"label": {"en": "Preheat time", "zh": "預熱時間"}, "value": {"en": "Approx. 30 seconds", "zh": "約 30 秒"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CCCM001", "zh": "CCCM001"}}
+  ],
+  "variants": [{"en": "Black", "zh": "黑色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["capsule coffee machine", "espresso machine", "coffee maker", "office coffee"]
+ },
+ {
+  "id": "clad001",
+  "slug": "wood-grain-aroma-diffuser-clad001",
+  "name": {"en": "Wood Grain Aroma Diffuser", "zh": "木紋香薰機"},
+  "tagline": {"en": "Natural warmth, quietly scented.", "zh": "自然木韻，靜靜飄香。"},
+  "summary": {"en": "An ultrasonic diffuser finished entirely in wood grain, with adjustable mist and auto shut-off. An elegant gift for homes and offices.", "zh": "全木紋超聲波香薰機，霧量可調並具備自動斷電保護，是家居及辦公室的雅緻禮品。"},
+  "features": [
+   {"en": "Full wood-grain finish blends natural texture with modern form.", "zh": "全木紋外觀，融合自然質感與現代造型。"},
+   {"en": "Ultrasonic misting releases fragrance and adds humidity.", "zh": "超聲波霧化，釋放香氣同時加濕空氣。"},
+   {"en": "Multiple mist settings and one-touch control.", "zh": "多檔霧量調節，一鍵操控。"},
+   {"en": "Quiet operation.", "zh": "靜音運行。"},
+   {"en": "Automatic shut-off when the water runs low.", "zh": "低水位自動斷電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Technology", "zh": "技術"}, "value": {"en": "Ultrasonic", "zh": "超聲波霧化"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLAD001", "zh": "CLAD001"}}
+  ],
+  "variants": [{"en": "Full wood grain", "zh": "全木紋"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["aroma diffuser", "essential oil diffuser", "wood grain diffuser", "humidifier"]
+ },
+ {
+  "id": "npbfm001",
+  "slug": "facial-massager-npbfm001",
+  "name": {"en": "Facial Massager", "zh": "臉部按摩器"},
+  "tagline": {"en": "A moment of care, every day.", "zh": "每日片刻，細心呵護。"},
+  "summary": {"en": "A handheld facial massager for daily skincare routines. A refined personal-care gift.", "zh": "手持式臉部按摩器，融入日常護膚程序，是精緻的個人護理禮品。"},
+  "features": [
+   {"en": "Designed for facial massage as part of a daily routine.", "zh": "專為臉部按摩而設，融入日常護理。"},
+   {"en": "Compact, handheld form.", "zh": "小巧手持設計。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPBFM001", "zh": "NPBFM001"}}
+  ],
+  "variants": [{"en": "Silver", "zh": "銀色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["facial massager", "beauty device", "skincare tool", "personal care"]
+ },
+ {
+  "id": "npbfm002",
+  "slug": "led-light-beauty-device-npbfm002",
+  "name": {"en": "Light Therapy Beauty Device", "zh": "光子美容儀"},
+  "tagline": {"en": "Skincare, in a new light.", "zh": "以光護膚，煥然一新。"},
+  "summary": {"en": "A handheld light-based beauty device for at-home skincare. A considered gift for beauty and wellness programmes.", "zh": "手持式光子美容儀，適合居家護膚，是美容及健康主題活動的理想禮品。"},
+  "features": [
+   {"en": "Light-based device for at-home skincare routines.", "zh": "光子美容設計，適合居家護膚。"},
+   {"en": "Compact, handheld form.", "zh": "小巧手持設計。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPBFM002", "zh": "NPBFM002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["beauty device", "light therapy", "skincare device", "personal care"]
+ },
+ {
+  "id": "nphp004",
+  "slug": "washable-heated-foot-warmer-nphp004",
+  "name": {"en": "Washable Heated Foot Warmer", "zh": "可機洗三檔速熱暖腳套"},
+  "tagline": {"en": "Warm feet, wherever you sit.", "zh": "久坐之時，雙足常暖。"},
+  "summary": {"en": "A plug-in foot warmer with three heat settings and a machine-washable cover. Ideal for cold offices and winter evenings at home.", "zh": "插電式暖腳套，三檔溫度，可機洗，適合寒冷辦公室及冬夜家居使用。"},
+  "features": [
+   {"en": "Even warmth to keep feet comfortable.", "zh": "均勻暖足，舒緩疲勞。"},
+   {"en": "Ergonomic shape that follows the form of the feet.", "zh": "人體工學設計，貼合足部。"},
+   {"en": "Soft, durable surface material.", "zh": "表面物料柔軟耐用。"},
+   {"en": "Non-slip base keeps it steady.", "zh": "防滑底部，使用穩定。"}
+  ],
+  "specs": [
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "30 × 30 × 24cm", "zh": "30 × 30 × 24cm"}},
+   {"label": {"en": "Heat settings", "zh": "溫度檔位"}, "value": {"en": "3", "zh": "3 檔"}},
+   {"label": {"en": "Power source", "zh": "電源"}, "value": {"en": "Plug-in", "zh": "插電式"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPHP004", "zh": "NPHP004"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["foot warmer", "heated foot warmer", "winter warmer", "office heating"]
+ },
+ {
+  "id": "clsb002",
+  "slug": "foldable-handheld-garment-steamer-clsb002",
+  "name": {"en": "Foldable Handheld Garment Steamer", "zh": "可摺疊手持掛燙機"},
+  "tagline": {"en": "Crisp in seconds.", "zh": "數秒即熱，平整如新。"},
+  "summary": {"en": "A 1200W foldable steamer that heats in 30 seconds or less and steams vertically. A practical gift for travellers and busy professionals.", "zh": "1200W 摺疊式掛燙機，30 秒內即熱，支援垂直噴蒸，是出差人士及忙碌上班族的實用禮品。"},
+  "features": [
+   {"en": "1200W heating, ready in 30 seconds or less.", "zh": "1200W 功率，30 秒內快速加熱。"},
+   {"en": "Steam output of 20g per minute (±10%).", "zh": "每分鐘 20g 蒸氣輸出（±10%）。"},
+   {"en": "Seven steam holes distribute steam evenly.", "zh": "7 個蒸氣孔，蒸氣分布均勻。"},
+   {"en": "Removable 100ml water tank for easy refilling.", "zh": "100ml 可拆卸水箱，加水方便。"},
+   {"en": "Vertical steaming for hanging garments and curtains.", "zh": "垂直噴蒸，適用於懸掛衣物及窗簾。"},
+   {"en": "Overheat protection and a 190cm power cord.", "zh": "防過熱保護，配 190cm 電線。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1200W", "zh": "1200W"}},
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220V–240V~, 50Hz", "zh": "220V–240V~，50Hz"}},
+   {"label": {"en": "Heat-up time", "zh": "加熱時間"}, "value": {"en": "≤30 seconds", "zh": "≤30 秒"}},
+   {"label": {"en": "Steam output", "zh": "蒸氣量"}, "value": {"en": "20g/min (±10%)", "zh": "20g/分鐘（±10%）"}},
+   {"label": {"en": "Water tank", "zh": "水箱容量"}, "value": {"en": "100ml", "zh": "100ml"}},
+   {"label": {"en": "Steam holes", "zh": "蒸氣孔"}, "value": {"en": "7", "zh": "7 個"}},
+   {"label": {"en": "Cord length", "zh": "電線長度"}, "value": {"en": "190cm", "zh": "190cm"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLSB002", "zh": "CLSB002"}}
+  ],
+  "variants": [{"en": "Pink", "zh": "粉紅色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["garment steamer", "handheld steamer", "travel steamer", "foldable steamer"]
+ },
+ {
+  "id": "cbfs001",
+  "slug": "hot-and-cold-facial-steamer-cbfs001",
+  "name": {"en": "Hot and Cold Facial Steamer", "zh": "冷熱補水蒸臉儀"},
+  "tagline": {"en": "Warm to open. Cool to calm.", "zh": "熱蒸潔淨，冷噴舒緩。"},
+  "summary": {"en": "A facial steamer with switchable warm and cool mist for at-home skincare. A thoughtful gift for beauty-focused campaigns.", "zh": "可切換冷熱噴霧的蒸臉儀，適合居家護膚，是美容主題活動的貼心禮品。"},
+  "features": [
+   {"en": "Warm mist opens pores to support deep cleansing.", "zh": "熱噴模式，打開毛孔，有助深層清潔。"},
+   {"en": "Cool mist tightens pores and soothes skin.", "zh": "冷噴模式，收縮毛孔，鎮靜肌膚。"},
+   {"en": "Fine mist for effective hydration.", "zh": "細膩水霧，有效補水。"},
+   {"en": "Instant switching between warm and cool.", "zh": "冷熱模式即時切換。"},
+   {"en": "Rotating nozzle for adjustable mist direction.", "zh": "旋轉噴嘴，出霧方向可調。"}
+  ],
+  "specs": [
+   {"label": {"en": "Modes", "zh": "模式"}, "value": {"en": "Warm mist, cool mist", "zh": "熱噴、冷噴"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CBFS001", "zh": "CBFS001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["facial steamer", "hot cold steamer", "skincare device", "beauty gift"]
+ },
+ {
+  "id": "npks0003",
+  "slug": "bluetooth-speaker-mic-set-round-npks0003",
+  "name": {"en": "Bluetooth Speaker and Mic Set, Round", "zh": "藍牙無線喇叭咪高峰套裝（圓形）"},
+  "tagline": {"en": "Sing along, anywhere.", "zh": "隨時開唱，盡興隨行。"},
+  "summary": {"en": "A round Bluetooth 5.3 speaker with a wireless microphone and quick two-hour charging. A fun giveaway for events and gatherings.", "zh": "圓形藍牙 5.3 喇叭配無線咪高峰，約 2 小時充滿電，是活動及聚會的趣味贈品。"},
+  "features": [
+   {"en": "ABS housing with metal grille, durable and stylish.", "zh": "ABS 外殼配金屬網罩，堅固時尚。"},
+   {"en": "3–4 hours of continuous playback.", "zh": "可連續播放 3–4 小時。"},
+   {"en": "Charges in approximately 2 hours.", "zh": "約 2 小時充滿電。"},
+   {"en": "Bluetooth 5.3 with a range of up to 10 metres.", "zh": "藍牙 5.3，接收距離可達 10 米。"},
+   {"en": "Plays via Bluetooth, TF card or headphone connection.", "zh": "支援藍牙、TF 卡及耳機三種播放方式。"}
+  ],
+  "specs": [
+   {"label": {"en": "Speaker battery", "zh": "音響電池"}, "value": {"en": "1200mAh", "zh": "1200mAh"}},
+   {"label": {"en": "Microphone battery", "zh": "咪高峰電池"}, "value": {"en": "500mAh", "zh": "500mAh"}},
+   {"label": {"en": "Playback time", "zh": "播放時間"}, "value": {"en": "3–4 hours", "zh": "3–4 小時"}},
+   {"label": {"en": "Charging time", "zh": "充電時間"}, "value": {"en": "Approx. 2 hours", "zh": "約 2 小時"}},
+   {"label": {"en": "Bluetooth", "zh": "藍牙"}, "value": {"en": "5.3, up to 10m", "zh": "5.3，最遠 10 米"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "ABS, metal grille", "zh": "ABS、金屬網"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPKS0003", "zh": "NPKS0003"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["bluetooth speaker", "karaoke speaker", "wireless microphone", "portable speaker"]
+ },
+ {
+  "id": "cbhp002",
+  "slug": "washable-heating-pad-60x30-cbhp002",
+  "name": {"en": "Washable Electric Heating Pad, 60 × 30cm", "zh": "可機洗親膚速熱電熱毯 60 × 30cm"},
+  "tagline": {"en": "Soft warmth, right where you need it.", "zh": "柔軟暖意，恰到好處。"},
+  "summary": {"en": "A 100W skin-friendly heating pad with three temperatures and a 90-minute auto shut-off. A comforting gift for home, office or travel.", "zh": "100W 親膚電熱毯，三段溫度並設 90 分鐘自動斷電，適合家居、辦公室及旅行，亦是暖心禮品。"},
+  "features": [
+   {"en": "100W rapid, even heating with overheat protection.", "zh": "100W 快速均勻升溫，具備過熱保護。"},
+   {"en": "Three temperature settings with clear indicator lights.", "zh": "三段溫度調節，配清晰檔位指示燈。"},
+   {"en": "Automatic shut-off after 90 minutes.", "zh": "90 分鐘自動斷電。"},
+   {"en": "Detachable cord; the pad can be washed separately.", "zh": "可分離式設計，毯面可單獨清洗。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "100W", "zh": "100W"}},
+   {"label": {"en": "Temperature settings", "zh": "溫控檔位"}, "value": {"en": "3", "zh": "3 段"}},
+   {"label": {"en": "Auto shut-off", "zh": "自動斷電"}, "value": {"en": "90 minutes", "zh": "90 分鐘"}},
+   {"label": {"en": "Dimensions", "zh": "尺寸"}, "value": {"en": "60 × 30cm", "zh": "60 × 30cm"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CBHP002", "zh": "CBHP002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["heating pad", "electric blanket", "washable heating pad", "winter warmer"]
+ },
+ {
+  "id": "clwdmvc002",
+  "slug": "cordless-uv-dust-mite-vacuum-clwdmvc002",
+  "name": {"en": "Cordless UV Dust Mite Vacuum", "zh": "無線 UV 除塵蟎機"},
+  "tagline": {"en": "A cleaner bed, without the cord.", "zh": "無線除蟎，床褥更潔淨。"},
+  "summary": {"en": "A cordless vacuum combining UV light and suction to clean mattresses, sofas and carpets, with HEPA filtration.", "zh": "無線除塵蟎機，結合 UV 紫外線及強力吸塵，配備 HEPA 濾網，適用於床褥、沙發及地毯。"},
+  "features": [
+   {"en": "UV lamp helps eliminate dust mites and bacteria.", "zh": "UV 紫外線燈管，有效滅殺塵蟎及細菌。"},
+   {"en": "Strong, steady suction for mattresses, sofas and carpets.", "zh": "強勁穩定吸力，適用於床褥、沙發及地毯。"},
+   {"en": "Cordless design for free movement.", "zh": "無線設計，移動自如。"},
+   {"en": "Multiple suction levels.", "zh": "多檔吸力調節。"},
+   {"en": "HEPA filter traps fine dust.", "zh": "HEPA 濾網，有效阻隔微塵。"},
+   {"en": "Lightweight body reduces fatigue.", "zh": "輕量機身，減輕使用負擔。"}
+  ],
+  "specs": [
+   {"label": {"en": "Filter", "zh": "濾網"}, "value": {"en": "HEPA", "zh": "HEPA"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLWDMVC002", "zh": "CLWDMVC002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["dust mite vacuum", "uv vacuum", "cordless vacuum", "mattress cleaner"]
+ },
+ {
+  "id": "clvc002",
+  "slug": "cordless-bldc-vacuum-cleaner-clvc002",
+  "name": {"en": "Cordless BLDC Vacuum Cleaner", "zh": "無線 BLDC 高速吸塵機"},
+  "tagline": {"en": "Powerful suction. No strings attached.", "zh": "強勁吸力，無線隨心。"},
+  "summary": {"en": "A lightweight cordless vacuum with a brushless DC motor and multiple nozzles for floors, sofas, corners and cars.", "zh": "輕巧無線吸塵機，搭載 BLDC 無刷馬達，配多款吸嘴，適用於地板、沙發、牆角及車廂。"},
+  "features": [
+   {"en": "Brushless DC motor for stable, powerful suction.", "zh": "BLDC 無刷直流馬達，吸力穩定強勁。"},
+   {"en": "Cordless design reaches tight spaces at home and in the car.", "zh": "無線設計，輕鬆清潔家居及車內狹窄空間。"},
+   {"en": "Adjustable suction modes balance cleaning power and energy use.", "zh": "多模式吸力調節，兼顧清潔效能與省電。"},
+   {"en": "Lightweight and comfortable to hold.", "zh": "機身輕盈，手持舒適。"},
+   {"en": "Multiple nozzles for floors, sofas, corners and car gaps.", "zh": "多款吸嘴，適用於地板、沙發、牆角及車內縫隙。"}
+  ],
+  "specs": [
+   {"label": {"en": "Motor", "zh": "馬達"}, "value": {"en": "Brushless DC (BLDC)", "zh": "BLDC 無刷直流"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLVC002", "zh": "CLVC002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["cordless vacuum", "handheld vacuum", "bldc vacuum", "car vacuum"]
+ },
+ {
+  "id": "cbhd005",
+  "slug": "ionic-retractable-cord-hair-dryer-cbhd005",
+  "name": {"en": "Ionic Hair Dryer with Retractable Cord", "zh": "負離子收線風筒"},
+  "tagline": {"en": "Fast, smooth, neatly put away.", "zh": "快乾柔順，收納俐落。"},
+  "summary": {"en": "A 2000W ionic hair dryer with a high-speed DC motor and a one-touch retractable cord. A polished personal-care gift.", "zh": "2000W 負離子風筒，配備高速 DC 摩打及一鍵收線設計，是精緻的個人護理禮品。"},
+  "features": [
+   {"en": "2000W output dries medium to long hair quickly.", "zh": "2000W 功率，快速吹乾中長髮。"},
+   {"en": "Negative ions reduce static and frizz for smoother hair.", "zh": "負離子功能，中和靜電，減少毛躁。"},
+   {"en": "18400rpm (±10%) DC motor and zig-zag heating element.", "zh": "18400rpm（±10%）高速 DC 摩打，配鋸齒形加熱管。"},
+   {"en": "Three heat and two speed settings, plus a cool-shot button.", "zh": "3 段熱度及 2 段風速，另設冷風按鈕。"},
+   {"en": "One-touch retractable cord and hanging loop.", "zh": "一鍵自動收線，附掛環方便收納。"},
+   {"en": "Overheat protection and removable metal filter.", "zh": "過熱保護，金屬濾網可拆卸清潔。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "2000W", "zh": "2000W"}},
+   {"label": {"en": "Motor speed", "zh": "摩打轉速"}, "value": {"en": "18400rpm (±10%)", "zh": "18400rpm（±10%）"}},
+   {"label": {"en": "Heat settings", "zh": "熱度檔位"}, "value": {"en": "3", "zh": "3 段"}},
+   {"label": {"en": "Speed settings", "zh": "風速檔位"}, "value": {"en": "2", "zh": "2 段"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CBHD005", "zh": "CBHD005"}}
+  ],
+  "variants": [{"en": "Ivory", "zh": "米白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair dryer", "ionic hair dryer", "retractable cord", "personal care"]
+ },
+ {
+  "id": "nptk002",
+  "slug": "portable-travel-electric-cup-nptk002",
+  "name": {"en": "Portable Travel Electric Cup", "zh": "便攜式旅行電熱水杯"},
+  "tagline": {"en": "Your hot drink, ready on the road.", "zh": "旅途之中，熱飲隨手。"},
+  "summary": {"en": "A compact heating cup with adjustable temperatures, dry-boil protection and a leak-proof seal. A practical gift for travellers.", "zh": "小巧電熱水杯，溫度可調，具備防乾燒保護及防漏密封，是出行人士的實用禮品。"},
+  "features": [
+   {"en": "Quick heating for coffee, tea or instant meals.", "zh": "快速加熱，適合沖咖啡、泡茶或即食食品。"},
+   {"en": "Multiple temperature settings for warm or hot water.", "zh": "多檔溫度調節，溫水熱水皆宜。"},
+   {"en": "Dry-boil protection cuts power when water is low.", "zh": "防乾燒設計，水量不足時自動斷電。"},
+   {"en": "Leak-proof seal for travel.", "zh": "防漏密封，便於攜帶。"},
+   {"en": "Food-grade materials in a lightweight, compact body.", "zh": "食品級材質，輕巧便攜。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTK002", "zh": "NPTK002"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["travel kettle", "electric cup", "portable kettle", "heating cup"]
+ },
+ {
+  "id": "nprc001",
+  "slug": "mini-rice-cooker-1-2l-nprc001",
+  "name": {"en": "Mini Rice Cooker, 1.2L", "zh": "迷你電飯煲 1.2L"},
+  "tagline": {"en": "Small batches, cooked just right.", "zh": "小巧份量，恰到好處。"},
+  "summary": {"en": "A 1.2L multi-function cooker for rice, soups, steaming and stews. Sized for individuals, small families and dormitories.", "zh": "1.2L 多功能電飯煲，可煮飯、煲湯、蒸煮及燉煮，適合單人、小家庭及宿舍使用。"},
+  "features": [
+   {"en": "1.2L capacity for one person or a small household.", "zh": "1.2L 容量，適合單人或小家庭。"},
+   {"en": "Cooks rice, soups, steamed dishes and stews.", "zh": "支援煮飯、煲湯、蒸煮及燉煮。"},
+   {"en": "Intuitive control panel for setting mode and time.", "zh": "直觀操作面板，快速設定模式與時間。"},
+   {"en": "Even heating for consistent results.", "zh": "均勻加熱，食材熟透。"},
+   {"en": "Durable non-stick inner pot, easy to clean.", "zh": "耐磨不黏內膽，清潔方便。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1.2L", "zh": "1.2L"}},
+   {"label": {"en": "Inner pot", "zh": "內膽"}, "value": {"en": "Non-stick", "zh": "不黏塗層"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPRC001", "zh": "NPRC001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["mini rice cooker", "rice cooker", "multi cooker", "compact kitchen appliance"]
+ },
+ {
+  "id": "clht004",
+  "slug": "oscillating-desktop-fan-heater-clht004",
+  "name": {"en": "Oscillating Desktop Fan Heater", "zh": "自動擺頭座枱冷暖風機"},
+  "tagline": {"en": "Quick warmth, evenly shared.", "zh": "速熱暖風，均勻送達。"},
+  "summary": {"en": "A compact round fan heater with wide-angle oscillation and overheat protection. Well suited to desks, bedrooms and small offices.", "zh": "小巧圓形冷暖風機，廣角擺頭並具備過熱保護，適合書桌、睡房及小型辦公室。"},
+  "features": [
+   {"en": "Efficient heating element delivers warm air quickly.", "zh": "高效發熱體，迅速送出暖風。"},
+   {"en": "Wide-angle oscillation spreads warmth evenly.", "zh": "廣角擺頭，暖風分布均勻。"},
+   {"en": "Multiple temperature and fan speed settings.", "zh": "多檔溫度及風速調節。"},
+   {"en": "Low-noise operation for work or rest.", "zh": "低噪音運行，適合工作或休息時使用。"},
+   {"en": "Overheat protection with automatic power-off.", "zh": "過熱保護，自動斷電。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CLHT004", "zh": "CLHT004"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["fan heater", "desktop heater", "oscillating heater", "space heater"]
+ },
+ {
+  "id": "npad003",
+  "slug": "flame-aroma-humidifier-npad003",
+  "name": {"en": "Flame Aroma Humidifier", "zh": "火焰香薰加濕器"},
+  "tagline": {"en": "The glow of a flame, without the fire.", "zh": "火焰光影，無火之暖。"},
+  "summary": {"en": "An aroma humidifier with a flame-effect mist. A calming, decorative gift for homes and offices.", "zh": "以火焰光影效果呈現的香薰加濕器，為家居及辦公室增添寧靜氛圍，是雅緻的禮品之選。"},
+  "features": [
+   {"en": "Flame-effect mist for a warm, calming ambience.", "zh": "火焰效果水霧，營造溫暖寧靜氛圍。"},
+   {"en": "Combines aroma diffusing with humidification.", "zh": "香薰與加濕功能兼備。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPAD003", "zh": "NPAD003"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["aroma diffuser", "flame humidifier", "humidifier", "essential oil diffuser"]
+ },
+ {
+  "id": "npad005",
+  "slug": "mini-aroma-humidifier-npad005",
+  "name": {"en": "Mini Aroma Humidifier", "zh": "迷你香薰加濕器"},
+  "tagline": {"en": "A little calm, for any desk.", "zh": "小小一台，桌上靜謐。"},
+  "summary": {"en": "A compact aroma humidifier sized for desks and bedside tables. An easy, elegant giveaway.", "zh": "小巧香薰加濕器，適合書桌及床頭擺放，是簡約雅緻的贈品。"},
+  "features": [
+   {"en": "Compact size for desks and bedside tables.", "zh": "小巧體積，適合書桌及床頭。"},
+   {"en": "Combines aroma diffusing with humidification.", "zh": "香薰與加濕功能兼備。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPAD005", "zh": "NPAD005"}}
+  ],
+  "variants": [{"en": "Black", "zh": "黑色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["mini humidifier", "aroma diffuser", "desk humidifier", "essential oil diffuser"]
+ },
+ {
+  "id": "npad004",
+  "slug": "colour-flame-aroma-humidifier-npad004",
+  "name": {"en": "Colour Flame Aroma Humidifier", "zh": "七彩火焰香薰加濕器"},
+  "tagline": {"en": "Seven colours. One quiet glow.", "zh": "七彩光影，靜謐一室。"},
+  "summary": {"en": "An aroma humidifier with a multi-colour flame-effect mist. A distinctive decorative gift for homes and offices.", "zh": "七彩火焰效果香薰加濕器，為家居及辦公室帶來獨特氛圍，是別具特色的禮品。"},
+  "features": [
+   {"en": "Multi-colour flame-effect mist.", "zh": "七彩火焰效果水霧。"},
+   {"en": "Combines aroma diffusing with humidification.", "zh": "香薰與加濕功能兼備。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPAD004", "zh": "NPAD004"}}
+  ],
+  "variants": [{"en": "Black", "zh": "黑色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["flame humidifier", "aroma diffuser", "colour light humidifier", "essential oil diffuser"]
+ },
+ {
+  "id": "npwd002a",
+  "slug": "replacement-filter-npwd002-dispenser-npwd002a",
+  "name": {"en": "Replacement Filter for NPWD002 Dispenser", "zh": "即熱飲水機替換濾芯（NPWD002 適用）"},
+  "tagline": {"en": "Keep every glass fresh.", "zh": "杯杯清新，定期更換。"},
+  "summary": {"en": "A replacement filter for the NPWD002 3L instant hot water dispenser. Not interchangeable with the NPWD001 filter.", "zh": "NPWD002 3 公升電子即熱飲水機專用替換濾芯，與 NPWD001 濾芯並不通用。"},
+  "features": [
+   {"en": "Fits the NPWD002 3L electronic instant hot water dispenser.", "zh": "適用於 NPWD002 3 公升電子即熱式飲水機。"},
+   {"en": "Not compatible with the NPWD001 dispenser.", "zh": "與 NPWD001 飲水機濾芯不通用。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible model", "zh": "適用型號"}, "value": {"en": "NPWD002", "zh": "NPWD002"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPWD002a", "zh": "NPWD002a"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["water filter", "replacement filter", "dispenser filter", "filter cartridge"]
+ },
+ {
+  "id": "npwd001a",
+  "slug": "replacement-filter-npwd001-dispenser-npwd001a",
+  "name": {"en": "Replacement Filter for NPWD001 Dispenser", "zh": "即熱飲水機替換濾芯（NPWD001 適用）"},
+  "tagline": {"en": "Keep every glass fresh.", "zh": "杯杯清新，定期更換。"},
+  "summary": {"en": "A replacement filter for the NPWD001 3L instant hot water dispenser. Not interchangeable with the NPWD002 filter.", "zh": "NPWD001 3 公升即熱式飲水機專用替換濾芯，與 NPWD002 濾芯並不通用。"},
+  "features": [
+   {"en": "Fits the NPWD001 3L instant hot water dispenser.", "zh": "適用於 NPWD001 3 公升即熱式飲水機。"},
+   {"en": "Not compatible with the NPWD002 dispenser.", "zh": "與 NPWD002 飲水機濾芯不通用。"}
+  ],
+  "specs": [
+   {"label": {"en": "Compatible model", "zh": "適用型號"}, "value": {"en": "NPWD001", "zh": "NPWD001"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPWD001a", "zh": "NPWD001a"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["water filter", "replacement filter", "dispenser filter", "filter cartridge"]
+ },
+ {
+  "id": "cohd002",
+  "slug": "ionic-styling-hair-dryer-cohd002",
+  "name": {"en": "Ionic Styling Hair Dryer", "zh": "負離子造型護髮風筒"},
+  "tagline": {"en": "Smooth, shining, and quickly done.", "zh": "柔順亮澤，快速成型。"},
+  "summary": {"en": "A 1700–2000W ionic hair dryer with a DC motor, six drying combinations and a cool shot. A refined personal-care gift.", "zh": "1700–2000W 負離子風筒，搭載 DC 摩打，提供六種乾髮組合及冷風定型，是精緻的個人護理禮品。"},
+  "features": [
+   {"en": "DC motor with 1700–2000W output for fast drying.", "zh": "DC 直流摩打，1700–2000W 強勁動力，快速吹乾。"},
+   {"en": "Negative ions reduce static and frizz.", "zh": "負離子功能，中和靜電，減少毛躁。"},
+   {"en": "Three heat and two speed settings, for up to six combinations.", "zh": "3 段熱度及 2 段風速，組合出 6 種模式。"},
+   {"en": "Cool shot at about 35°C to set styles.", "zh": "約 35°C 冷風按鈕，固定造型。"},
+   {"en": "Thermostat and thermal fuse protect above 74°C ±10%.", "zh": "內置溫控器及熱熔斷器，超過 74°C±10% 時啟動保護。"},
+   {"en": "Removable metal filter cover for easy cleaning.", "zh": "金屬濾網蓋可拆卸清潔。"}
+  ],
+  "specs": [
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1700–2000W", "zh": "1700–2000W"}},
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220V–240V~, 50/60Hz", "zh": "220V–240V~，50/60Hz"}},
+   {"label": {"en": "Heat settings", "zh": "熱度檔位"}, "value": {"en": "3", "zh": "3 段"}},
+   {"label": {"en": "Speed settings", "zh": "風速檔位"}, "value": {"en": "2", "zh": "2 段"}},
+   {"label": {"en": "Cool shot", "zh": "冷風溫度"}, "value": {"en": "Approx. 35°C", "zh": "約 35°C"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "COHD002", "zh": "COHD002"}}
+  ],
+  "variants": [{"en": "Black", "zh": "黑色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hair dryer", "ionic hair dryer", "styling dryer", "personal care"]
+ },
+ {
+  "id": "npcb002",
+  "slug": "electric-cleaning-brush-npcb002",
+  "name": {"en": "Electric Cleaning Brush", "zh": "電動清潔刷"},
+  "tagline": {"en": "Less scrubbing. More shine.", "zh": "省力清潔，煥然一新。"},
+  "summary": {"en": "A powered cleaning brush that takes the effort out of household scrubbing. A practical choice for home-care ranges.", "zh": "電動清潔刷，減省家居刷洗的力氣，是家居清潔系列的實用之選。"},
+  "features": [
+   {"en": "Powered brush head reduces manual scrubbing.", "zh": "電動刷頭，減少人手刷洗。"},
+   {"en": "Designed for everyday household cleaning.", "zh": "專為日常家居清潔而設。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPCB002", "zh": "NPCB002"}}
+  ],
+  "variants": [{"en": "Green", "zh": "綠色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["electric cleaning brush", "power scrubber", "cleaning tool", "household cleaning"]
+ },
+ {
+  "id": "npek002",
+  "slug": "electric-pour-over-coffee-kettle-npek002",
+  "name": {"en": "Electric Pour-Over Coffee Kettle", "zh": "電熱手沖咖啡壺"},
+  "tagline": {"en": "A steady pour, every morning.", "zh": "穩定注水，每朝一杯。"},
+  "summary": {"en": "An electric kettle designed for pour-over coffee. A considered gift for coffee lovers and office pantries.", "zh": "專為手沖咖啡而設的電熱水壺，是咖啡愛好者及辦公室茶水間的理想禮品。"},
+  "features": [
+   {"en": "Electric heating designed for pour-over coffee brewing.", "zh": "電熱設計，專為手沖咖啡而設。"},
+   {"en": "Suited to home and office use.", "zh": "適合家居及辦公室使用。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPEK002", "zh": "NPEK002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["pour over kettle", "coffee kettle", "gooseneck kettle", "electric kettle"]
+ },
+ {
+  "id": "nppp24002",
+  "slug": "stainless-steel-low-pressure-pot-7l-nppp24002",
+  "name": {"en": "Stainless Steel Low-Pressure Pot, 7L", "zh": "不鏽鋼微壓鍋 7 公升"},
+  "tagline": {"en": "Gentle pressure. Generous meals.", "zh": "微壓慢煮，滋味豐盛。"},
+  "summary": {"en": "A 7-litre stainless steel low-pressure pot for family-sized cooking. A durable addition to any cookware range.", "zh": "7 公升不鏽鋼微壓鍋，適合家庭份量烹調，是耐用的廚具之選。"},
+  "features": [
+   {"en": "7-litre capacity for family meals.", "zh": "7 公升容量，適合家庭烹調。"},
+   {"en": "Stainless steel construction.", "zh": "不鏽鋼材質。"},
+   {"en": "Low-pressure cooking design.", "zh": "微壓烹調設計。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "7L", "zh": "7 公升"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Stainless steel", "zh": "不鏽鋼"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPPP24002", "zh": "NPPP24002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["pressure pot", "stainless steel pot", "cookware", "low pressure cooker"]
+ },
+ {
+  "id": "nptj004",
+  "slug": "wooden-handle-vacuum-flask-1-5l-nptj004",
+  "name": {"en": "Wooden-Handle Vacuum Flask, 1.5L", "zh": "木柄不鏽鋼長效保溫壺 1.5L"},
+  "tagline": {"en": "Warmth that lasts the whole table.", "zh": "長效保溫，滿桌共享。"},
+  "summary": {"en": "A 1.5-litre stainless steel vacuum flask with a wooden handle. An elegant gift for homes and office pantries.", "zh": "1.5 公升不鏽鋼保溫壺，配木質手柄，是家居及辦公室茶水間的雅緻禮品。"},
+  "features": [
+   {"en": "1.5-litre capacity for sharing.", "zh": "1.5 公升容量，方便分享。"},
+   {"en": "Stainless steel body with long-lasting insulation.", "zh": "不鏽鋼壺身，長效保溫。"},
+   {"en": "Wooden handle for a warm, natural touch.", "zh": "木質手柄，手感溫潤自然。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "1.5L", "zh": "1.5L"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Stainless steel, wooden handle", "zh": "不鏽鋼、木柄"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPTJ004", "zh": "NPTJ004"}}
+  ],
+  "variants": [{"en": "Blue", "zh": "藍色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["vacuum flask", "thermos jug", "insulated pitcher", "stainless steel flask"]
+ },
+ {
+  "id": "npmr001",
+  "slug": "cordless-electric-massager-npmr001",
+  "name": {"en": "Cordless Electric Massager", "zh": "無線電動按摩器"},
+  "tagline": {"en": "Relief, without the cord.", "zh": "無線隨心，即時舒緩。"},
+  "summary": {"en": "A cordless handheld massager for easy relief at home or in the office. A welcome wellness gift.", "zh": "無線手持按摩器，於家中或辦公室隨時舒緩，是受歡迎的健康禮品。"},
+  "features": [
+   {"en": "Cordless design for use anywhere.", "zh": "無線設計，隨處可用。"},
+   {"en": "Electric massage for everyday relaxation.", "zh": "電動按摩，日常放鬆。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPMR001", "zh": "NPMR001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["cordless massager", "electric massager", "handheld massager", "wellness gift"]
+ },
+ {
+  "id": "nprf007",
+  "slug": "oscillating-ionic-mist-air-cooler-nprf007",
+  "name": {"en": "Oscillating Ionic Mist Air Cooler", "zh": "旋轉負離子噴霧冷風機"},
+  "tagline": {"en": "Cool mist, turning gently.", "zh": "清涼水霧，輕柔旋送。"},
+  "summary": {"en": "An oscillating air cooler with mist spray and negative ions. A refreshing choice for homes and offices in warm weather.", "zh": "結合噴霧及負離子的旋轉冷風機，為炎夏中的家居及辦公室帶來清涼。"},
+  "features": [
+   {"en": "Rotating airflow for wider coverage.", "zh": "旋轉送風，覆蓋更廣。"},
+   {"en": "Mist spray for cooling.", "zh": "噴霧降溫。"},
+   {"en": "Negative ion function.", "zh": "負離子功能。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPRF007", "zh": "NPRF007"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["air cooler", "mist fan", "ionic fan", "oscillating cooler"]
+ },
+ {
+  "id": "m-df187e9c",
+  "slug": "non-stick-health-grill-skg1000b3",
+  "name": {"en": "Non-Stick Health Grill", "zh": "不黏塗層健康烤盤機"},
+  "tagline": {"en": "Simply grilled.", "zh": "簡單燒烤，健康之選。"},
+  "summary": {"en": "A 1000W contact grill with a non-stick plate, matt powder-coated housing and stainless steel detailing. Suited to retail kitchen-appliance ranges.", "zh": "1000W 健康烤盤機，配不黏烤盤、啞光粉末塗層外殼及不鏽鋼裝飾環，適合零售廚電系列。"},
+  "features": [
+   {"en": "1000W heating power.", "zh": "1000W 加熱功率。"},
+   {"en": "Grill plate with non-stick coating on the cooking surface.", "zh": "烤盤烹調面設有不黏塗層。"},
+   {"en": "Matt powder-coated housing.", "zh": "啞光粉末塗層外殼。"},
+   {"en": "Stainless steel decorative ring around the indicator light.", "zh": "指示燈配不鏽鋼裝飾環。"}
+  ],
+  "specs": [
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220–240V, 50Hz", "zh": "220–240V，50Hz"}},
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "1000W", "zh": "1000W"}},
+   {"label": {"en": "Power cord", "zh": "電源線"}, "value": {"en": "H05RR-F 3G 0.75mm²", "zh": "H05RR-F 3G 0.75mm²"}},
+   {"label": {"en": "Cord length", "zh": "電線長度"}, "value": {"en": "1m (without plug)", "zh": "1m（不連插頭）"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "SKG 1000 B3 / SOKG 1000 B3", "zh": "SKG 1000 B3 / SOKG 1000 B3"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["health grill", "contact grill", "electric grill", "non-stick grill"]
+ },
+ {
+  "id": "m-7a7c68af",
+  "slug": "hand-blender-set-ssms600e6",
+  "name": {"en": "600W Hand Blender Set", "zh": "600W 手提攪拌棒套裝"},
+  "tagline": {"en": "Quiet power, in one hand.", "zh": "單手掌握，安靜有力。"},
+  "summary": {"en": "A 600W hand blender set with a full-copper DC motor and low measured noise. Suited to retail kitchen-appliance ranges.", "zh": "600W 手提攪拌棒套裝，搭載全銅 DC 馬達，運作噪音低，適合零售廚電系列。"},
+  "features": [
+   {"en": "600W full-copper DC motor.", "zh": "600W 全銅 DC 馬達。"},
+   {"en": "Below 79dB blending 500ml of water in the measuring cup.", "zh": "量杯攪拌 500ml 水時噪音低於 79dB。"},
+   {"en": "Whisk runs below 70dB with no load.", "zh": "打蛋器空載噪音低於 70dB。"}
+  ],
+  "specs": [
+   {"label": {"en": "Voltage", "zh": "電壓"}, "value": {"en": "220–240V, 50–60Hz", "zh": "220–240V，50–60Hz"}},
+   {"label": {"en": "Power", "zh": "功率"}, "value": {"en": "600W", "zh": "600W"}},
+   {"label": {"en": "Motor", "zh": "馬達"}, "value": {"en": "DC full copper", "zh": "DC 全銅"}},
+   {"label": {"en": "Noise (500ml water)", "zh": "噪音（500ml 水）"}, "value": {"en": "<79dB", "zh": "<79dB"}},
+   {"label": {"en": "Noise (whisk, no load)", "zh": "噪音（打蛋器空載）"}, "value": {"en": "<70dB", "zh": "<70dB"}},
+   {"label": {"en": "Power cord", "zh": "電源線"}, "value": {"en": "H03VVH2-F 2 × 0.50mm²", "zh": "H03VVH2-F 2 × 0.50mm²"}},
+   {"label": {"en": "Cord length", "zh": "電線長度"}, "value": {"en": "1.5m (without plug)", "zh": "1.5m（不連插頭）"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "SSMS 600 E6", "zh": "SSMS 600 E6"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["hand blender", "stick blender", "immersion blender", "blender set"]
+ },
+ {
+  "id": "npmc004",
+  "slug": "multifunction-electric-health-pot-npmc004",
+  "name": {"en": "Multifunction Electric Health Pot", "zh": "多功能電熱養生壺"},
+  "tagline": {"en": "Tea, tonics and more, gently brewed.", "zh": "花茶湯水，慢火細煮。"},
+  "summary": {"en": "A multifunction electric pot for teas, tonics and warm drinks. A thoughtful gift for homes and offices.", "zh": "多功能電熱養生壺，可煮花茶、養生湯水及熱飲，是家居及辦公室的貼心禮品。"},
+  "features": [
+   {"en": "Electric heating for teas and warm drinks.", "zh": "電熱設計，適合煮茶及熱飲。"},
+   {"en": "Multifunction design for a range of brews.", "zh": "多功能設計，一壺兼顧多種飲品。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPMC004", "zh": "NPMC004"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["health pot", "electric tea kettle", "tea maker", "multifunction kettle"]
+ },
+ {
+  "id": "npwd002",
+  "slug": "electronic-instant-hot-water-dispenser-npwd002",
+  "name": {"en": "Electronic Instant Hot Water Dispenser", "zh": "電子即熱飲水機"},
+  "tagline": {"en": "Hot water, the moment you need it.", "zh": "即按即熱，隨時供應。"},
+  "summary": {"en": "An electronic instant hot water dispenser supplied with one filter. A practical choice for homes and office pantries.", "zh": "電子即熱飲水機，隨機附送濾芯一個，適合家居及辦公室茶水間。"},
+  "features": [
+   {"en": "Instant hot water on demand.", "zh": "即熱出水，隨用隨取。"},
+   {"en": "Supplied with one filter.", "zh": "隨機附送濾芯一個。"},
+   {"en": "Replacement filter: NPWD002a.", "zh": "替換濾芯型號：NPWD002a。"}
+  ],
+  "specs": [
+   {"label": {"en": "In the box", "zh": "配件"}, "value": {"en": "1 filter", "zh": "濾芯 1 個"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPWD002", "zh": "NPWD002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["water dispenser", "instant hot water", "filtered water", "office pantry"]
+ },
+ {
+  "id": "cbhb004",
+  "slug": "4-in-1-automatic-curling-brush-cbhb004",
+  "name": {"en": "4-in-1 Automatic Curling Brush", "zh": "四合一自動捲髮梳"},
+  "tagline": {"en": "Four styles. One brush.", "zh": "一梳四用，隨心造型。"},
+  "summary": {"en": "A 4-in-1 automatic curling brush for versatile styling at home. A polished personal-care gift.", "zh": "四合一自動捲髮梳，居家即可多變造型，是精緻的個人護理禮品。"},
+  "features": [
+   {"en": "Four-in-one design for versatile styling.", "zh": "四合一設計，造型多變。"},
+   {"en": "Automatic curling function.", "zh": "自動捲髮功能。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "CBHB004", "zh": "CBHB004"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["curling brush", "hair styler", "automatic curler", "personal care"]
+ },
+ {
+  "id": "npms002",
+  "slug": "cordless-electric-shaver-npms002",
+  "name": {"en": "Cordless Electric Shaver", "zh": "男士無線電鬚刨"},
+  "tagline": {"en": "A clean start, every day.", "zh": "每日清爽，從容出發。"},
+  "summary": {"en": "A cordless electric shaver for everyday grooming. A dependable gift for men.", "zh": "無線電鬚刨，適合日常理容，是穩妥實用的男士禮品。"},
+  "features": [
+   {"en": "Cordless design for convenient shaving.", "zh": "無線設計，剃鬚方便。"},
+   {"en": "Designed for everyday men's grooming.", "zh": "專為男士日常理容而設。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPMS002", "zh": "NPMS002"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["electric shaver", "cordless shaver", "men grooming", "razor"]
+ },
+ {
+  "id": "npms004",
+  "slug": "rechargeable-pocket-shaver-npms004",
+  "name": {"en": "Rechargeable Pocket Shaver", "zh": "充電式迷你電鬚刨"},
+  "tagline": {"en": "Small enough for every pocket.", "zh": "小巧隨身，隨時整潔。"},
+  "summary": {"en": "A compact rechargeable shaver for grooming on the go. An easy, practical gift for travel and everyday use.", "zh": "小巧充電式電鬚刨，方便隨身理容，是旅行及日常使用的實用禮品。"},
+  "features": [
+   {"en": "Rechargeable for cord-free use.", "zh": "充電式設計，無線使用。"},
+   {"en": "Mini size for travel and daily carry.", "zh": "迷你體積，旅行及日常隨身攜帶。"}
+  ],
+  "specs": [
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPMS004", "zh": "NPMS004"}}
+  ],
+  "variants": [{"en": "Blue", "zh": "藍色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["mini shaver", "pocket shaver", "rechargeable shaver", "travel grooming"]
+ },
+ {
+  "id": "npvc002",
+  "slug": "smart-display-titanium-tumbler-npvc002",
+  "name": {"en": "Smart Display Titanium Insulated Bottle", "zh": "智能數顯鈦鋼保溫杯"},
+  "tagline": {"en": "Pure titanium. Temperature at a glance.", "zh": "純鈦質感，溫度一目了然。"},
+  "summary": {"en": "A titanium insulated bottle, available with a smart temperature display. A premium drinkware gift for executives and clients.", "zh": "鈦金屬保溫杯，可選智能數顯款式，是送贈管理層及客戶的高端杯具禮品。"},
+  "features": [
+   {"en": "Titanium construction.", "zh": "鈦金屬材質。"},
+   {"en": "Insulated to keep drinks at temperature.", "zh": "保溫設計，維持飲品溫度。"},
+   {"en": "Smart digital display version available.", "zh": "設有智能數顯款式。"}
+  ],
+  "specs": [
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Titanium", "zh": "鈦金屬"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPVC002", "zh": "NPVC002"}}
+  ],
+  "variants": [
+   {"en": "Smart display, Silver", "zh": "智能數顯款・銀色"},
+   {"en": "Pure titanium flask, Silver", "zh": "純鈦保溫壺・銀色"},
+   {"en": "Pure titanium flask, Black", "zh": "純鈦保溫壺・黑色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["titanium bottle", "insulated bottle", "smart tumbler", "premium drinkware"]
+ },
+ {
+  "id": "npsp18001s",
+  "slug": "wooden-handle-yukihira-pan-steamer-npsp18001s",
+  "name": {"en": "Wooden-Handle Yukihira Pan with Steamer", "zh": "不鏽鋼木柄雪平鍋（附蒸籠）"},
+  "tagline": {"en": "Simmer, boil, steam. One pan.", "zh": "煮、燉、蒸，一鍋兼顧。"},
+  "summary": {"en": "A stainless steel yukihira pan with a wooden handle and a steamer insert. A versatile, giftable cookware piece.", "zh": "不鏽鋼雪平鍋，配木質手柄及蒸籠，用途多元，亦宜作禮品。"},
+  "features": [
+   {"en": "Stainless steel pan body.", "zh": "不鏽鋼鍋身。"},
+   {"en": "Wooden handle for a comfortable grip.", "zh": "木質手柄，握感舒適。"},
+   {"en": "Includes a steamer insert.", "zh": "附蒸籠。"}
+  ],
+  "specs": [
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "Stainless steel, wooden handle", "zh": "不鏽鋼、木柄"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPSP18001S", "zh": "NPSP18001S"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["yukihira pan", "saucepan", "steamer pot", "stainless steel cookware"]
+ },
+ {
+  "id": "nphcw32001",
+  "slug": "316-honeycomb-non-stick-wok-32cm-nphcw32001",
+  "name": {"en": "316 Stainless Honeycomb Non-Stick Wok, 32cm", "zh": "316 不鏽鋼蜂巢不黏炒鑊（32cm）"},
+  "tagline": {"en": "Steel strength. Non-stick ease.", "zh": "鋼之堅韌，不黏之便。"},
+  "summary": {"en": "A 32cm wok in 316 stainless steel with a honeycomb non-stick surface. A durable centrepiece for cookware ranges.", "zh": "32cm 316 不鏽鋼炒鑊，配蜂巢不黏表面，堅固耐用，是廚具系列的主打之選。"},
+  "features": [
+   {"en": "316 stainless steel construction.", "zh": "316 不鏽鋼材質。"},
+   {"en": "Honeycomb non-stick cooking surface.", "zh": "蜂巢紋不黏烹調面。"},
+   {"en": "32cm diameter for family-sized stir-frying.", "zh": "32cm 直徑，適合家庭份量炒煮。"}
+  ],
+  "specs": [
+   {"label": {"en": "Diameter", "zh": "直徑"}, "value": {"en": "32cm", "zh": "32cm"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "316 stainless steel", "zh": "316 不鏽鋼"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPHCW32001", "zh": "NPHCW32001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["wok", "honeycomb wok", "non-stick wok", "stainless steel cookware"]
+ },
+ {
+  "id": "nphcp26001",
+  "slug": "316-honeycomb-non-stick-frying-pan-26cm-nphcp26001",
+  "name": {"en": "316 Stainless Honeycomb Non-Stick Pan, 26cm", "zh": "316 不鏽鋼蜂巢不黏煎鍋（26cm）"},
+  "tagline": {"en": "An even sear, an easy release.", "zh": "煎得均勻，起鍋輕鬆。"},
+  "summary": {"en": "A 26cm frying pan in 316 stainless steel with a honeycomb non-stick surface. A durable everyday piece for cookware ranges.", "zh": "26cm 316 不鏽鋼煎鍋，配蜂巢不黏表面，堅固耐用，適合日常烹調。"},
+  "features": [
+   {"en": "316 stainless steel construction.", "zh": "316 不鏽鋼材質。"},
+   {"en": "Honeycomb non-stick cooking surface.", "zh": "蜂巢紋不黏烹調面。"},
+   {"en": "26cm diameter for everyday frying.", "zh": "26cm 直徑，適合日常煎煮。"}
+  ],
+  "specs": [
+   {"label": {"en": "Diameter", "zh": "直徑"}, "value": {"en": "26cm", "zh": "26cm"}},
+   {"label": {"en": "Material", "zh": "材質"}, "value": {"en": "316 stainless steel", "zh": "316 不鏽鋼"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPHCP26001", "zh": "NPHCP26001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["frying pan", "honeycomb pan", "non-stick pan", "stainless steel cookware"]
+ },
+ {
+  "id": "npwd001",
+  "slug": "instant-hot-water-dispenser-3l-npwd001",
+  "name": {"en": "Instant Hot Water Dispenser, 3L", "zh": "即熱式飲水機 3L"},
+  "tagline": {"en": "Filtered, hot, and ready.", "zh": "過濾即熱，隨時備用。"},
+  "summary": {"en": "A 3-litre instant hot water dispenser supplied with one filter. A practical choice for homes and office pantries.", "zh": "3 公升即熱式飲水機，隨機附送濾芯一個，適合家居及辦公室茶水間。"},
+  "features": [
+   {"en": "Instant hot water on demand.", "zh": "即熱出水，隨用隨取。"},
+   {"en": "3-litre water capacity.", "zh": "3 公升容量。"},
+   {"en": "Supplied with one filter; replacement model NPWD001a.", "zh": "隨機附送濾芯一個，替換濾芯型號 NPWD001a。"}
+  ],
+  "specs": [
+   {"label": {"en": "Capacity", "zh": "容量"}, "value": {"en": "3L", "zh": "3L"}},
+   {"label": {"en": "In the box", "zh": "配件"}, "value": {"en": "1 filter", "zh": "濾芯 1 個"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPWD001", "zh": "NPWD001"}}
+  ],
+  "variants": [{"en": "Standard", "zh": "標準款"}],
+  "certs": [],
+  "giftable": false,
+  "keywords": ["water dispenser", "instant hot water", "filtered water", "office pantry"]
+ },
+ {
+  "id": "npdh004",
+  "slug": "compact-semiconductor-dehumidifier-npdh004",
+  "name": {"en": "Compact Semiconductor Dehumidifier", "zh": "半導體除濕機"},
+  "tagline": {"en": "Drier air, quietly.", "zh": "靜靜除濕，空氣清爽。"},
+  "summary": {"en": "A compact semiconductor dehumidifier for bedrooms, wardrobes and small offices. Available in white and black.", "zh": "小巧半導體除濕機，適用於睡房、衣櫃及小型辦公室，提供白色及黑色。"},
+  "features": [
+   {"en": "Semiconductor dehumidifying technology.", "zh": "半導體除濕技術。"},
+   {"en": "Compact size for small spaces.", "zh": "小巧體積，適合細小空間。"}
+  ],
+  "specs": [
+   {"label": {"en": "Technology", "zh": "技術"}, "value": {"en": "Semiconductor", "zh": "半導體"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPDH004", "zh": "NPDH004"}}
+  ],
+  "variants": [
+   {"en": "White", "zh": "白色"},
+   {"en": "Black", "zh": "黑色"}
+  ],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["dehumidifier", "mini dehumidifier", "semiconductor dehumidifier", "moisture control"]
+ },
+ {
+  "id": "npks0002",
+  "slug": "mini-bluetooth-speaker-dual-mic-npks0002",
+  "name": {"en": "Mini Bluetooth Speaker with Dual Mics", "zh": "迷你雙咪藍牙喇叭（方形）"},
+  "tagline": {"en": "Two voices. One small speaker.", "zh": "雙咪合唱，小巧開聲。"},
+  "summary": {"en": "A compact square Bluetooth speaker with two wireless microphones for duets. A lively giveaway for parties and team events.", "zh": "小巧方形藍牙喇叭，附兩支無線咪高峰可同時使用，是派對及團隊活動的趣味贈品。"},
+  "features": [
+   {"en": "Includes two wireless microphones.", "zh": "附兩支無線咪高峰。"},
+   {"en": "Both microphones can be used at the same time.", "zh": "兩支咪高峰可同時使用。"},
+   {"en": "Compact square design.", "zh": "小巧方形設計。"}
+  ],
+  "specs": [
+   {"label": {"en": "Microphones", "zh": "咪高峰"}, "value": {"en": "2 wireless", "zh": "2 支無線"}},
+   {"label": {"en": "Model", "zh": "型號"}, "value": {"en": "NPKS0002", "zh": "NPKS0002"}}
+  ],
+  "variants": [{"en": "White", "zh": "白色"}],
+  "certs": [],
+  "giftable": true,
+  "keywords": ["bluetooth speaker", "karaoke speaker", "dual microphone", "mini speaker"]
+ }
+]

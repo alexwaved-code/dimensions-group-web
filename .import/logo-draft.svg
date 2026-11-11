@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" width="1400" height="520">
+  <rect width="1400" height="260" fill="#fbfbfd"/>
+  <rect y="260" width="1400" height="260" fill="#000"/>
+  <defs>
+    <g id="mark" fill="none" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M17 5 V41 H29 A18 18 0 0 0 29 5" stroke-width="0.9" opacity="0.45"/>
+      <path d="M10 12 L17 5 M22 12 L29 5 M10 48 L17 41" stroke-width="0.9" opacity="0.45"/>
+      <path d="M10 12 V48 H22 A18 18 0 0 0 22 12 Z" stroke-width="3"/>
+    </g>
+  </defs>
+  <g transform="translate(70,40) scale(3.4)" stroke="#1d1d1f"><use href="#mark"/></g>
+  <g transform="translate(70,40) scale(3.4)" fill="none"><path d="M10 12 V48 H22 A18 18 0 0 0 40 30" stroke="#b8975a" stroke-width="3" stroke-dasharray="14 300" stroke-dashoffset="-70" stroke-linecap="round"/></g>
+  <text x="270" y="128" font-family="Helvetica Neue, Helvetica, Arial" font-size="58" font-weight="500" letter-spacing="14" fill="#1d1d1f">DIMENSIONS</text>
+  <text x="272" y="180" font-family="Helvetica Neue, Helvetica, Arial" font-size="24" font-weight="400" letter-spacing="17" fill="#6e6e73">GROUP CO. LIMITED</text>
+
+  <g transform="translate(70,300) scale(3.4)" stroke="#f5f5f7"><use href="#mark"/></g>
+  <text x="270" y="388" font-family="Helvetica Neue, Helvetica, Arial" font-size="58" font-weight="500" letter-spacing="14" fill="#f5f5f7">DIMENSIONS</text>
+  <text x="272" y="440" font-family="Helvetica Neue, Helvetica, Arial" font-size="24" font-weight="400" letter-spacing="17" fill="#c9a96e">GROUP CO. LIMITED</text>
+
+  <g transform="translate(1100,50) scale(2.6)" stroke="#1d1d1f"><use href="#mark"/></g>
+  <g transform="translate(1100,300) scale(2.6)" stroke="#c9a96e"><use href="#mark"/></g>
+</svg>

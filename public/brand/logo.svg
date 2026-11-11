@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" width="560" height="120">
+  <g transform="translate(6 6) scale(2)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M17 5 V41 H29 A18 18 0 0 0 29 5 M10 12 L17 5 M22 12 L29 5 M10 48 L17 41" stroke="#1d1d1f" stroke-width="0.9" opacity="0.45"/>
+    <path d="M10 12 V48 H22 A18 18 0 0 0 22 12 Z" stroke="#1d1d1f" stroke-width="3"/>
+    <path d="M22 48 A18 18 0 0 0 39.6 34" stroke="#b8975a" stroke-width="3"/>
+  </g>
+  <text x="122" y="64" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="38" font-weight="500" letter-spacing="10" fill="#1d1d1f">DIMENSIONS</text>
+  <text x="123" y="96" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="11" fill="#6e6e73">GROUP CO. LIMITED</text>
+</svg>

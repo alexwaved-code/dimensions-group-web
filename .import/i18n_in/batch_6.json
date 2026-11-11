@@ -1,0 +1,1087 @@
+[
+ {
+  "id": "npks0001",
+  "category": "power-audio",
+  "nameZh": "迷你雙咪藍牙喇叭",
+  "variants": [
+   {
+    "sku": "NPKS0001BG",
+    "title": "迷你雙咪藍牙喇叭",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "此產品含兩個無線咪高峰 （可同時使用）"
+  ],
+  "specs": []
+ },
+ {
+  "id": "npsp18001",
+  "category": "cookware",
+  "nameZh": "不鏽鋼木柄雪平鍋 18cm",
+  "variants": [
+   {
+    "sku": "NPSP18001",
+    "title": "不鏽鋼木柄雪平鍋 18cm",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "npps002",
+  "category": "power-audio",
+  "nameZh": "QC3.0/PD20W 2A1C 快充拖板 (8位)",
+  "variants": [
+   {
+    "sku": "NPPS002WH",
+    "title": "QC3.0/PD20W 2A1C 快充拖板 (8位)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "電源線長度：2米"
+  ],
+  "specs": []
+ },
+ {
+  "id": "npps004",
+  "category": "power-audio",
+  "nameZh": "直立式拖板 (9插座)",
+  "variants": [
+   {
+    "sku": "NPPS004BK",
+    "title": "直立式拖板 (9插座)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "npps003",
+  "category": "power-audio",
+  "nameZh": "直立式拖板 (5插座)",
+  "variants": [
+   {
+    "sku": "NPPS003BK",
+    "title": "直立式拖板 (5插座)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "nptj003",
+  "category": "drinkware",
+  "nameZh": "316不銹鋼真空保溫壺 1500ml",
+  "variants": [
+   {
+    "sku": "NPTJ003",
+    "title": "316不銹鋼真空保溫壺 1500ml",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "nppp24001",
+  "category": "cookware",
+  "nameZh": "不銹鋼微壓鍋 5公升",
+  "variants": [
+   {
+    "sku": "NPPP24001",
+    "title": "不銹鋼微壓鍋 5公升",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clvc003",
+  "category": "home-care",
+  "nameZh": "BLDC 無線迷你手提吸塵機",
+  "variants": [
+   {
+    "sku": "CLVC003BK",
+    "title": "BLDC 無線迷你手提吸塵機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "高速旋風吸力",
+   "內建高速無刷馬達，轉速高達14500 RPM，瞬間產生強勁吸力，能徹底清除餅乾屑、灰塵等肉眼難見的細微污渍。",
+   "兩檔吸力調節",
+   "提供高效模式（最長16分鐘）與節能ECO模式（最長30分鐘）兩種選擇，可根據清潔需求自由切換。",
+   "2500mAh容量鋰電池",
+   "配備兩顆高品質鋰電池，並採用Type-C充電接口，充電便利，續航力持久。",
+   "130ml可水洗集塵盒",
+   "集塵盒與過濾網均可拆卸水洗，輕鬆保持機體內部清潔，避免二次污染，重複使用更環保經濟。",
+   "多場景適用與完整配件",
+   "隨附長嘴吸頭與扁口植毛刷兩款吸頭，能深入清潔狹窄縫隙、織物褶皺等難觸及角落，滿足車用、家居、酒店、戶外等多種情境的清潔需求。"
+  ],
+  "specs": [
+   {
+    "label": "最高轉速",
+    "value": "14500 RPM"
+   },
+   {
+    "label": "電池類型",
+    "value": "鋰離子電池 (2500mAh x 2 / 18.5Wh)"
+   },
+   {
+    "label": "續航時間",
+    "value": "高效模式約16分鐘 / ECO模式約30分鐘"
+   },
+   {
+    "label": "集塵盒容量",
+    "value": "130 ml"
+   },
+   {
+    "label": "充電方式",
+    "value": "Type-C 接口"
+   },
+   {
+    "label": "尺寸",
+    "value": "232 x 55 x 55 mm"
+   },
+   {
+    "label": "重量",
+    "value": "約 315g"
+   },
+   {
+    "label": "",
+    "value": "配件："
+   },
+   {
+    "label": "",
+    "value": "主機 x 1"
+   },
+   {
+    "label": "",
+    "value": "長嘴吸頭 x 1"
+   },
+   {
+    "label": "",
+    "value": "扁口植毛刷 x 1"
+   },
+   {
+    "label": "",
+    "value": "充電線 x 1"
+   },
+   {
+    "label": "",
+    "value": "使用說明書 x 1"
+   }
+  ]
+ },
+ {
+  "id": "npht002",
+  "category": "climate",
+  "nameZh": "1000W 座枱陶瓷暖風機 (方形)",
+  "variants": [
+   {
+    "sku": "NPHT002WH",
+    "title": "1000W 座枱陶瓷暖風機 (方形)",
+    "colour": null,
+    "design": null
+   },
+   {
+    "sku": "NPHT002WH",
+    "title": "迷你陶瓷暖風機 (圓形)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "1000W功率",
+   "2檔溫度選擇",
+   "過熱及傾倒斷電保護"
+  ],
+  "specs": []
+ },
+ {
+  "id": "m-033d22a4",
+  "category": "aroma",
+  "nameZh": "岩鹽板－長方形(小) (一塊)",
+  "variants": [
+   {
+    "sku": "",
+    "title": "岩鹽板－長方形(小) (一塊)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "m-b99a8300",
+  "category": "aroma",
+  "nameZh": "岩鹽板－長方形(大) (一塊)",
+  "variants": [
+   {
+    "sku": "",
+    "title": "岩鹽板－長方形(大) (一塊)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "大小: 30*20*5cm"
+  ],
+  "specs": []
+ },
+ {
+  "id": "m-790ce1b9",
+  "category": "aroma",
+  "nameZh": "浴鹽 - 樽裝100g (一樽)",
+  "variants": [
+   {
+    "sku": "",
+    "title": "浴鹽 - 樽裝100g (一樽)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cbss001",
+  "category": "aroma",
+  "nameZh": "鹽皂－橢圓形",
+  "variants": [
+   {
+    "sku": "CBSS001",
+    "title": "鹽皂－橢圓形",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cbss002",
+  "category": "aroma",
+  "nameZh": "鹽皂－心形",
+  "variants": [
+   {
+    "sku": "CBSS002",
+    "title": "鹽皂－心形",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cbss003",
+  "category": "aroma",
+  "nameZh": "鹽皂－元寶",
+  "variants": [
+   {
+    "sku": "CBSS003",
+    "title": "鹽皂－元寶",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cbss004",
+  "category": "aroma",
+  "nameZh": "鹽皂 - 錐條",
+  "variants": [
+   {
+    "sku": "CBSS004",
+    "title": "鹽皂 - 錐條",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsc005",
+  "category": "aroma",
+  "nameZh": "鹽燭台 - 心形",
+  "variants": [
+   {
+    "sku": "CLSC005",
+    "title": "鹽燭台 - 心形",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsc004",
+  "category": "aroma",
+  "nameZh": "鹽燭台 - 圓柱",
+  "variants": [
+   {
+    "sku": "CLSC004",
+    "title": "鹽燭台 - 圓柱",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsc001",
+  "category": "aroma",
+  "nameZh": "鹽燭台 - 方形",
+  "variants": [
+   {
+    "sku": "CLSC001",
+    "title": "鹽燭台 - 方形",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsc002",
+  "category": "aroma",
+  "nameZh": "鹽燭台 - 太極",
+  "variants": [
+   {
+    "sku": "CLSC002",
+    "title": "鹽燭台 - 太極",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsc003",
+  "category": "aroma",
+  "nameZh": "鹽燭台 - 花",
+  "variants": [
+   {
+    "sku": "CLSC003",
+    "title": "鹽燭台 - 花",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "npcmfsm001",
+  "category": "wellness",
+  "nameZh": "摺疊式恆溫加熱足浴盤",
+  "variants": [
+   {
+    "sku": "NPCMFSM001",
+    "title": "摺疊式恆溫加熱足浴盤",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clad002",
+  "category": "aroma",
+  "nameZh": "半木紋香薰機",
+  "variants": [
+   {
+    "sku": "CLAD002",
+    "title": "半木紋香薰機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "功能與特色:",
+   "半透明磨砂外殼: 除以香薰機或加濕器使用外, 還可用作床頭燈。",
+   "超聲波霧化技術: 細膩霧化，快速釋放香氣，同時提升空氣濕度，讓環境更舒適。",
+   "多檔調節: 支援多種霧量輸出，適應不同使用需求。",
+   "靜音運行: 噪音低至幾乎不可聞，營造安靜舒適的環境。",
+   "智能與便捷設計:",
+   "一鍵操控: 簡單易用，輕鬆切換功能。",
+   "自動斷電保護: 當水位過低時自動停止運行，安全更省心。"
+  ],
+  "specs": []
+ },
+ {
+  "id": "clsl002",
+  "category": "aroma",
+  "nameZh": "鹽燈 - 球形",
+  "variants": [
+   {
+    "sku": "CLSL002",
+    "title": "鹽燈 - 球形",
+    "colour": null,
+    "design": null
+   },
+   {
+    "sku": "CLSL002",
+    "title": "鹽燈 - 葉形金屬籃",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsl001",
+  "category": "aroma",
+  "nameZh": "鹽燈 - USB 透明圓柱",
+  "variants": [
+   {
+    "sku": "CLSL001",
+    "title": "鹽燈 - USB 透明圓柱",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsl004",
+  "category": "aroma",
+  "nameZh": "鹽燈 - 圓柱金屬籃",
+  "variants": [
+   {
+    "sku": "CLSL004",
+    "title": "鹽燈 - 圓柱金屬籃",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsl003",
+  "category": "aroma",
+  "nameZh": "鹽燈 - 長方形",
+  "variants": [
+   {
+    "sku": "CLSL003",
+    "title": "鹽燈 - 長方形",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "clsl006",
+  "category": "aroma",
+  "nameZh": "鹽燈 - 自然款",
+  "variants": [
+   {
+    "sku": "CLSL006",
+    "title": "鹽燈 - 自然款",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "m-a31161f0",
+  "category": "kitchen",
+  "nameZh": "充電迷你多功能切碎機 / 打蛋器",
+  "variants": [
+   {
+    "sku": "",
+    "title": "充電迷你多功能切碎機 / 打蛋器 (粉紅色)",
+    "colour": "Pink",
+    "design": null
+   },
+   {
+    "sku": "",
+    "title": "充電迷你多功能切碎機 / 打蛋器 (綠色)",
+    "colour": "Green",
+    "design": null
+   },
+   {
+    "sku": "",
+    "title": "充電迷你多功能切碎機 / 打蛋器 (白色)",
+    "colour": "White",
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "npcb001",
+  "category": "home-care",
+  "nameZh": "電動清潔刷",
+  "variants": [
+   {
+    "sku": "NPCB001YL",
+    "title": "電動清潔刷 (黃色)",
+    "colour": "Yellow",
+    "design": null
+   },
+   {
+    "sku": "NPCB001WH",
+    "title": "電動清潔刷 (白色)",
+    "colour": "White",
+    "design": null
+   },
+   {
+    "sku": "NPCB001BL",
+    "title": "電動清潔刷 (藍色)",
+    "colour": "Blue",
+    "design": null
+   }
+  ],
+  "features": [
+   "尼龍刷頭/海棉刷頭/百潔布 三合一",
+   "800mah電池 120分鐘續航",
+   "IPX7防水"
+  ],
+  "specs": []
+ },
+ {
+  "id": "hepa-npwdmvc001rd-bu-uv",
+  "category": "accessories",
+  "nameZh": "HEPA濾網 (NPWDMVC001RD / BU 無線UV除塵蟎機)",
+  "variants": [
+   {
+    "sku": "",
+    "title": "HEPA濾網 (NPWDMVC001RD / BU 無線UV除塵蟎機)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "適用於NPWDMVC001RD / BU 無線UV除塵蟎機",
+   "符合HEPA過濾標準"
+  ],
+  "specs": []
+ },
+ {
+  "id": "codc001a",
+  "category": "accessories",
+  "nameZh": "HEPA 濾網 (CODC001塵蟎機)",
+  "variants": [
+   {
+    "sku": "CODC001a",
+    "title": "HEPA 濾網 (CODC001塵蟎機)",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "適用於CODC001 手提有線除塵蟎吸塵機",
+   "符合HEPA過濾標準"
+  ],
+  "specs": []
+ },
+ {
+  "id": "m-21aeacdd",
+  "category": "accessories",
+  "nameZh": "尼龍刷頭",
+  "variants": [
+   {
+    "sku": "",
+    "title": "尼龍刷頭",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "適用於NPCB001 多用途清潔刷"
+  ],
+  "specs": []
+ },
+ {
+  "id": "m-a265dc42",
+  "category": "accessories",
+  "nameZh": "百潔布刷頭",
+  "variants": [
+   {
+    "sku": "",
+    "title": "百潔布刷頭",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "適用於NPCB001 多用途清潔刷"
+  ],
+  "specs": []
+ },
+ {
+  "id": "m-128c11ac",
+  "category": "accessories",
+  "nameZh": "海棉刷頭",
+  "variants": [
+   {
+    "sku": "",
+    "title": "海棉刷頭",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "適用於NPCB001 多用途清潔刷"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cchm003",
+  "category": "kitchen",
+  "nameZh": "500W 數碼控制手持式攪拌/ 打麵粉器",
+  "variants": [
+   {
+    "sku": "CCHM003",
+    "title": "500W 數碼控制手持式攪拌/ 打麵粉器",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "500W 高效動力：應對濃稠食材也能輕鬆攪拌",
+   "機頂配置 LED 螢幕，電子控板，實時顯示操作時間與轉速",
+   "DC 低噪純銅電機：低噪高效、運轉穩定",
+   "五段變速 + Turbo 加速功能：靈活控制轉速，操作更精準",
+   "柔速起動設計：初始轉速約 650 rpm（±20%），起動時不飛濺、不震手，相較傳統 AC 馬達啟動更緩和、更穩定，攪拌更安心",
+   "專屬退棒安全機制：僅在關機時可釋放攪拌棒，避免誤操作",
+   "標配雙不鏽鋼配件：一對不鏽鋼打蛋棒 + 一對不鏽鋼麵糰鉤，適用不同材料",
+   "簡潔操作面板：三鍵設計（加速／減速／ Turbo）與獨立開關，易於上手",
+   "連續工作時間：可穩定運作約 10 分鐘",
+   "產品安全與標準："
+  ],
+  "specs": []
+ },
+ {
+  "id": "cchb001",
+  "category": "kitchen",
+  "nameZh": "1000W 數碼手提攪拌棒",
+  "variants": [
+   {
+    "sku": "CCHB001",
+    "title": "1000W 數碼手提攪拌棒",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "1000W 全銅直流摩打：動力強勁、運轉穩定，靜音耐用",
+   "數碼面板：機頂 LED 螢幕，即時顯示運作時間與轉速",
+   "五段變速旋鈕及加速鍵：依食材調整轉速，操作靈活準確",
+   "TPE 防滑按鈕：手感舒適易掌握",
+   "可拆式不鏽鋼攪拌棒：四葉刀頭＋霧面質感，堅固並且好清潔",
+   "快速接口設計：卡榫式插拔，拆裝快速不費力",
+   "緊湊輕巧機身：機身輕盈，適合長時間手持操作",
+   "連續工作時間：可穩定運作約 1 分鐘",
+   "產品安全與標準",
+   "通過 德國 LFGB 食品接觸安全認證，使用安心無異味"
+  ],
+  "specs": []
+ },
+ {
+  "id": "ccim003",
+  "category": "kitchen",
+  "nameZh": "雪糕製造機 0.5L",
+  "variants": [
+   {
+    "sku": "CCIM003",
+    "title": "雪糕製造機 0.5L",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "coac002",
+  "category": "climate",
+  "nameZh": "二合一無線桌面冷風機",
+  "variants": [
+   {
+    "sku": "COAC002",
+    "title": "二合一無線桌面冷風機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "放入冰水吹出冷風",
+   "具備加濕功能",
+   "體積小巧 適合細小房間使用 節能省電",
+   "Micro－usb充電",
+   "2000mah電池",
+   "功率：10W"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cohb003",
+  "category": "personal-care",
+  "nameZh": "充電式無線卷髮梳",
+  "variants": [
+   {
+    "sku": "COHB003",
+    "title": "充電式無線卷髮梳",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "PTC 陶瓷發熱",
+   "22mm 捲髮筒",
+   "4000mAh 電池",
+   "3段溫度控制：160℃ , 180℃ , 200℃",
+   "充電時間約 3小時",
+   "60秒 加熱至 60℃",
+   "使用時間約 30分鐘",
+   "Type-C 充電"
+  ],
+  "specs": []
+ },
+ {
+  "id": "ccim001",
+  "category": "kitchen",
+  "nameZh": "雪糕製造機 1.5L",
+  "variants": [
+   {
+    "sku": "CCIM001",
+    "title": "雪糕製造機 1.5L",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cohb002",
+  "category": "personal-care",
+  "nameZh": "迷你充電髮梳",
+  "variants": [
+   {
+    "sku": "COHB002PK",
+    "title": "迷你充電髮梳 (粉紅色)",
+    "colour": "Pink",
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "m-7700816f",
+  "category": "personal-care",
+  "nameZh": "無刷BLDC摩打高速負離子風筒",
+  "variants": [
+   {
+    "sku": "",
+    "title": "無刷BLDC摩打高速負離子風筒",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cohd003",
+  "category": "personal-care",
+  "nameZh": "無刷高速靜音風筒",
+  "variants": [
+   {
+    "sku": "COHD003GY",
+    "title": "無刷高速靜音風筒(灰色)",
+    "colour": "Grey",
+    "design": null
+   },
+   {
+    "sku": "COHD003WH",
+    "title": "無刷高速靜音風筒(白色)",
+    "colour": "White",
+    "design": null
+   },
+   {
+    "sku": "COHD003BL",
+    "title": "無刷高速靜音風筒(黑色)",
+    "colour": "Black",
+    "design": null
+   }
+  ],
+  "features": [
+   "1300W 功率 （風量可與2000W傳統風筒相比）",
+   "全新 BLDC 無碳刷摩打設計，髮型屋首選，速乾柔順無毛躁",
+   "摩打每分鐘轉速近 10萬",
+   "3段溫度，3 段風速選擇",
+   "即時冷風按鈕",
+   "冷熱循環模式",
+   "負離子每立方厘米高達 2000萬"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cctb002",
+  "category": "kitchen",
+  "nameZh": "智能破壁豆漿機 350ml",
+  "variants": [
+   {
+    "sku": "CCTB002",
+    "title": "智能破壁豆漿機 350ml",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cccp005",
+  "category": "kitchen",
+  "nameZh": "智能迷你電煮鍋 1.5L (有柄)",
+  "variants": [
+   {
+    "sku": "CCCP005",
+    "title": "智能迷你電煮鍋 1.5L (有柄)",
+    "colour": null,
+    "design": null
+   },
+   {
+    "sku": "CCCP005",
+    "title": "多功能迷你電煮鍋 1.5L (白色) (有柄)",
+    "colour": "White",
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cohs004",
+  "category": "personal-care",
+  "nameZh": "充電式直髮器",
+  "variants": [
+   {
+    "sku": "COHS004",
+    "title": "充電式直髮器",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "PTC陶瓷浮動發熱板",
+   "4000mAh電池",
+   "3段溫度控制：160℃ , 180℃ , 200℃",
+   "充電時間約3小時",
+   "60秒加熱至120℃",
+   "使用時間約25分鐘（最高溫度）",
+   "Type C充電"
+  ],
+  "specs": []
+ },
+ {
+  "id": "ccpm001",
+  "category": "kitchen",
+  "nameZh": "迷你爆谷機",
+  "variants": [
+   {
+    "sku": "CCPM001",
+    "title": "迷你爆谷機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "產品尺寸：14.3 x 26.8 x 16.0cm",
+   "重量：0.75 kg",
+   "迷你爆谷機-2分鐘可制作出 60g 爆谷-防滑底部-蓋罩可用作量杯-清洗方便-功率1200W適用於派對, 咖啡廳, 家庭, 酒吧"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cohs001",
+  "category": "personal-care",
+  "nameZh": "鍍鈦金屬直髮捲髮器",
+  "variants": [
+   {
+    "sku": "COHS001",
+    "title": "鍍鈦金屬直髮捲髮器",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "頂級鍍鈦合金面板：採用浮動式鈦鍍層面板（尺寸25×120mm），無縫貼合髮絲紋理，導熱快速均勻，有效減少拉扯摩擦，塑造亮麗順滑造型。",
+   "60 秒急速升溫：搭載高效PTC 發熱器，無需漫長等待，即可快速達到設定溫度。",
+   "9 段精準溫控（150-230°C）：寬廣溫度範圍滿足各種髮質需求，細軟、受損或粗硬髮質皆能找到專屬溫度，減少熱傷害。",
+   "智能LED 溫度顯示：清晰顯示即時溫度，助您輕鬆掌控最適造型熱度。",
+   "360 度旋轉電源線：使用時線材不易纏繞，操作更順手。配備附掛環的電源線，收納簡便。",
+   "智慧安全防護： 具備1 小時自動斷電保護功能，避免因疏忽忘記關閉而導致意外，使用更安心。"
+  ],
+  "specs": [
+   {
+    "label": "功率",
+    "value": "45W"
+   },
+   {
+    "label": "電壓功率",
+    "value": "220V-240V~, 50/60Hz"
+   },
+   {
+    "label": "浮動板尺寸",
+    "value": "25×120mm"
+   },
+   {
+    "label": "插頭規格",
+    "value": "VDE 插1.8 米橡膠線材"
+   }
+  ]
+ },
+ {
+  "id": "ccim002",
+  "category": "kitchen",
+  "nameZh": "雪糕製造機 0.3L",
+  "variants": [
+   {
+    "sku": "CCIM002",
+    "title": "雪糕製造機 0.3L",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "codc001",
+  "category": "home-care",
+  "nameZh": "手提除塵蟎吸塵機",
+  "variants": [
+   {
+    "sku": "CODC001",
+    "title": "手提除塵蟎吸塵機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [],
+  "specs": []
+ },
+ {
+  "id": "cofh001",
+  "category": "climate",
+  "nameZh": "500W 迷你陶瓷暖風機",
+  "variants": [
+   {
+    "sku": "COFH001",
+    "title": "500W 迷你陶瓷暖風機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "產品型號：COFH001",
+   "500W迷你陶瓷加熱器溫度控制 PTC發熱體集成過熱保護ABS/PC 塑料外殼150m 帶插頭電纜帶有電源指示燈傾倒斷電保護單元尺寸：11.3x9.5x17.3cm"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cooi001",
+  "category": "personal-care",
+  "nameZh": "水牙線機",
+  "variants": [
+   {
+    "sku": "COOI001",
+    "title": "水牙線機",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "4支噴頭-5種噴水設定-600ml水箱-IPX4防水"
+  ],
+  "specs": []
+ },
+ {
+  "id": "coad001",
+  "category": "aroma",
+  "nameZh": "3D煙花玻璃香薰機",
+  "variants": [
+   {
+    "sku": "COAD001SL",
+    "title": "3D煙花玻璃香薰機 (銀色)",
+    "colour": "Silver",
+    "design": null
+   },
+   {
+    "sku": "COAD001GL",
+    "title": "3D煙花玻璃香薰機 (金色)",
+    "colour": "Gold",
+    "design": null
+   }
+  ],
+  "features": [
+   "產品型號：COAD001SL",
+   "三大功能- 加濕 (趕走乾燥)- 香薰 (減壓) - 營造氣氛 (浪漫情調) 漸變燈光顏色 可選燈光顏色 缺水自動斷電時間控制容量:100ml線長:180cm附送兩支香薰精油(檸檬草及薰衣草香味)適合派對，裝飾，睡房，浪漫約會，客廳，spa房間，酒店"
+  ],
+  "specs": []
+ },
+ {
+  "id": "cbsm001",
+  "category": "wellness",
+  "nameZh": "電動刮痧儀 臉部微電流按摩器",
+  "variants": [
+   {
+    "sku": "CBSM001",
+    "title": "電動刮痧儀 臉部微電流按摩器",
+    "colour": null,
+    "design": null
+   }
+  ],
+  "features": [
+   "1. 微電流提拉緊面膚塑顏，震動醒膚導入營養精華，溫熱嫩膚溫熱活絡",
+   "2.緊致V面的離子肌電刺激，EMS電流激活面部肌肉，肌膚明顯變緊實，細紋也淡化",
+   "3. 淡化頸紋，舒緩浮腫-微電流輔助按壓，肌活按壓，緩解肌膚下垂",
+   "4.恆溫潤膚，促使循環-通過物理熱效應使肌肉放鬆，釋放壓力，舒緩疲勞",
+   "5. 五檔震動調節，搭配不同護膚品，選擇不同檔位力促營養吸收",
+   "6. 「多部位」適用，健康從此開始-刮痧祛濕，清通淋巴，在家也能享受美容院高效療程",
+   "產品型號：CBKD817",
+   "產品尺寸 : 138 x 66 x 20mm",
+   "凈重: 61g",
+   "USB 充電"
+  ],
+  "specs": []
+ }
+]
